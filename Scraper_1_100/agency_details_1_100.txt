@@ -1,0 +1,4756 @@
+Page 1 - Agency ID: eadAllAgenciesForm:allAgenciesList:0:j_id_16_57
+Agency Name: 1 & ONLY RECRUITMENT PTE. LTD. (24C2259)
+Agency Details: Main Branch:
+112, ROBINSON ROAD, #03-02, ROBINSON 112, Singapore - 068902
+88833145
+
+Page 1 - Agency ID: eadAllAgenciesForm:allAgenciesList:1:j_id_16_57
+Agency Name: 365 EMPLOYMENT AGENCY PTE. LTD. (23C1633)
+Agency Details: Main Branch:
+316B, PUNGGOL WAY, #05-719, WATERWAY CASCADIA, Singapore - 822316
+93691511
+
+Page 1 - Agency ID: eadAllAgenciesForm:allAgenciesList:2:j_id_16_57
+Agency Name: 5ZAL MANPOWER SERVICE PTE. LTD. (23C1938)
+Agency Details: Main Branch:
+32, ANG MO KIO INDUSTRIAL PARK 2, #05-01, SING INDUSTRIAL COMPLEX, Singapore - 569510
+88230304
+
+Page 1 - Agency ID: eadAllAgenciesForm:allAgenciesList:0:j_id_16_57
+Agency Name: 1 & ONLY RECRUITMENT PTE. LTD. (24C2259)
+Agency Details: Main Branch:
+112, ROBINSON ROAD, #03-02, ROBINSON 112, Singapore - 068902
+88833145
+
+Page 1 - Agency ID: eadAllAgenciesForm:allAgenciesList:1:j_id_16_57
+Agency Name: 365 EMPLOYMENT AGENCY PTE. LTD. (23C1633)
+Agency Details: Main Branch:
+316B, PUNGGOL WAY, #05-719, WATERWAY CASCADIA, Singapore - 822316
+93691511
+
+Page 1 - Agency ID: eadAllAgenciesForm:allAgenciesList:2:j_id_16_57
+Agency Name: 5ZAL MANPOWER SERVICE PTE. LTD. (23C1938)
+Agency Details: Main Branch:
+32, ANG MO KIO INDUSTRIAL PARK 2, #05-01, SING INDUSTRIAL COMPLEX, Singapore - 569510
+88230304
+
+Page 1 - Agency ID: eadAllAgenciesForm:allAgenciesList:3:j_id_16_57
+Agency Name: ABER CARE PTE. LTD. (18C9070)
+Agency Details: Main Branch:
+1, THOMSON ROAD, #04-346G, BALESTIER HILL SHOPPING CENTRE, Singapore - 300001
+67219231
+
+Page 1 - Agency ID: eadAllAgenciesForm:allAgenciesList:4:j_id_16_57
+Agency Name: ACE STAFFING PTE. LTD. (22C1338)
+Agency Details: Main Branch:
+60, JALAN LAM HUAT, #06-20, CARROS CENTRE, Singapore - 737869
+82819293
+
+Page 1 - Agency ID: eadAllAgenciesForm:allAgenciesList:5:j_id_16_57
+Agency Name: AEMEO PROFESSIONAL CONSULTANCY (22C1246)
+Agency Details: Main Branch:
+85, PASIR RIS GROVE, #02-08, NV RESIDENCES, Singapore - 518212
+89141131
+
+Page 1 - Agency ID: eadAllAgenciesForm:allAgenciesList:6:j_id_16_57
+Agency Name: AG EMPLOYMENT SERVICES (13C6408)
+Agency Details: Main Branch:
+493D, TAMPINES STREET 43, #13-310, Singapore - 523493
+98188738
+
+Page 1 - Agency ID: eadAllAgenciesForm:allAgenciesList:7:j_id_16_57
+Agency Name: ALICE EMPLOYMENT AGENCY (88C4709)
+Agency Details: Main Branch:
+66, BEDOK SOUTH AVENUE 3, #20-510, Singapore - 460066
+62965230
+
+Page 2 - Agency ID: eadAllAgenciesForm:allAgenciesList:8:j_id_16_57
+Agency Name: AMIABLE EMPLOYMENT (18C9351)
+Agency Details: Main Branch:
+127, SIMEI STREET 1, #07-296, Singapore - 520127
+94490887
+
+Page 2 - Agency ID: eadAllAgenciesForm:allAgenciesList:9:j_id_16_57
+Agency Name: ASK JOSEPH MANPOWER PTE. LTD. (23C1978)
+Agency Details: Main Branch:
+12, KENSINGTON PARK DRIVE, #04-05, KENSINGTON PARK, Singapore - 557325
+81163864
+
+Page 2 - Agency ID: eadAllAgenciesForm:allAgenciesList:10:j_id_16_57
+Agency Name: ATTAR CAM EMPLOYMENT AGENCY PTE. LTD. (17C8689)
+Agency Details: Main Branch:
+10, ANSON ROAD, #26-04, INTERNATIONAL PLAZA, Singapore - 079903
+94312618
+
+Page 2 - Agency ID: eadAllAgenciesForm:allAgenciesList:11:j_id_16_57
+Agency Name: BEST MANPOWER AGENCY LLP (19C9896)
+Agency Details: Main Branch:
+87, HILLVIEW AVENUE, #03-07, THE PETALS, Singapore - 669623
+88144470
+
+Page 2 - Agency ID: eadAllAgenciesForm:allAgenciesList:12:j_id_16_57
+Agency Name: CITY MANPOWER CONSULTANCY (09C2927)
+Agency Details: Main Branch:
+100, LORONG 23 GEYLANG, #02-02, D'CENTENNIAL, Singapore - 388398
+68445259
+
+Page 2 - Agency ID: eadAllAgenciesForm:allAgenciesList:13:j_id_16_57
+Agency Name: CLICK EMPLOYMENT AGENCY (14C7030)
+Agency Details: Main Branch:
+-, BUKIT BATOK CRESCENT, #09-79, WCEGA TOWER, Singapore - 682686
+94842726
+
+Page 2 - Agency ID: eadAllAgenciesForm:allAgenciesList:14:j_id_16_57
+Agency Name: CONNECT PROFILE (23C1499)
+Agency Details: Main Branch:
+93A, TELOK BLANGAH STREET 31, #16-151, TELOK BLANGAH PARCVIEW, Singapore - 101093
+88581528
+
+Page 2 - Agency ID: eadAllAgenciesForm:allAgenciesList:15:j_id_16_57
+Agency Name: CREDENCE MANPOWER SERVICES (08C2802)
+Agency Details: Main Branch:
+61, UBI ROAD 1, #02-22, OXLEY BIZHUB, Singapore - 408727
+62982589
+
+Page 3 - Agency ID: eadAllAgenciesForm:allAgenciesList:16:j_id_16_57
+Agency Name: DORGAN PLACEMENT PTE. LTD. (15C7413)
+Agency Details: Main Branch:
+50, EAST COAST ROAD, #01-91, ROXY SQUARE, Singapore - 428769
+
+Page 3 - Agency ID: eadAllAgenciesForm:allAgenciesList:17:j_id_16_57
+Agency Name: DS MANPOWER SPECIALIST (24C2148)
+Agency Details: Main Branch:
+38B, EUNOS ROAD 2, #19-334, EUNOS COURT, Singapore - 402038
+81112996
+
+Page 3 - Agency ID: eadAllAgenciesForm:allAgenciesList:18:j_id_16_57
+Agency Name: E-SOURCE (ASIA) EMPLOYMENT AGENCY PTE LTD (01C4813)
+Agency Details: Main Branch:
+296C, COMPASSVALE CRESCENT, #08-255, Singapore - 543296
+96288256
+
+Page 3 - Agency ID: eadAllAgenciesForm:allAgenciesList:19:j_id_16_57
+Agency Name: EARNEST RECRUITMENT AGENCY LLP (23C1920)
+Agency Details: Main Branch:
+351, HOUGANG AVENUE 7, #10-755, Singapore - 530351
+94883066
+
+Page 3 - Agency ID: eadAllAgenciesForm:allAgenciesList:20:j_id_16_57
+Agency Name: ECONOMIC AGENCIES (1976) PTE. LTD. (11C4791)
+Agency Details: Main Branch:
+756, UPPER SERANGOON ROAD, #02-02-03, UPPER SERANGOON SHOPPING CENTRE, Singapore - 534626
+62980978
+
+Page 3 - Agency ID: eadAllAgenciesForm:allAgenciesList:21:j_id_16_57
+Agency Name: EHL ENTERPRISES PTE LTD (94C4884)
+Agency Details: Main Branch:
+20, KRAMAT LANE, #01-06, UNITED HOUSE, Singapore - 228773
+68352555
+
+Page 3 - Agency ID: eadAllAgenciesForm:allAgenciesList:22:j_id_16_57
+Agency Name: ELITE EMPLOYMENT AGENCY (22C1297)
+Agency Details: Main Branch:
+507C, WELLINGTON CIRCLE, #01-114, MONTREAL SPRING, Singapore - 753507
+82029272
+
+Page 3 - Agency ID: eadAllAgenciesForm:allAgenciesList:23:j_id_16_57
+Agency Name: EMERALD PHOENIX PRIVATE LIMITED (22C1372)
+Agency Details: Main Branch:
+546A, SEGAR ROAD, #15-75, SEGAR VALE, Singapore - 671546
+94234390
+
+Page 4 - Agency ID: eadAllAgenciesForm:allAgenciesList:24:j_id_16_57
+Agency Name: EMS EMPLOYMENT AGENCY (21C0659)
+Agency Details: Main Branch:
+1, PARK ROAD, #03-40B, PEOPLE'S PARK COMPLEX, Singapore - 059108
+98571910
+
+Page 4 - Agency ID: eadAllAgenciesForm:allAgenciesList:25:j_id_16_57
+Agency Name: ENRICH MANPOWER PTE. LTD. (08C3354)
+Agency Details: Main Branch:
+10, JALAN BESAR, #13-10, SIM LIM TOWER, Singapore - 208787
+62995995
+
+Page 4 - Agency ID: eadAllAgenciesForm:allAgenciesList:26:j_id_16_57
+Agency Name: EUREKA MAIDS AND MANPOWER PTE. LTD. (13C6399)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #06-15, FAR EAST SHOPPING CENTRE, Singapore - 238882
+63454310
+
+Page 4 - Agency ID: eadAllAgenciesForm:allAgenciesList:27:j_id_16_57
+Agency Name: FAM SEARCH LLP (20C0334)
+Agency Details: Main Branch:
+12, JALAN MATA AYER, SEMBAWANG PARK, Singapore - 759093
+96444687
+
+Page 4 - Agency ID: eadAllAgenciesForm:allAgenciesList:28:j_id_16_57
+Agency Name: FIRSTCARE EMPLOYMENT PTE. LTD. (18C9191)
+Agency Details: Main Branch:
+61, BUKIT BATOK CRESCENT, #04-06, HENG LOONG BUILDING, Singapore - 658078
+82338152
+
+Page 4 - Agency ID: eadAllAgenciesForm:allAgenciesList:29:j_id_16_57
+Agency Name: FOCUS SEARCH SERVICES (04C4793)
+Agency Details: Main Branch:
+10, ANSON ROAD, #16-12, INTERNATIONAL PLAZA, Singapore - 079903
+65672067
+
+Page 4 - Agency ID: eadAllAgenciesForm:allAgenciesList:30:j_id_16_57
+Agency Name: GLOBAL CONNECTION MANPOWER PTE. LTD. (11C4083)
+Agency Details: Main Branch:
+57, UBI AVENUE 1, UBI CENTRE, Singapore - 408936
+
+Page 4 - Agency ID: eadAllAgenciesForm:allAgenciesList:31:j_id_16_57
+Agency Name: GOODMAN EMPLOYMENT AGENCY (11C3666)
+Agency Details: Main Branch:
+2, KALLANG PUDDING ROAD, #06-11, MACTECH BUILDING, Singapore - 349307
+68420048
+
+Page 5 - Agency ID: eadAllAgenciesForm:allAgenciesList:32:j_id_16_57
+Agency Name: GRACEPOINT EMPLOYMENT PTE. LTD. (23C1848)
+Agency Details: Main Branch:
+1, BUKIT BATOK CRESCENT, #03-06, WCEGA PLAZA, Singapore - 658064
+91887488
+
+Page 5 - Agency ID: eadAllAgenciesForm:allAgenciesList:33:j_id_16_57
+Agency Name: GREEN HOME EMPLOYMENT SERVICES PTE LTD (01C5454)
+Agency Details: Main Branch:
+201D, PUNGGOL FIELD, #06-272, Singapore - 824201
+65281730
+
+Page 5 - Agency ID: eadAllAgenciesForm:allAgenciesList:34:j_id_16_57
+Agency Name: GREENLAND HUMAN RESOURCES (11C4922)
+Agency Details: Main Branch:
+390, VICTORIA STREET, #03-16, VILLAGE HOTEL BUGIS, Singapore - 188061
+62939440
+
+Page 5 - Agency ID: eadAllAgenciesForm:allAgenciesList:35:j_id_16_57
+Agency Name: H ELZYN CONSULTANCY (23C1891)
+Agency Details: Main Branch:
+216, JOO CHIAT ROAD, #04-21, SOHO LIFE, Singapore - 427483
+91809671
+
+Page 5 - Agency ID: eadAllAgenciesForm:allAgenciesList:36:j_id_16_57
+Agency Name: HELPER LUXE EMPLOYMENT AGENCY (19C0014)
+Agency Details: Main Branch:
+275, THOMSON ROAD, #01-22, NOVENA REGENCY, Singapore - 307645
+85112796
+
+Page 5 - Agency ID: eadAllAgenciesForm:allAgenciesList:37:j_id_16_57
+Agency Name: HELPING HANDS EMPLOYMENT AGENCY (22C1371)
+Agency Details: Main Branch:
+321, BUKIT BATOK STREET 33, #02-74, Singapore - 650321
+83328369
+
+Page 5 - Agency ID: eadAllAgenciesForm:allAgenciesList:38:j_id_16_57
+Agency Name: HI HAPPY HELPER (22C1325)
+Agency Details: Main Branch:
+60, PAYA LEBAR ROAD, #07-54, PAYA LEBAR SQUARE, Singapore - 409051
+87713778
+
+Page 5 - Agency ID: eadAllAgenciesForm:allAgenciesList:39:j_id_16_57
+Agency Name: HOMELY FDW PERSONNEL SERVICES (19C9889)
+Agency Details: Main Branch:
+261, JURONG EAST STREET 24, #11-461, Singapore - 600261
+81016100
+
+Page 6 - Agency ID: eadAllAgenciesForm:allAgenciesList:40:j_id_16_57
+Agency Name: HUMANSKILLS PTE. LTD. (24C2216)
+Agency Details: Main Branch:
+203, HOUGANG STREET 21, #04-59, Singapore - 530203
+91149661
+
+Page 6 - Agency ID: eadAllAgenciesForm:allAgenciesList:41:j_id_16_57
+Agency Name: HUNG CHAU (SINGAPORE) PTE. LTD. (05C3992)
+Agency Details: Main Branch:
+208, HOUGANG STREET 21, #02-211, Singapore - 530208
+62848639
+
+Page 6 - Agency ID: eadAllAgenciesForm:allAgenciesList:42:j_id_16_57
+Agency Name: INFINITY MANPOWER PTE. LTD. (19C9695)
+Agency Details: Main Branch:
+10, UBI CRESCENT, #01-40, UBI TECHPARK, Singapore - 408564
+69745797
+
+Page 6 - Agency ID: eadAllAgenciesForm:allAgenciesList:43:j_id_16_57
+Agency Name: INTERNATIONAL EMPLOYMENT AGENCY (1992) PTE. LTD. (05C3796)
+Agency Details: Main Branch:
+519, BALESTIER ROAD, #04-02, LE SHANTIER, Singapore - 329852
+63271158
+
+Page 6 - Agency ID: eadAllAgenciesForm:allAgenciesList:44:j_id_16_57
+Agency Name: JDS MAID (21C0449)
+Agency Details: Main Branch:
+117A, RIVERVALE DRIVE, #04-88, Singapore - 541117
+81113216
+
+Page 6 - Agency ID: eadAllAgenciesForm:allAgenciesList:45:j_id_16_57
+Agency Name: JEMIE EMPLOYMENT AGENCY (91C4751)
+Agency Details: Main Branch:
+7, BRIGHTON AVENUE, Singapore - 559238
+97890384
+
+Page 6 - Agency ID: eadAllAgenciesForm:allAgenciesList:46:j_id_16_57
+Agency Name: JEWEL (13C6369)
+Agency Details: Main Branch:
+308B, PUNGGOL WALK, #04-356, WATERWAY TERRACES I, Singapore - 822308
+68158188
+
+Page 6 - Agency ID: eadAllAgenciesForm:allAgenciesList:47:j_id_16_57
+Agency Name: JOHNWIL RESOURCE (18C9385)
+Agency Details: Main Branch:
+152, MEI LING STREET, #01-12, MEI LING HEIGHTS, Singapore - 140152
+64766093
+
+Page 7 - Agency ID: eadAllAgenciesForm:allAgenciesList:48:j_id_16_57
+Agency Name: JONG SHING AGENCY (11C4088)
+Agency Details: Main Branch:
+111, NORTH BRIDGE ROAD, #17-06, PENINSULA PLAZA, Singapore - 179098
+81139801
+
+Page 7 - Agency ID: eadAllAgenciesForm:allAgenciesList:49:j_id_16_57
+Agency Name: KABABAYAN FAR EAST MANPOWER & SERVICES (92C3162)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #04-18, FAR EAST SHOPPING CENTRE, Singapore - 238882
+67331314
+
+Page 7 - Agency ID: eadAllAgenciesForm:allAgenciesList:50:j_id_16_57
+Agency Name: KINGLY MANPOWER SERVICES PTE. LTD. (20C0087)
+Agency Details: Main Branch:
+228, CHANGI ROAD, #B1-24, ICON@CHANGI, Singapore - 419741
+94570105
+
+Page 7 - Agency ID: eadAllAgenciesForm:allAgenciesList:51:j_id_16_57
+Agency Name: KITA SOLUTIONS PTE. LTD. (22C1420)
+Agency Details: Main Branch:
+77, HIGH STREET, #05-07, HIGH STREET PLAZA, Singapore - 179433
+62270717
+
+Page 7 - Agency ID: eadAllAgenciesForm:allAgenciesList:52:j_id_16_57
+Agency Name: LEVELUP EMPLOYMENT SERVICES (22C0978)
+Agency Details: Main Branch:
+291D, COMPASSVALE STREET, #09-262, COMPASSVALE LODGE, Singapore - 544291
+96994889
+
+Page 7 - Agency ID: eadAllAgenciesForm:allAgenciesList:53:j_id_16_57
+Agency Name: LITTLE RED DOT EMPLOYMENT AGENCY (21C0713)
+Agency Details: Main Branch:
+24, UBI ROAD 4, #03-32, WUI HONG BUILDING, Singapore - 408612
+96682137
+
+Page 7 - Agency ID: eadAllAgenciesForm:allAgenciesList:54:j_id_16_57
+Agency Name: M THE INTERMEDIARY (23C1945)
+Agency Details: Main Branch:
+60, PAYA LEBAR ROAD, #07-54, PAYA LEBAR SQUARE, Singapore - 409051
+88628939
+
+Page 7 - Agency ID: eadAllAgenciesForm:allAgenciesList:55:j_id_16_57
+Agency Name: MEZZ EMPLOYMENT AGENCY (23C1592)
+Agency Details: Main Branch:
+160, PASIR RIS STREET 13, #03-79, Singapore - 510160
+93866176
+
+Page 8 - Agency ID: eadAllAgenciesForm:allAgenciesList:56:j_id_16_57
+Agency Name: MS EMPLOYMENT SERVICES PTE. LTD. (19C9874)
+Agency Details: Main Branch:
+114, LAVENDER STREET, #07-83, CT HUB 2, Singapore - 338729
+69696045
+
+Page 8 - Agency ID: eadAllAgenciesForm:allAgenciesList:57:j_id_16_57
+Agency Name: NEBULA EMPLOYMENT PTE. LTD. (24C2182)
+Agency Details: Main Branch:
+465A, CLEMENTI AVENUE 1, #03-76, Singapore - 121465
+89441330
+
+Page 8 - Agency ID: eadAllAgenciesForm:allAgenciesList:58:j_id_16_57
+Agency Name: NORMAN RECRUITMENT AGENCY PRIVATE LTD. (22C1187)
+Agency Details: Main Branch:
+1, KIM SENG PROMENADE, #09-09, GREAT WORLD CITY, Singapore - 237994
+65099929
+
+Page 8 - Agency ID: eadAllAgenciesForm:allAgenciesList:59:j_id_16_57
+Agency Name: NOSTRA MANPOWER PTE LTD (98C3145)
+Agency Details: Main Branch:
+3C, GAMBAS CRESCENT, NORDCOM ONE, Singapore - 757091
+63920292
+
+Page 8 - Agency ID: eadAllAgenciesForm:allAgenciesList:60:j_id_16_57
+Agency Name: ONE HEART MAID N RECRUITMENT AGENCY PTE. LTD. (22C1308)
+Agency Details: Main Branch:
+7030, ANG MO KIO AVENUE 5, #09-85, NORTHSTAR @ AMK, Singapore - 569880
+91896705
+
+Page 8 - Agency ID: eadAllAgenciesForm:allAgenciesList:61:j_id_16_57
+Agency Name: OPTIMUM EMPLOYMENT (MAIDS) AGENCY (22C1095)
+Agency Details: Main Branch:
+25, HAJI LANE, #01-00, Singapore - 189218
+98211810
+
+Page 8 - Agency ID: eadAllAgenciesForm:allAgenciesList:62:j_id_16_57
+Agency Name: PRIVILEGE SERVICES (20C0340)
+Agency Details: Main Branch:
+554, CHOA CHU KANG NORTH 6, #12-38, Singapore - 680554
+94309126
+
+Page 8 - Agency ID: eadAllAgenciesForm:allAgenciesList:63:j_id_16_57
+Agency Name: PROHIRE PTE. LTD. (24C2162)
+Agency Details: Main Branch:
+721, JURONG WEST AVENUE 5, #10-116, NANYANG SAPPHIRE, Singapore - 640721
+97993992
+
+Page 9 - Agency ID: eadAllAgenciesForm:allAgenciesList:64:j_id_16_57
+Agency Name: PRUCARE OSA PTE. LTD. (22C1190)
+Agency Details: Main Branch:
+92, EDGEDALE PLAINS, #12-28, THE TERRACE, Singapore - 828686
+83666604
+
+Page 9 - Agency ID: eadAllAgenciesForm:allAgenciesList:65:j_id_16_57
+Agency Name: PTM GROUP (21C0562)
+Agency Details: Main Branch:
+540, BEDOK NORTH STREET 3, #11-1226, BEDOK NORTH GREEN, Singapore - 460540
+94302588
+
+Page 9 - Agency ID: eadAllAgenciesForm:allAgenciesList:66:j_id_16_57
+Agency Name: R & L MANPOWER SERVICES PTE. LTD. (15C7441)
+Agency Details: Main Branch:
+1, ANG MO KIO INDUSTRIAL PARK 2A, #04-08, AMK TECH 1, Singapore - 568049
+
+Page 9 - Agency ID: eadAllAgenciesForm:allAgenciesList:67:j_id_16_57
+Agency Name: R & T MANPOWER RESOURCES (10C4835)
+Agency Details: Main Branch:
+354, CLEMENTI AVENUE 2, #01-177C, CLEMENTI AVENUE 2 SHOPPING CENTRE, Singapore - 120354
+66591837
+
+Page 9 - Agency ID: eadAllAgenciesForm:allAgenciesList:68:j_id_16_57
+Agency Name: RADHIKA EMPLOYMENT AGENCY (22C1017)
+Agency Details: Main Branch:
+7, RACE COURSE LANE, #02-01, Singapore - 218734
+62988326
+
+Page 9 - Agency ID: eadAllAgenciesForm:allAgenciesList:69:j_id_16_57
+Agency Name: RECRUIT INTERNATIONAL CONSULTANTS PTE. LIMITED (04C4704)
+Agency Details: Main Branch:
+20, UPPER CIRCULAR ROAD, ##01-75, THE RIVERWALK, Singapore - 058416
+62252138
+
+Page 9 - Agency ID: eadAllAgenciesForm:allAgenciesList:70:j_id_16_57
+Agency Name: RECRUIT STAFFING SOLUTIONS (19C9952)
+Agency Details: Main Branch:
+60, PAYA LEBAR ROAD, #05-33, PAYA LEBAR SQUARE, Singapore - 409051
+68225850
+
+Page 9 - Agency ID: eadAllAgenciesForm:allAgenciesList:71:j_id_16_57
+Agency Name: REGAL MANPOWER MANAGEMENT PTE LTD (00C4391)
+Agency Details: Main Branch:
+35, SELEGIE ROAD, #04-13, PARKLANE SHOPPING MALL, Singapore - 188307
+63388991
+
+Page 10 - Agency ID: eadAllAgenciesForm:allAgenciesList:72:j_id_16_57
+Agency Name: RITA & ASH MAID SERVICES (21C0523)
+Agency Details: Main Branch:
+11, SENGKANG EAST AVENUE, #04-04, AUSTVILLE RESIDENCES, Singapore - 544804
+91010774
+
+Page 10 - Agency ID: eadAllAgenciesForm:allAgenciesList:73:j_id_16_57
+Agency Name: THE FORT AGENCY PTE. LTD. (23C1664)
+Agency Details: Main Branch:
+100, JALAN SULTAN, #05-27, SULTAN PLAZA, Singapore - 199001
+98301671
+
+Page 10 - Agency ID: eadAllAgenciesForm:allAgenciesList:74:j_id_16_57
+Agency Name: UNIQUE CX EMPLOYMENT AGENCY PTE. LTD. (22C1156)
+Agency Details: Main Branch:
+309, CHOA CHU KANG AVENUE 4, #05-K01, CHOA CHU KANG CENTRE, Singapore - 680309
+97451811
+
+Page 10 - Agency ID: eadAllAgenciesForm:allAgenciesList:75:j_id_16_57
+Agency Name: UNITED HR ASIA PTE. LTD. (21C0561)
+Agency Details: Main Branch:
+1, SOON LEE STREET, #01-14, PIONEER CENTRE, Singapore - 627605
+66940476
+
+Page 10 - Agency ID: eadAllAgenciesForm:allAgenciesList:76:j_id_16_57
+Agency Name: VIBRANT EMPLOYMENT PRIVATE LIMITED (24C2146)
+Agency Details: Main Branch:
+102, HAIG ROAD, #12-08, DUNMAN VIEW, Singapore - 438798
+87830087
+
+Page 10 - Agency ID: eadAllAgenciesForm:allAgenciesList:77:j_id_16_57
+Agency Name: VIVON SG (21C0555)
+Agency Details: Main Branch:
+87, CIRCUIT ROAD, #01-987, MACPHERSON OASIS, Singapore - 370087
+84442443
+
+Page 10 - Agency ID: eadAllAgenciesForm:allAgenciesList:78:j_id_16_57
+Agency Name: WORTHY WORKERS SERVICES (86C3942)
+Agency Details: Main Branch:
+155, SIMEI ROAD, #04-206, Singapore - 520155
+67852113
+
+Page 10 - Agency ID: eadAllAgenciesForm:allAgenciesList:79:j_id_16_57
+Agency Name: Y&Y RECRUITMENT PTE. LTD. (22C1304)
+Agency Details: Main Branch:
+613, BEDOK RESERVOIR ROAD, #05-1164, EUNOS GROVE, Singapore - 470613
+88589587
+
+Page 11 - Agency ID: eadAllAgenciesForm:allAgenciesList:80:j_id_16_57
+Agency Name: THE SOWER HUT EMPLOYMENT SERVICES (14C7129)
+Agency Details: Main Branch:
+8, UBI ROAD 2, #04-24, ZERVEX, Singapore - 408538
+62648055
+
+Page 11 - Agency ID: eadAllAgenciesForm:allAgenciesList:81:j_id_16_57
+Agency Name: PRUCARE EMPLOYMENT LLP (20C0190)
+Agency Details: Main Branch:
+41, KALLANG PUDDING ROAD, #04-07, GOLDEN WHEEL BUILDING, Singapore - 349316
+81117055
+
+Page 11 - Agency ID: eadAllAgenciesForm:allAgenciesList:82:j_id_16_57
+Agency Name: 11 ASIA AGENCY (18C9310)
+Agency Details: Main Branch:
+33, DEVONSHIRE ROAD, #03-00, Singapore - 239852
+83600600
+
+Page 11 - Agency ID: eadAllAgenciesForm:allAgenciesList:83:j_id_16_57
+Agency Name: MUM JENNY PTE. LTD. (07C4344)
+Agency Details: Main Branch:
+7, SENGKANG EAST AVENUE, #16-21, RIVERSOUND RESIDENCE, Singapore - 544741
+64412203
+
+Page 11 - Agency ID: eadAllAgenciesForm:allAgenciesList:84:j_id_16_57
+Agency Name: ALL GOOD EMPLOYMENT AGENCY (18C9087)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #01-88, KATONG SHOPPING CENTRE, Singapore - 437844
+69777834
+
+Page 11 - Agency ID: eadAllAgenciesForm:allAgenciesList:85:j_id_16_57
+Agency Name: DOT.ONE CONSULTANTS (00C4691)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #03-02, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64651600
+
+Page 11 - Agency ID: eadAllAgenciesForm:allAgenciesList:86:j_id_16_57
+Agency Name: I-HUNTING (19C9714)
+Agency Details: Main Branch:
+1, SCOTTS ROAD, #24-10, SHAW CENTRE, Singapore - 228208
+91859158
+
+Page 11 - Agency ID: eadAllAgenciesForm:allAgenciesList:87:j_id_16_57
+Agency Name: UNIQUE EMPLOYMENT AGENCY (97C2945)
+Agency Details: Main Branch:
+559, HOUGANG STREET 51, #13-400, Singapore - 530559
+65369637
+
+Page 12 - Agency ID: eadAllAgenciesForm:allAgenciesList:88:j_id_16_57
+Agency Name: ONE UNITED RESOURCES (SG) PTE. LTD. (21C0830)
+Agency Details: Main Branch:
+41, COWDRAY AVENUE, SERANGOON GARDEN ESTATE, Singapore - 558042
+87816058
+
+Page 12 - Agency ID: eadAllAgenciesForm:allAgenciesList:89:j_id_16_57
+Agency Name: NAMKEE CONSULTANTS (97C3559)
+Agency Details: Main Branch:
+163, BUKIT MERAH CENTRAL, #03-3589, Singapore - 150163
+62763678
+
+Page 12 - Agency ID: eadAllAgenciesForm:allAgenciesList:90:j_id_16_57
+Agency Name: MASTER EMPLOYMENT AGENCY (06C5115)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #03-71, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64668073
+
+Page 12 - Agency ID: eadAllAgenciesForm:allAgenciesList:91:j_id_16_57
+Agency Name: DONGXING RESOURCE (S) PTE. LTD. (17C8905)
+Agency Details: Main Branch:
+339C, KANG CHING ROAD, #03-348, Singapore - 613339
+91916191
+
+Page 12 - Agency ID: eadAllAgenciesForm:allAgenciesList:92:j_id_16_57
+Agency Name: SUPER EXPRESS HUMAN RESOURCES (11C5554)
+Agency Details: Main Branch:
+3014, UBI ROAD 1, #04-304, KAMPONG UBI INDUSTRIAL ESTATE, Singapore - 408702
+82273709
+
+Page 12 - Agency ID: eadAllAgenciesForm:allAgenciesList:93:j_id_16_57
+Agency Name: TAKE EMPLOYMENT AGENCY PTE. LTD. (19C9812)
+Agency Details: Main Branch:
+10, ANSON ROAD, #33-03, INTERNATIONAL PLAZA, Singapore - 079903
+88153385
+
+Page 12 - Agency ID: eadAllAgenciesForm:allAgenciesList:94:j_id_16_57
+Agency Name: STARS AND SKY EMPLOYMENT AGENCY (16C8020)
+Agency Details: Main Branch:
+111, NORTH BRIDGE ROAD, #05-46, PENINSULA PLAZA, Singapore - 179098
+
+Page 12 - Agency ID: eadAllAgenciesForm:allAgenciesList:95:j_id_16_57
+Agency Name: MS LADYBUG CARES AGENCY (23C1653)
+Agency Details: Main Branch:
+66, LORONG PISANG EMAS, MANDARIN PARK, Singapore - 597883
+88328068
+
+Page 13 - Agency ID: eadAllAgenciesForm:allAgenciesList:96:j_id_16_57
+Agency Name: RECRUIT POINT PTE. LTD. (16C8329)
+Agency Details: Main Branch:
+31, AH HOOD ROAD, #03-01, Singapore - 329979
+93477185
+
+Page 13 - Agency ID: eadAllAgenciesForm:allAgenciesList:97:j_id_16_57
+Agency Name: RECRUITBEE HELPERS PTE. LTD. (21C0755)
+Agency Details: Main Branch:
+110A, DEPOT ROAD, #09-621, DEPOT HEIGHTS, Singapore - 101110
+93479029
+
+Page 13 - Agency ID: eadAllAgenciesForm:allAgenciesList:98:j_id_16_57
+Agency Name: BENSIUS EMPLOYMENT SERVICES (94C3611)
+Agency Details: Main Branch:
+269B, QUEEN STREET, #07-268, Singapore - 182269
+97539983
+
+Page 13 - Agency ID: eadAllAgenciesForm:allAgenciesList:99:j_id_16_57
+Agency Name: CLICK@WORK (16C8293)
+Agency Details: Main Branch:
+8, BURN ROAD, #05-09, TRIVEX, Singapore - 369977
+
+Page 13 - Agency ID: eadAllAgenciesForm:allAgenciesList:100:j_id_16_57
+Agency Name: GEM MAID PTE. LTD. (19C9559)
+Agency Details: Main Branch:
+111, SOMERSET ROAD, #3 111 SOMERSET, Singapore - 238164
+86136698
+
+Page 13 - Agency ID: eadAllAgenciesForm:allAgenciesList:101:j_id_16_57
+Agency Name: HIRE TRUST PRO PTE. LTD. (24C2144)
+Agency Details: Main Branch:
+27, CARISBROOKE GROVE, SERANGOON GARDEN ESTATE, Singapore - 558800
+80880638
+
+Page 13 - Agency ID: eadAllAgenciesForm:allAgenciesList:102:j_id_16_57
+Agency Name: ORIENTAL EMPLOYMENT SERVICES LLP (17C8497)
+Agency Details: Main Branch:
+15B, BALMORAL ROAD, #11-11, BELMOND GREEN, Singapore - 259817
+
+Page 13 - Agency ID: eadAllAgenciesForm:allAgenciesList:103:j_id_16_57
+Agency Name: SIMPATICO EMPLOYMENT PTE. LTD. (21C0687)
+Agency Details: Main Branch:
+171, BISHAN STREET 13, #08-27, Singapore - 570171
+92765552
+
+Page 14 - Agency ID: eadAllAgenciesForm:allAgenciesList:104:j_id_16_57
+Agency Name: YUANYII AGENCY PTE. LTD. (20C0116)
+Agency Details: Main Branch:
+1, IRVING PLACE, #07-01, THE COMMERZE@IRVING, Singapore - 369546
+83880783
+
+Page 14 - Agency ID: eadAllAgenciesForm:allAgenciesList:105:j_id_16_57
+Agency Name: SUPER EMPLOYMENT AGENCY (11C4128)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #05-19, FAR EAST SHOPPING CENTRE, Singapore - 238882
+67328044
+
+Page 14 - Agency ID: eadAllAgenciesForm:allAgenciesList:106:j_id_16_57
+Agency Name: NURTURECONNECT (18C9271)
+Agency Details: Main Branch:
+400, ORCHARD ROAD, #03-12, ORCHARD TOWERS, Singapore - 238875
+81862378
+
+Page 14 - Agency ID: eadAllAgenciesForm:allAgenciesList:107:j_id_16_57
+Agency Name: CHANCE RESOURCES AND CONSULTANCY SERVICES (12C6140)
+Agency Details: Main Branch:
+304, ORCHARD ROAD, #04-69, LUCKY PLAZA, Singapore - 238863
+
+Page 14 - Agency ID: eadAllAgenciesForm:allAgenciesList:108:j_id_16_57
+Agency Name: FAMZ EMPLOYMENT AGENCY (18C9452)
+Agency Details: Main Branch:
+3, ANG MO KIO STREET 62, #06-16, LINK@AMK, Singapore - 569139
+90094050
+
+Page 14 - Agency ID: eadAllAgenciesForm:allAgenciesList:109:j_id_16_57
+Agency Name: MAID GURU MANAGEMENT PTE. LTD. (16C8382)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #01-07, KATONG SHOPPING CENTRE, Singapore - 437844
+63482938
+
+Page 14 - Agency ID: eadAllAgenciesForm:allAgenciesList:110:j_id_16_57
+Agency Name: PARAMOUS MANPOWER SERVICES (89C5044)
+Agency Details: Main Branch:
+10, ANSON ROAD, #10-06, INTERNATIONAL PLAZA, Singapore - 079903
+63482711
+
+Page 14 - Agency ID: eadAllAgenciesForm:allAgenciesList:111:j_id_16_57
+Agency Name: SNUGGIE EMPLOYMENT AGENCY (00C5239)
+Agency Details: Main Branch:
+5, COLEMAN STREET, #03-22, PENINSULA.EXCELSIOR HOTEL, Singapore - 179805
+96900906
+
+Page 15 - Agency ID: eadAllAgenciesForm:allAgenciesList:112:j_id_16_57
+Agency Name: TIMES RECRUIT AGENCY (09C2928)
+Agency Details: Main Branch:
+603C, PUNGGOL ROAD, #07-734, PUNGGOL LODGE, Singapore - 823603
+94244876
+
+Page 15 - Agency ID: eadAllAgenciesForm:allAgenciesList:113:j_id_16_57
+Agency Name: TREASURE HOME HELPER PTE. LTD. (23C1749)
+Agency Details: Main Branch:
+875B, TAMPINES STREET 86, #06-109, Singapore - 522875
+96543579
+
+Page 15 - Agency ID: eadAllAgenciesForm:allAgenciesList:114:j_id_16_57
+Agency Name: VIP RECRUITMENT PTE. LTD. (22C1062)
+Agency Details: Main Branch:
+160, YISHUN STREET 11, #07-216, Singapore - 760160
+96665224
+
+Page 15 - Agency ID: eadAllAgenciesForm:allAgenciesList:115:j_id_16_57
+Agency Name: IXORA EMPLOYMENT AGENCY (23C2035)
+Agency Details: Main Branch:
+710, WOODLANDS DRIVE 70, #11-49, Singapore - 730710
+89023717
+
+Page 15 - Agency ID: eadAllAgenciesForm:allAgenciesList:116:j_id_16_57
+Agency Name: GREAT HELPERS (10C4305)
+Agency Details: Main Branch:
+211, HOLLAND AVENUE, #03-19 B, HOLLAND ROAD SHOPPING CENTRE, Singapore - 278967
+
+Page 15 - Agency ID: eadAllAgenciesForm:allAgenciesList:117:j_id_16_57
+Agency Name: BLISS EMPLOYMENT AGENCY (06C2976)
+Agency Details: Main Branch:
+212, HOUGANG STREET 21, #04-351, Singapore - 530212
+64755116
+
+Page 15 - Agency ID: eadAllAgenciesForm:allAgenciesList:118:j_id_16_57
+Agency Name: ABSOLUTE EMPLOYMENT SERVICES (09C5156)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #04-35, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64620120
+
+Page 15 - Agency ID: eadAllAgenciesForm:allAgenciesList:119:j_id_16_57
+Agency Name: AM MANAGEMENT AND CONSULTANCY SERVICES (97C5180)
+Agency Details: Main Branch:
+745, GEYLANG ROAD, #02-02, Singapore - 389653
+67881079
+
+Page 16 - Agency ID: eadAllAgenciesForm:allAgenciesList:120:j_id_16_57
+Agency Name: GOODPLUS EMPLOYMENT AGENCY PTE. LTD. (23C1614)
+Agency Details: Main Branch:
+211, HOLLAND AVENUE, #3-45, HOLLAND ROAD SHOPPING CENTRE, Singapore - 278967
+91761519
+
+Page 16 - Agency ID: eadAllAgenciesForm:allAgenciesList:121:j_id_16_57
+Agency Name: LOYAL EMPLOYMENT HUB (09C3505)
+Agency Details: Main Branch:
+887, TAMPINES STREET 81, #05-1004, Singapore - 520887
+66858775
+
+Page 16 - Agency ID: eadAllAgenciesForm:allAgenciesList:122:j_id_16_57
+Agency Name: BLOSSOMWISE RESOURCES PTE LTD (08C3769)
+Agency Details: Main Branch:
+853, JURONG WEST STREET 81, #03-325, NANYANG PEARL, Singapore - 640853
+63464757
+
+Page 16 - Agency ID: eadAllAgenciesForm:allAgenciesList:123:j_id_16_57
+Agency Name: EMPLOYMENT CARE CONSULTANCY PTE. LTD. (11C4019)
+Agency Details: Main Branch:
+511, GUILLEMARD ROAD, #01-22, GRANDLINK SQUARE, Singapore - 399849
+64437216
+
+Page 16 - Agency ID: eadAllAgenciesForm:allAgenciesList:124:j_id_16_57
+Agency Name: CRESCENT MAIDS PTE. LTD. (23C1955)
+Agency Details: Main Branch:
+511, GUILLEMARD ROAD, #01-45, GRANDLINK SQUARE, Singapore - 399849
+87600845
+
+Page 16 - Agency ID: eadAllAgenciesForm:allAgenciesList:125:j_id_16_57
+Agency Name: DOMESTIC 21 MAID AGENCY (01C4905)
+Agency Details: Main Branch:
+624, CHOA CHU KANG STREET 62, #02-226, YEW TEE SQUARE, Singapore - 680624
+67676016
+
+Page 16 - Agency ID: eadAllAgenciesForm:allAgenciesList:126:j_id_16_57
+Agency Name: SG MANPOWER (04C5343)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #05-06, FAR EAST SHOPPING CENTRE, Singapore - 238882
+62356905
+
+Page 16 - Agency ID: eadAllAgenciesForm:allAgenciesList:127:j_id_16_57
+Agency Name: TOMODACHI EMPLOYMENT PTE. LTD. (18C9073)
+Agency Details: Main Branch:
+141, BISHAN STREET 12, #02-516, BISHAN GREEN, Singapore - 570141
+91554280
+
+Page 17 - Agency ID: eadAllAgenciesForm:allAgenciesList:128:j_id_16_57
+Agency Name: ABS EMPLOYMENT AGENCY PTE. LTD. (23C2072)
+Agency Details: Main Branch:
+5, COLEMAN STREET, #03-14, PENINSULA.EXCELSIOR HOTEL, Singapore - 179805
+81570929
+
+Page 17 - Agency ID: eadAllAgenciesForm:allAgenciesList:129:j_id_16_57
+Agency Name: ART EMPLOYMENT SERVICES (12C5612)
+Agency Details: Main Branch:
+77, MEI HWAN DRIVE, GOLDEN HILL ESTATE, Singapore - 568395
+67355100
+
+Page 17 - Agency ID: eadAllAgenciesForm:allAgenciesList:130:j_id_16_57
+Agency Name: BEEZY BIZ EMPLOYMENT AGENCY PTE. LTD. (22C0916)
+Agency Details: Main Branch:
+111, SOMERSET ROAD, #13-33, 111 SOMERSET, Singapore - 238164
+88753232
+
+Page 17 - Agency ID: eadAllAgenciesForm:allAgenciesList:131:j_id_16_57
+Agency Name: CMS MANPOWER RESOURCES LLP (17C8594)
+Agency Details: Main Branch:
+1D, YIO CHU KANG ROAD, Singapore - 545510
+87860368
+
+Page 17 - Agency ID: eadAllAgenciesForm:allAgenciesList:132:j_id_16_57
+Agency Name: DIRECT MAID PTE. LTD. (17C8758)
+Agency Details: Main Branch:
+62, UBI ROAD 1, #04-01, OXLEY BIZHUB 2, Singapore - 408734
+63488433
+
+Page 17 - Agency ID: eadAllAgenciesForm:allAgenciesList:133:j_id_16_57
+Agency Name: E+A RECRUITMENT SERVICES (19C9635)
+Agency Details: Main Branch:
+50, TAGORE LANE, #04-10A, ENTREPRENEUR CENTRE, Singapore - 787494
+65521678
+
+Page 17 - Agency ID: eadAllAgenciesForm:allAgenciesList:134:j_id_16_57
+Agency Name: JAMES PAUL MANPOWER CONSULTANCY (96C3547)
+Agency Details: Main Branch:
+200, JALAN SULTAN, ##03-17, TEXTILE CENTRE, Singapore - 199018
+65228824
+
+Page 17 - Agency ID: eadAllAgenciesForm:allAgenciesList:135:j_id_16_57
+Agency Name: JOB.NET CONSULTANCY & EMPLOYMENT AGENCY (07C3794)
+Agency Details: Main Branch:
+801A, WEST COAST CRESCENT, #31-27, Singapore - 121801
+92748719
+
+Page 18 - Agency ID: eadAllAgenciesForm:allAgenciesList:136:j_id_16_57
+Agency Name: KIND EMPLOYMENT AGENCY (24C2221)
+Agency Details: Main Branch:
+339A, SEMBAWANG CLOSE, #14-27, SUN TRELLIS, Singapore - 751339
+90094706
+
+Page 18 - Agency ID: eadAllAgenciesForm:allAgenciesList:137:j_id_16_57
+Agency Name: NEBULAE PTE. LTD. (24C2236)
+Agency Details: Main Branch:
+359, CHOA CHU KANG AVENUE 3, #02-17, WANDERVALE, Singapore - 689883
+84996838
+
+Page 18 - Agency ID: eadAllAgenciesForm:allAgenciesList:138:j_id_16_57
+Agency Name: RAFFLES EMPLOYMENT AGENCY PTE. LTD. (20C0153)
+Agency Details: Main Branch:
+9, SELEGIE ROAD, #12-26, SELEGIE HOUSE, Singapore - 180009
+67076057
+
+Page 18 - Agency ID: eadAllAgenciesForm:allAgenciesList:139:j_id_16_57
+Agency Name: SIMPLICITY EMPLOYMENT AGENCY PTE. LTD. (22C1326)
+Agency Details: Main Branch:
+1, YISHUN CLOSE, #01-02, SYMPHONY SUITES, Singapore - 768004
+97549426
+
+Page 18 - Agency ID: eadAllAgenciesForm:allAgenciesList:140:j_id_16_57
+Agency Name: SPRINGFIELD CONSULTING PTE. LTD. (09C4075)
+Agency Details: Main Branch:
+105, CECIL STREET, #18-00, OCTAGON, THE, Singapore - 069534
+62243463
+
+Page 18 - Agency ID: eadAllAgenciesForm:allAgenciesList:141:j_id_16_57
+Agency Name: STAR STAFFING PRIVATE LIMITED (22C1431)
+Agency Details: Main Branch:
+280, WOODLANDS INDUSTRIAL PARK E5, #09-35, HARVEST @ WOODLANDS, Singapore - 757322
+82085555
+
+Page 18 - Agency ID: eadAllAgenciesForm:allAgenciesList:142:j_id_16_57
+Agency Name: TCB EMPLOYMENT AGENCY PTE. LTD. (20C0133)
+Agency Details: Main Branch:
+1, SOON LEE STREET, #03-17, PIONEER CENTRE, Singapore - 627605
+67476266
+
+Page 18 - Agency ID: eadAllAgenciesForm:allAgenciesList:143:j_id_16_57
+Agency Name: UNITED HOME EMPLOYMENT AGENCY PTE. LTD. (04C3176)
+Agency Details: Main Branch:
+222, TANJONG KATONG ROAD, #0-222, Singapore - 437013
+63450606
+
+Page 19 - Agency ID: eadAllAgenciesForm:allAgenciesList:144:j_id_16_57
+Agency Name: JOBS AND STAFF PTE. LTD. (16C7967)
+Agency Details: Main Branch:
+50, TAGORE LANE, #05-04, Singapore - 787494
+66330733
+
+Page 19 - Agency ID: eadAllAgenciesForm:allAgenciesList:145:j_id_16_57
+Agency Name: YUELU EMPLOYMENT AGENCY PTE. LTD. (23C1883)
+Agency Details: Main Branch:
+301, JALAN BUKIT HO SWEE, #33-02, MERAPRIME, Singapore - 169568
+66733260
+
+Page 19 - Agency ID: eadAllAgenciesForm:allAgenciesList:146:j_id_16_57
+Agency Name: RUBY EMPLOYMENT AGENCY (22C1227)
+Agency Details: Main Branch:
+306, JURONG EAST STREET 32, #04-200, HONG KAH EAST GARDEN, Singapore - 600306
+98735221
+
+Page 19 - Agency ID: eadAllAgenciesForm:allAgenciesList:147:j_id_16_57
+Agency Name: CORPORATE MISSION EMPLOYMENT CENTRE (95C3223)
+Agency Details: Main Branch:
+80, SPRINGSIDE AVENUE, Singapore - 786575
+96307071
+
+Page 19 - Agency ID: eadAllAgenciesForm:allAgenciesList:148:j_id_16_57
+Agency Name: SHWE PHOENIX PTE. LTD. (22C1421)
+Agency Details: Main Branch:
+202A, COMPASSVALE DRIVE, #07-575, COMPASSVALE SOUTH GATE, Singapore - 541202
+91070297
+
+Page 19 - Agency ID: eadAllAgenciesForm:allAgenciesList:149:j_id_16_57
+Agency Name: BELFORD EMPLOYMENT SERVICES (04C3408)
+Agency Details: Main Branch:
+122, JURONG EAST STREET 13, #23-43, IVORY HEIGHTS, Singapore - 600122
+64634691
+
+Page 19 - Agency ID: eadAllAgenciesForm:allAgenciesList:150:j_id_16_57
+Agency Name: THUMBS UP EMPLOYMENT AGENCY (21C0843)
+Agency Details: Main Branch:
+74, WHAMPOA DRIVE, #01-342, WHAMPOA COURT, Singapore - 320074
+97913346
+
+Page 19 - Agency ID: eadAllAgenciesForm:allAgenciesList:151:j_id_16_57
+Agency Name: BESTLINK EMPLOYMENT SERVICES (16C7866)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #03-34, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+
+Page 20 - Agency ID: eadAllAgenciesForm:allAgenciesList:152:j_id_16_57
+Agency Name: FIRST SELECT EMPLOYMENT AGENCY LIMITED LIABILITY PARTNERSHIP (15C7780)
+Agency Details: Main Branch:
+430, UPPER CHANGI ROAD, #01-34, EAST VILLAGE, Singapore - 487048
+96746025
+
+Page 20 - Agency ID: eadAllAgenciesForm:allAgenciesList:153:j_id_16_57
+Agency Name: JP HELPER (22C1368)
+Agency Details: Main Branch:
+15, FERNVALE CLOSE, #19-26, RIVERBANK @ FERNVALE, Singapore - 797477
+82263447
+
+Page 20 - Agency ID: eadAllAgenciesForm:allAgenciesList:154:j_id_16_57
+Agency Name: AUNTY RINA'S PLACEMENT CENTER LIMITED PARTNERSHIP (19C9902)
+Agency Details: Main Branch:
+160, CHANGI ROAD, #B1-09, HEXACUBE, Singapore - 419728
+97383218
+
+Page 20 - Agency ID: eadAllAgenciesForm:allAgenciesList:155:j_id_16_57
+Agency Name: CK EMPLOYMENT SERVICES PTE. LTD. (18C9516)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #02-08, KATONG SHOPPING CENTRE, Singapore - 437844
+90294341
+
+Page 20 - Agency ID: eadAllAgenciesForm:allAgenciesList:156:j_id_16_57
+Agency Name: HELPSIMPLY (15C7604)
+Agency Details: Main Branch:
+8, EU TONG SEN STREET, #14-94, THE CENTRAL, Singapore - 059818
+64792506
+
+Page 20 - Agency ID: eadAllAgenciesForm:allAgenciesList:157:j_id_16_57
+Agency Name: RICH EMPLOYMENT PTE. LTD. (17C8557)
+Agency Details: Main Branch:
+118, ALJUNIED AVENUE 2, #02-106, Singapore - 380118
+96844234
+
+Page 20 - Agency ID: eadAllAgenciesForm:allAgenciesList:158:j_id_16_57
+Agency Name: SUCCESS RECRUITMENT SERVICES (92C4339)
+Agency Details: Main Branch:
+71, TOH GUAN ROAD EAST, #05-04, TCH TECHCENTRE, Singapore - 608598
+64400020
+
+Page 20 - Agency ID: eadAllAgenciesForm:allAgenciesList:159:j_id_16_57
+Agency Name: 1 ACHIEVE EMPLOYMENT PTE. LTD. (23C1900)
+Agency Details: Main Branch:
+443, YISHUN AVENUE 11, #04-28, JADE SPRING @ YISHUN, Singapore - 760443
+98318217
+
+Page 21 - Agency ID: eadAllAgenciesForm:allAgenciesList:160:j_id_16_57
+Agency Name: BEST MAID EXPRESS (23C1984)
+Agency Details: Main Branch:
+303, WOODLANDS STREET 31, #01-179, FUCHUN NEIGHBOURHOOD CENTRE, Singapore - 730303
+92789288
+
+Page 21 - Agency ID: eadAllAgenciesForm:allAgenciesList:161:j_id_16_57
+Agency Name: FORTE EMPLOYMENT SERVICES PTE. LTD. (10C3364)
+Agency Details: Main Branch:
+2, KALLANG AVENUE, #07-28, CT HUB, Singapore - 339407
+65659877
+
+Page 21 - Agency ID: eadAllAgenciesForm:allAgenciesList:162:j_id_16_57
+Agency Name: SWIFT EMPLOYMENT AGENCY PTE. LTD. (18C9492)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #B1-46, KATONG SHOPPING CENTRE, Singapore - 437844
+85711969
+
+Page 21 - Agency ID: eadAllAgenciesForm:allAgenciesList:163:j_id_16_57
+Agency Name: STATUS EMPLOYMENT AGENCY PTE. LTD. (16C8301)
+Agency Details: Main Branch:
+10, ANSON ROAD, #02-83, INTERNATIONAL PLAZA, Singapore - 079903
+
+Page 21 - Agency ID: eadAllAgenciesForm:allAgenciesList:164:j_id_16_57
+Agency Name: TKS EMPLOYMENT CONSULTANCY (22C1013)
+Agency Details: Main Branch:
+135, MIDDLE ROAD, #02-01, BYLANDS BUILDING, Singapore - 188975
+86869559
+
+Page 21 - Agency ID: eadAllAgenciesForm:allAgenciesList:165:j_id_16_57
+Agency Name: TREASURES EMPLOYMENT AGENCY PTE. LTD. (22C1162)
+Agency Details: Main Branch:
+345, GEYLANG ROAD, #01-38, PAVILION SQUARE, Singapore - 389366
+81217266
+
+Page 21 - Agency ID: eadAllAgenciesForm:allAgenciesList:166:j_id_16_57
+Agency Name: GRACIOUS MAIDS PTE. LTD. (22C0934)
+Agency Details: Main Branch:
+11, COLLYER QUAY, #17-00, THE ARCADE, Singapore - 049317
+88183455
+
+Page 21 - Agency ID: eadAllAgenciesForm:allAgenciesList:167:j_id_16_57
+Agency Name: HUSINDO EMPLOYMENT AGENCY PTE. LTD. (04C2858)
+Agency Details: Main Branch:
+66, HORNE ROAD, #04-00, Singapore - 209073
+69098092
+
+Page 22 - Agency ID: eadAllAgenciesForm:allAgenciesList:168:j_id_16_57
+Agency Name: PATIENCE EMPLOYMENT AGENCY (06C4819)
+Agency Details: Main Branch:
+408, ANG MO KIO AVENUE 10, #01-797, Singapore - 560408
+64583313
+
+Page 22 - Agency ID: eadAllAgenciesForm:allAgenciesList:169:j_id_16_57
+Agency Name: SINGAPORE MAID HUB PTE. LTD. (12C6066)
+Agency Details: Main Branch:
+36, LENGKONG SATU, Singapore - 417513
+63452612
+
+Page 22 - Agency ID: eadAllAgenciesForm:allAgenciesList:170:j_id_16_57
+Agency Name: SINGCLASS SERVICES INTERNATIONAL PTE. LTD. (08C4366)
+Agency Details: Main Branch:
+45, CARLISLE ROAD, Singapore - 219622
+
+Page 22 - Agency ID: eadAllAgenciesForm:allAgenciesList:171:j_id_16_57
+Agency Name: BESTMATCH EMPLOYMENT AGENCY PTE. LTD. (21C0776)
+Agency Details: Main Branch:
+875B, TAMPINES STREET 86, Singapore - 522875
+87767686
+
+Page 22 - Agency ID: eadAllAgenciesForm:allAgenciesList:172:j_id_16_57
+Agency Name: JMS MANAGEMENT & RESOURCES (96C3422)
+Agency Details: Main Branch:
+50, EAST COAST ROAD, #01-47, ROXY SQUARE, Singapore - 428769
+63457498
+
+Page 22 - Agency ID: eadAllAgenciesForm:allAgenciesList:173:j_id_16_57
+Agency Name: ABERDEEN EMPLOYMENT SERVICES (93C3446)
+Agency Details: Main Branch:
+14, JALAN RABU, #00-00, THOMSON GARDEN ESTATE, Singapore - 577030
+90177421
+
+Page 22 - Agency ID: eadAllAgenciesForm:allAgenciesList:174:j_id_16_57
+Agency Name: P & Q SERVICES (01C5646)
+Agency Details: Main Branch:
+50, EAST COAST ROAD, #01-77, ROXY SQUARE, Singapore - 428769
+62479661
+
+Page 22 - Agency ID: eadAllAgenciesForm:allAgenciesList:175:j_id_16_57
+Agency Name: VALUE EMPLOYMENT SERVICES PTE LTD (98C5586)
+Agency Details: Main Branch:
+68, JALAN JURONG KECHIL, #01-34, SUITES AT BUKIT TIMAH, Singapore - 596180
+63140087
+
+Page 23 - Agency ID: eadAllAgenciesForm:allAgenciesList:176:j_id_16_57
+Agency Name: MANUEL EMPLOYMENT AGENCY (23C1473)
+Agency Details: Main Branch:
+810, GEYLANG ROAD, #02-90, CITY PLAZA, Singapore - 409286
+92712191
+
+Page 23 - Agency ID: eadAllAgenciesForm:allAgenciesList:177:j_id_16_57
+Agency Name: NJ EMPLOYMENT PTE. LTD. (18C9253)
+Agency Details: Main Branch:
+10, ANSON ROAD, #10-11, INTERNATIONAL PLAZA, Singapore - 079903
+93354233
+
+Page 23 - Agency ID: eadAllAgenciesForm:allAgenciesList:178:j_id_16_57
+Agency Name: MERMAID EMPLOYMENT PTE. LTD. (13C6616)
+Agency Details: Main Branch:
+1, SCOTTS ROAD, #24-10, SHAW CENTRE, Singapore - 228208
+94881104
+
+Page 23 - Agency ID: eadAllAgenciesForm:allAgenciesList:179:j_id_16_57
+Agency Name: NORA EMPLOYMENT AGENCY (03C3699)
+Agency Details: Main Branch:
+258, PASIR RIS STREET 21, #01-11, LOYANG POINT, Singapore - 510258
+65838200
+
+Page 23 - Agency ID: eadAllAgenciesForm:allAgenciesList:180:j_id_16_57
+Agency Name: YISHUN EMPLOYMENT (00C5496)
+Agency Details: Main Branch:
+930, YISHUN CENTRAL 1, #01-125, Singapore - 760930
+67566088
+
+Page 23 - Agency ID: eadAllAgenciesForm:allAgenciesList:181:j_id_16_57
+Agency Name: ICARE MAID SOLUTIONS (18C9486)
+Agency Details: Main Branch:
+111, NORTH BRIDGE ROAD, #05-14, PENINSULA PLAZA, Singapore - 179098
+87765175
+
+Page 23 - Agency ID: eadAllAgenciesForm:allAgenciesList:182:j_id_16_57
+Agency Name: CORPORATE MISSION AGENCY (21C0683)
+Agency Details: Main Branch:
+333, SEMBAWANG CLOSE, #08-427, Singapore - 750333
+96307071
+
+Page 23 - Agency ID: eadAllAgenciesForm:allAgenciesList:183:j_id_16_57
+Agency Name: FIRST MAID AGENCY PTE. LTD. (20C0189)
+Agency Details: Main Branch:
+-, UPPER BUKIT TIMAH ROAD, #B1-21, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+84887603
+
+Page 24 - Agency ID: eadAllAgenciesForm:allAgenciesList:184:j_id_16_57
+Agency Name: JEA INTERNATIONAL SERVICES (14C7376)
+Agency Details: Main Branch:
+6, WHAMPOA EAST, #10-14, EIGHT RIVERSUITES, Singapore - 338519
+65280797
+
+Page 24 - Agency ID: eadAllAgenciesForm:allAgenciesList:185:j_id_16_57
+Agency Name: SPHAIRA EMPLOYMENT SERVICES (96C4148)
+Agency Details: Main Branch:
+107, WEST COAST VALE, #20-07, Singapore - 126751
+62938908
+
+Page 24 - Agency ID: eadAllAgenciesForm:allAgenciesList:186:j_id_16_57
+Agency Name: E MANPOWER PTE. LTD. (09C4780)
+Agency Details: Main Branch:
+31, CAVAN ROAD, Singapore - 209857
+64591471
+
+Page 24 - Agency ID: eadAllAgenciesForm:allAgenciesList:187:j_id_16_57
+Agency Name: PRO MAIDS (06C3123)
+Agency Details: Main Branch:
+208, HOUGANG STREET 21, #02-207, Singapore - 530208
+62820433
+
+Page 24 - Agency ID: eadAllAgenciesForm:allAgenciesList:188:j_id_16_57
+Agency Name: WE ARE CARING PTE. LTD. (15C7788)
+Agency Details: Main Branch:
+61, KILLINEY ROAD, #02-00, Singapore - 239522
+31634636
+
+Page 24 - Agency ID: eadAllAgenciesForm:allAgenciesList:189:j_id_16_57
+Agency Name: HELPER EMPLOYMENT PTE. LTD. (09C3719)
+Agency Details: Main Branch:
+3, EVERTON PARK, #01-69, Singapore - 080003
+62217787
+
+Page 24 - Agency ID: eadAllAgenciesForm:allAgenciesList:190:j_id_16_57
+Agency Name: THE EXPAT TOUCH PARTNERSHIP PTE. LTD. (12C6193)
+Agency Details: Main Branch:
+15, COVE WAY, #03-05, CAPE ROYALE, Singapore - 098204
+92970224
+
+Page 24 - Agency ID: eadAllAgenciesForm:allAgenciesList:191:j_id_16_57
+Agency Name: APAC EMPLOYMENT MANAGEMENT PTE. LTD. (91C4367)
+Agency Details: Main Branch:
+587, BUKIT TIMAH ROAD, #03-27, CORONATION PLAZA, Singapore - 269707
+64680200
+
+Page 25 - Agency ID: eadAllAgenciesForm:allAgenciesList:192:j_id_16_57
+Agency Name: FME MANAGEMENT PTE LTD (94C3013)
+Agency Details: Main Branch:
+75D, REDHILL ROAD, #01-104, Singapore - 154075
+64760213
+
+Page 25 - Agency ID: eadAllAgenciesForm:allAgenciesList:193:j_id_16_57
+Agency Name: PREMIER EMPLOYMENT AGENCY PTE. LTD. (18C9205)
+Agency Details: Main Branch:
+21, CHOA CHU KANG NORTH 6, #B1-11A, YEWTEE POINT, Singapore - 689578
+69707497
+
+Page 25 - Agency ID: eadAllAgenciesForm:allAgenciesList:194:j_id_16_57
+Agency Name: TOP ONE EMPLOYMENT AGENCY PTE. LTD. (22C0902)
+Agency Details: Main Branch:
+400, BALESTIER ROAD, #02-15, BALESTIER PLAZA, Singapore - 329802
+65303602
+
+Page 25 - Agency ID: eadAllAgenciesForm:allAgenciesList:195:j_id_16_57
+Agency Name: SUPER EMPLOYMENT SPECIALIST PTE. LTD. (16C7846)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #05-18, FAR EAST SHOPPING CENTRE, Singapore - 238882
+67325855
+
+Page 25 - Agency ID: eadAllAgenciesForm:allAgenciesList:196:j_id_16_57
+Agency Name: OCTUS EMPLOYMENT AGENCY PTE. LTD. (23C1608)
+Agency Details: Main Branch:
+10, TECK WHYE AVENUE, #05-63, Singapore - 680010
+80663151
+
+Page 25 - Agency ID: eadAllAgenciesForm:allAgenciesList:197:j_id_16_57
+Agency Name: REY EMPLOYMENT AGENCY PTE. LTD. (09C5662)
+Agency Details: Main Branch:
+3, LENGKONG EMPAT, #07-08, GROSVENOR VIEW, Singapore - 417611
+82008660
+
+Page 25 - Agency ID: eadAllAgenciesForm:allAgenciesList:198:j_id_16_57
+Agency Name: UNITY EMPLOYMENT SERVICES (05C4080)
+Agency Details: Main Branch:
+1, COLEMAN STREET, #02-03, ADELPHI, THE, Singapore - 179803
+63360700
+
+Page 25 - Agency ID: eadAllAgenciesForm:allAgenciesList:199:j_id_16_57
+Agency Name: EARLY BRIGHT EMPLOYMENT SERVICES PTE. LTD. (21C0620)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #02-75, KATONG SHOPPING CENTRE, Singapore - 437844
+91422262
+
+Page 26 - Agency ID: eadAllAgenciesForm:allAgenciesList:200:j_id_16_57
+Agency Name: GLADDEN EMPLOYMENT AGENCY (09C4252)
+Agency Details: Main Branch:
+10, RAEBURN PARK, #02-08, Singapore - 088702
+
+Page 26 - Agency ID: eadAllAgenciesForm:allAgenciesList:201:j_id_16_57
+Agency Name: 1 CARE AGENCY PTE. LTD. (23C1468)
+Agency Details: Main Branch:
+38, JALAN PEMIMPIN, #03-05, M38, Singapore - 577178
+84480820
+
+Page 26 - Agency ID: eadAllAgenciesForm:allAgenciesList:202:j_id_16_57
+Agency Name: LOYAL EMPLOYMENT AGENCY (21C0541)
+Agency Details: Main Branch:
+828, TAMPINES STREET 81, #01-248, TAMPINES GROVE, Singapore - 520828
+82738008
+
+Page 26 - Agency ID: eadAllAgenciesForm:allAgenciesList:203:j_id_16_57
+Agency Name: CEZ EMPLOYMENT SERVICES (08C5711)
+Agency Details: Main Branch:
+304, ORCHARD ROAD, #04-10, LUCKY PLAZA, Singapore - 238863
+67375776
+
+Page 26 - Agency ID: eadAllAgenciesForm:allAgenciesList:204:j_id_16_57
+Agency Name: D'MAID AGENCY BY SYED ALI (17C8815)
+Agency Details: Main Branch:
+430, UPPER CHANGI ROAD, #01-42, EAST VILLAGE, Singapore - 487048
+96329200
+
+Page 26 - Agency ID: eadAllAgenciesForm:allAgenciesList:205:j_id_16_57
+Agency Name: PRESSLINK EMPLOYMENT & MAID AGENCY (07C3943)
+Agency Details: Main Branch:
+473, SEMBAWANG DRIVE, #08-349, Singapore - 750473
+63620291
+
+Page 26 - Agency ID: eadAllAgenciesForm:allAgenciesList:206:j_id_16_57
+Agency Name: 1ST SYNERGY EMPLOYMENT PTE. LTD. (14C7269)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #01-44, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64661696
+
+Page 26 - Agency ID: eadAllAgenciesForm:allAgenciesList:207:j_id_16_57
+Agency Name: A A INTERNATIONAL RECRUITMENT (23C1873)
+Agency Details: Main Branch:
+3023, UBI ROAD 3, #05-18, UBIPLEX 1, Singapore - 408663
+98352466
+
+Page 27 - Agency ID: eadAllAgenciesForm:allAgenciesList:208:j_id_16_57
+Agency Name: ASIA PLACEMENT GLOBAL PRIVATE LIMITED (15C7498)
+Agency Details: Main Branch:
+9, JALAN KUKOH, #01-73, CHIN SWEE VIEW, Singapore - 160009
+62228228
+
+Page 27 - Agency ID: eadAllAgenciesForm:allAgenciesList:209:j_id_16_57
+Agency Name: AURORA EMPLOYMENT SERVICES PTE. LTD. (20C0347)
+Agency Details: Main Branch:
+54, LORONG 23 GEYLANG, #03-01A, TM@54, Singapore - 388380
+90239159
+
+Page 27 - Agency ID: eadAllAgenciesForm:allAgenciesList:210:j_id_16_57
+Agency Name: BETTERHELP RECRUITMENT AGENCY PTE. LTD. (09C4289)
+Agency Details: Main Branch:
+1, BROOKE ROAD, #B-21, KATONG PLAZA, Singapore - 429979
+67387130
+
+Page 27 - Agency ID: eadAllAgenciesForm:allAgenciesList:211:j_id_16_57
+Agency Name: BEYOND BIBIK (20C0179)
+Agency Details: Main Branch:
+430, UPPER CHANGI ROAD, #01-40, EAST VILLAGE, Singapore - 487048
+81289573
+
+Page 27 - Agency ID: eadAllAgenciesForm:allAgenciesList:212:j_id_16_57
+Agency Name: BKY CONFINEMENT (17C8851)
+Agency Details: Main Branch:
+325C, SENGKANG EAST WAY, #06-637, ANCHORVALE GROVE, Singapore - 543325
+81181689
+
+Page 27 - Agency ID: eadAllAgenciesForm:allAgenciesList:213:j_id_16_57
+Agency Name: BLAKELIN METIER AGCY (23C1857)
+Agency Details: Main Branch:
+606C, TAMPINES STREET 61, #07-384, TAMPINES GREENRIDGES, Singapore - 523606
+87427086
+
+Page 27 - Agency ID: eadAllAgenciesForm:allAgenciesList:214:j_id_16_57
+Agency Name: COZY HOME EMPLOYMENT SERVICES (10C4775)
+Agency Details: Main Branch:
+50, EAST COAST ROAD, ##02-42, ROXY SQUARE, Singapore - 428769
+84682706
+
+Page 27 - Agency ID: eadAllAgenciesForm:allAgenciesList:215:j_id_16_57
+Agency Name: DSSL EXPRESS (13C6870)
+Agency Details: Main Branch:
+1, BROOKE ROAD, #02-39, KATONG PLAZA, Singapore - 429979
+63421108
+
+Page 28 - Agency ID: eadAllAgenciesForm:allAgenciesList:216:j_id_16_57
+Agency Name: EMPLOYMENT AGENCY (23C1520)
+Agency Details: Main Branch:
+724, YISHUN STREET 71, #06-183, KHATIB SPRING, Singapore - 760724
+93650275
+
+Page 28 - Agency ID: eadAllAgenciesForm:allAgenciesList:217:j_id_16_57
+Agency Name: GAN RECRUITMENT (19C9860)
+Agency Details: Main Branch:
+435C, FERNVALE ROAD, #24-224, FERNVALE RESIDENCE, Singapore - 793435
+97708353
+
+Page 28 - Agency ID: eadAllAgenciesForm:allAgenciesList:218:j_id_16_57
+Agency Name: HI-TECHLINK INTERNATIONAL PTE. LTD. (06C4239)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #05-40B, FAR EAST SHOPPING CENTRE, Singapore - 238882
+62968161
+
+Page 28 - Agency ID: eadAllAgenciesForm:allAgenciesList:219:j_id_16_57
+Agency Name: JUST RECRUIT SINGAPORE PTE. LTD. (12C6295)
+Agency Details: Main Branch:
+18, HOWARD ROAD, #09-11, NOVELTY BIZCENTRE, Singapore - 369585
+62222426
+
+Page 28 - Agency ID: eadAllAgenciesForm:allAgenciesList:220:j_id_16_57
+Agency Name: KINGSTAR SERVICES PTE. LTD. (18C9446)
+Agency Details: Main Branch:
+60, PAYA LEBAR ROAD, #07-54, PAYA LEBAR SQUARE, Singapore - 409051
+90922500
+
+Page 28 - Agency ID: eadAllAgenciesForm:allAgenciesList:221:j_id_16_57
+Agency Name: LOST AND FOUND JOB PTE. LTD. (21C0726)
+Agency Details: Main Branch:
+276, BUKIT BATOK EAST AVENUE 4, #02-112, Singapore - 650276
+83337855
+
+Page 28 - Agency ID: eadAllAgenciesForm:allAgenciesList:222:j_id_16_57
+Agency Name: MYANMAR MAID TRAINING CENTRE LLP (22C1064)
+Agency Details: Main Branch:
+657B, JURONG WEST STREET 65, #12-648, Singapore - 642657
+82000631
+
+Page 28 - Agency ID: eadAllAgenciesForm:allAgenciesList:223:j_id_16_57
+Agency Name: NL RECRUITMENT SERVICES (96C4562)
+Agency Details: Main Branch:
+808, FRENCH ROAD, #03-02, KITCHENER COMPLEX, Singapore - 200808
+63375438
+
+Page 29 - Agency ID: eadAllAgenciesForm:allAgenciesList:224:j_id_16_57
+Agency Name: PROSPECTS MANPOWER PTE. LTD. (16C8273)
+Agency Details: Main Branch:
+57, UBI AVENUE 1, #06-02, UBI CENTRE, Singapore - 408936
+
+Page 29 - Agency ID: eadAllAgenciesForm:allAgenciesList:225:j_id_16_57
+Agency Name: RED DOT MANPOWER PTE. LTD. (22C1126)
+Agency Details: Main Branch:
+60, PAYA LEBAR ROAD, #07-54, PAYA LEBAR SQUARE, Singapore - 409051
+88959838
+
+Page 29 - Agency ID: eadAllAgenciesForm:allAgenciesList:226:j_id_16_57
+Agency Name: RICHER RECRUITMENT SERVICES PTE. LTD. (12C6108)
+Agency Details: Main Branch:
+531, UPPER CROSS STREET, #04-58, HONG LIM COMPLEX, Singapore - 050531
+62357948
+
+Page 29 - Agency ID: eadAllAgenciesForm:allAgenciesList:227:j_id_16_57
+Agency Name: ROZBACH MCS (13C6473)
+Agency Details: Main Branch:
+9, PUAY HEE AVENUE, ##01-01, SENNETT ESTATE, Singapore - 348111
+65025981
+
+Page 29 - Agency ID: eadAllAgenciesForm:allAgenciesList:228:j_id_16_57
+Agency Name: STARLIGHT MANPOWER SERVICES (16C7947)
+Agency Details: Main Branch:
+3, ANG MO KIO STREET 62, #06-17, LINK@AMK, Singapore - 569139
+63661227
+
+Page 29 - Agency ID: eadAllAgenciesForm:allAgenciesList:229:j_id_16_57
+Agency Name: SUCI WAYS PRIVATE LIMITED (07C4114)
+Agency Details: Main Branch:
+428, PASIR RIS DRIVE 6, #08-27, Singapore - 510428
+9850348
+
+Page 29 - Agency ID: eadAllAgenciesForm:allAgenciesList:230:j_id_16_57
+Agency Name: SUNSHINE EMPLOYMENT SERVICES PTE. LTD. (10C4591)
+Agency Details: Main Branch:
+111, NORTH BRIDGE ROAD, #24-02, PENINSULA PLAZA, Singapore - 179098
+85220161
+
+Page 29 - Agency ID: eadAllAgenciesForm:allAgenciesList:231:j_id_16_57
+Agency Name: SYSTEM EMPLOYMENT AGENCY (94C3919)
+Agency Details: Main Branch:
+41, TYRWHITT ROAD, #01-01, Singapore - 207539
+62516763
+
+Page 30 - Agency ID: eadAllAgenciesForm:allAgenciesList:232:j_id_16_57
+Agency Name: D'HELPER EMPLOYMENT AGENCY PTE. LTD. (17C8641)
+Agency Details: Main Branch:
+215, PASIR RIS STREET 21, #11-282, Singapore - 510215
+65838213
+
+Page 30 - Agency ID: eadAllAgenciesForm:allAgenciesList:233:j_id_16_57
+Agency Name: ABLE BEST EMPLOYMENT AGENCY (03C3662)
+Agency Details: Main Branch:
+8, HOLLAND AVENUE, #01-26, Singapore - 271008
+81529888
+
+Page 30 - Agency ID: eadAllAgenciesForm:allAgenciesList:234:j_id_16_57
+Agency Name: MAID EMPLOYMENT PTE. LTD. (21C0579)
+Agency Details: Main Branch:
+762, JURONG WEST STREET 75, #01-312, GEK POH SHOPPING CENTRE, Singapore - 640762
+67939555
+
+Page 30 - Agency ID: eadAllAgenciesForm:allAgenciesList:235:j_id_16_57
+Agency Name: LL MANAGEMENT SERVICES (96C2827)
+Agency Details: Main Branch:
+21, FABER CRESCENT, FABER HILLS, Singapore - 129468
+67784208
+
+Page 30 - Agency ID: eadAllAgenciesForm:allAgenciesList:236:j_id_16_57
+Agency Name: KRONUS CARE PTE. LTD. (15C7623)
+Agency Details: Main Branch:
+60, PAYA LEBAR ROAD, #05-04, PAYA LEBAR SQUARE, Singapore - 409051
+
+Page 30 - Agency ID: eadAllAgenciesForm:allAgenciesList:237:j_id_16_57
+Agency Name: MANPOWER PERMATA PTE. LTD. (16C8415)
+Agency Details: Main Branch:
+390, VICTORIA STREET, #01-22, THE GOLDEN LANDMARK, Singapore - 188061
+64675005
+
+Page 30 - Agency ID: eadAllAgenciesForm:allAgenciesList:238:j_id_16_57
+Agency Name: GLOBAL TALENTS EVENTS & MANAGEMENT SERVICES PTE. LTD. (11C4131)
+Agency Details: Main Branch:
+10, ANSON ROAD, ##12-13, INTERNATIONAL PLAZA, Singapore - 079903
+62276635
+
+Page 30 - Agency ID: eadAllAgenciesForm:allAgenciesList:239:j_id_16_57
+Agency Name: BARIQ EMPLOYMENT SERVICES PTE. LTD. (22C1175)
+Agency Details: Main Branch:
+109, KAKI BUKIT AVENUE 1, #02-00, SHUN LI INDUSTRIAL PARK, Singapore - 415989
+88307181
+
+Page 31 - Agency ID: eadAllAgenciesForm:allAgenciesList:240:j_id_16_57
+Agency Name: FOCUS EMPLOYMENT SERVICES (17C8576)
+Agency Details: Main Branch:
+10, ANSON ROAD, #02-02, INTERNATIONAL PLAZA, Singapore - 079903
+62218738
+
+Page 31 - Agency ID: eadAllAgenciesForm:allAgenciesList:241:j_id_16_57
+Agency Name: MY HOME HELPER (21C0558)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #01-26, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+67630877
+
+Page 31 - Agency ID: eadAllAgenciesForm:allAgenciesList:242:j_id_16_57
+Agency Name: DANS SERVICES (04C3439)
+Agency Details: Main Branch:
+304, ORCHARD ROAD, #04-63, LUCKY PLAZA, Singapore - 238863
+
+Page 31 - Agency ID: eadAllAgenciesForm:allAgenciesList:243:j_id_16_57
+Agency Name: SEA MANPOWER RESOURCES PTE. LTD. (18C9366)
+Agency Details: Main Branch:
+106, RIVERVALE WALK, #13-116, Singapore - 540106
+69608249
+
+Page 31 - Agency ID: eadAllAgenciesForm:allAgenciesList:244:j_id_16_57
+Agency Name: BRILLIANT SKY EMPLOYMENT AGENCY (11C4326)
+Agency Details: Main Branch:
+824, TAMPINES STREET 81, #01-18, TAMPINES GROVE, Singapore - 520824
+90698861
+
+Page 31 - Agency ID: eadAllAgenciesForm:allAgenciesList:245:j_id_16_57
+Agency Name: IBEST EMPLOYMENT SERVICES PTE. LTD. (09C5237)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #02-81J, KATONG SHOPPING CENTRE, Singapore - 437844
+63460281
+
+Page 31 - Agency ID: eadAllAgenciesForm:allAgenciesList:246:j_id_16_57
+Agency Name: ARDENT CONSULTANCY (14C6920)
+Agency Details: Main Branch:
+16, JALAN KILANG TIMOR, #03-04, REDHILL FORUM, Singapore - 159308
+90074006
+
+Page 31 - Agency ID: eadAllAgenciesForm:allAgenciesList:247:j_id_16_57
+Agency Name: EVERSMILE AGENCY (02C3128)
+Agency Details: Main Branch:
+141, RIVERVALE STREET, #05-790, Singapore - 540141
+93878460
+
+Page 32 - Agency ID: eadAllAgenciesForm:allAgenciesList:248:j_id_16_57
+Agency Name: LIVING WELL MAID AGENCY PTE. LTD. (20C0407)
+Agency Details: Main Branch:
+810, GEYLANG ROAD, #03-80, CITY PLAZA, Singapore - 409286
+98795412
+
+Page 32 - Agency ID: eadAllAgenciesForm:allAgenciesList:249:j_id_16_57
+Agency Name: AM EMPLOYMENT & SERVICES (14C7089)
+Agency Details: Main Branch:
+756, UPPER SERANGOON ROAD, #02-44, UPPER SERANGOON SHOPPING CENTRE, Singapore - 534626
+
+Page 32 - Agency ID: eadAllAgenciesForm:allAgenciesList:250:j_id_16_57
+Agency Name: CHEERFUL EMPLOYMENT SERVICES PTE. LTD. (23C1666)
+Agency Details: Main Branch:
+1010, DOVER ROAD, #03-01, Singapore - 139658
+81834219
+
+Page 32 - Agency ID: eadAllAgenciesForm:allAgenciesList:251:j_id_16_57
+Agency Name: HOME EMPLOYMENT SERVICE CENTRE PTE. LTD. (05C3492)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #01-68, KATONG SHOPPING CENTRE, Singapore - 437844
+63482555
+
+Page 32 - Agency ID: eadAllAgenciesForm:allAgenciesList:252:j_id_16_57
+Agency Name: SG TRANSFER MAID PTE. LTD. (13C6805)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #04-23, FAR EAST SHOPPING CENTRE, Singapore - 238882
+67347350
+
+Page 32 - Agency ID: eadAllAgenciesForm:allAgenciesList:253:j_id_16_57
+Agency Name: A.C.E.S. EMPLOYMENT AGENCY PTE. LTD. (17C8540)
+Agency Details: Main Branch:
+171A, EDGEDALE PLAINS, #15-422, Singapore - 821171
+94303124
+
+Page 32 - Agency ID: eadAllAgenciesForm:allAgenciesList:254:j_id_16_57
+Agency Name: BB EMPLOYMENT AGENCY (19C9985)
+Agency Details: Main Branch:
+203B, PUNGGOL FIELD, #09-334, Singapore - 822203
+93679920
+
+Page 32 - Agency ID: eadAllAgenciesForm:allAgenciesList:255:j_id_16_57
+Agency Name: GM CONNECTION PTE. LTD. (18C9275)
+Agency Details: Main Branch:
+111, NORTH BRIDGE ROAD, #05-53, PENINSULA PLAZA, Singapore - 179098
+61001987
+
+Page 33 - Agency ID: eadAllAgenciesForm:allAgenciesList:256:j_id_16_57
+Agency Name: MASTER MAID AGENCY PTE. LTD. (22C1237)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #03-71, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64668073
+
+Page 33 - Agency ID: eadAllAgenciesForm:allAgenciesList:257:j_id_16_57
+Agency Name: TRINITY EMPLOYMENT PTE. LTD. (19C9729)
+Agency Details: Main Branch:
+18, YISHUN AVENUE 9, #02-52, JUNCTION NINE, Singapore - 768897
+66896203
+
+Page 33 - Agency ID: eadAllAgenciesForm:allAgenciesList:258:j_id_16_57
+Agency Name: PASSION EMPLOYMENT AGENCY PTE. LTD. (08C4308)
+Agency Details: Main Branch:
+50, EAST COAST ROAD, #1-57, ROXY SQUARE, Singapore - 428769
+
+Page 33 - Agency ID: eadAllAgenciesForm:allAgenciesList:259:j_id_16_57
+Agency Name: FAIRMAID AGENCY (89C4700)
+Agency Details: Main Branch:
+6, FLORA DRIVE, #01-72, CARISSA PARK CONDOMINIUM, Singapore - 507027
+67828172
+
+Page 33 - Agency ID: eadAllAgenciesForm:allAgenciesList:260:j_id_16_57
+Agency Name: THE HR CONNECTIONS PTE LTD (01C4623)
+Agency Details: Main Branch:
+10, ANSON ROAD, #12-13, INTERNATIONAL PLAZA, Singapore - 079903
+88387688
+
+Page 33 - Agency ID: eadAllAgenciesForm:allAgenciesList:261:j_id_16_57
+Agency Name: VGA EMPLOYMENT AGENCY (00C4225)
+Agency Details: Main Branch:
+345, GEYLANG ROAD, #01-23, PAVILION SQUARE, Singapore - 389366
+62233571
+
+Page 33 - Agency ID: eadAllAgenciesForm:allAgenciesList:262:j_id_16_57
+Agency Name: ADOGE RESOURCES PTE. LTD. (17C8954)
+Agency Details: Main Branch:
+89, BEDOK NORTH STREET 4, #01-93, Singapore - 460089
+66556113
+
+Page 33 - Agency ID: eadAllAgenciesForm:allAgenciesList:263:j_id_16_57
+Agency Name: TOP FAITH PTE. LTD. (20C0302)
+Agency Details: Main Branch:
+103A, BIDADARI PARK DRIVE, #10-27, Singapore - 341103
+83680048
+
+Page 34 - Agency ID: eadAllAgenciesForm:allAgenciesList:264:j_id_16_57
+Agency Name: NEW DAYS CONSULTANCY PTE. LTD. (22C1356)
+Agency Details: Main Branch:
+2, BALESTIER ROAD, #03-685, BALESTIER HILL SHOPPING CENTRE, Singapore - 320002
+98588528
+
+Page 34 - Agency ID: eadAllAgenciesForm:allAgenciesList:265:j_id_16_57
+Agency Name: MAID-MOISELLE PTE. LTD. (20C0382)
+Agency Details: Main Branch:
+2, YISHUN INDUSTRIAL STREET 1, #07-33, NORTH POINT BIZHUB, Singapore - 768159
+92706485
+
+Page 34 - Agency ID: eadAllAgenciesForm:allAgenciesList:266:j_id_16_57
+Agency Name: MAIDEX EMPLOYMENT PTE. LTD. (22C1415)
+Agency Details: Main Branch:
+21, WOODLANDS CLOSE, #09-17, PRIMZ BIZHUB, Singapore - 737854
+93292212
+
+Page 34 - Agency ID: eadAllAgenciesForm:allAgenciesList:267:j_id_16_57
+Agency Name: MY MAIDS STATION PTE. LTD. (12C5807)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #02-55, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+
+Page 34 - Agency ID: eadAllAgenciesForm:allAgenciesList:268:j_id_16_57
+Agency Name: WORKHOME PERSONNEL (05C3858)
+Agency Details: Main Branch:
+400, ORCHARD ROAD, #02-29, ORCHARD TOWERS, Singapore - 238875
+96634112
+
+Page 34 - Agency ID: eadAllAgenciesForm:allAgenciesList:269:j_id_16_57
+Agency Name: BAWEAN PUTRA RESOURCES (06C4576)
+Agency Details: Main Branch:
+810, GEYLANG ROAD, #01-77, CITY PLAZA, Singapore - 409286
+67455963
+
+Page 34 - Agency ID: eadAllAgenciesForm:allAgenciesList:270:j_id_16_57
+Agency Name: SINGKANG EMPLOYMENT AGENCY PTE LTD (98C4923)
+Agency Details: Main Branch:
+271, BUKIT TIMAH ROAD, #04-03, BALMORAL PLAZA, Singapore - 259708
+64755777
+
+Page 34 - Agency ID: eadAllAgenciesForm:allAgenciesList:271:j_id_16_57
+Agency Name: IMTIDAD EMPLOYMENT SOLUTIONS PTE. LTD. (13C6386)
+Agency Details: Main Branch:
+2, JURONG EAST STREET 21, #03-182, IMM BUILDING, Singapore - 609601
+65692262
+
+Page 35 - Agency ID: eadAllAgenciesForm:allAgenciesList:272:j_id_16_57
+Agency Name: SKY EMPLOYMENT AGENCY (16C7980)
+Agency Details: Main Branch:
+26, BOON LAY WAY, #01-76, TRADEHUB 21, Singapore - 609970
+67950903
+
+Page 35 - Agency ID: eadAllAgenciesForm:allAgenciesList:273:j_id_16_57
+Agency Name: SING ISLAND EMPLOYMENT AGENCY PTE LTD (95C4805)
+Agency Details: Main Branch:
+101, UPPER CROSS STREET, #03-15, PEOPLE'S PARK CENTRE, Singapore - 058357
+65352122
+
+Page 35 - Agency ID: eadAllAgenciesForm:allAgenciesList:274:j_id_16_57
+Agency Name: ANSON MAE MANPOWER SERVICES PTE. LTD. (10C5650)
+Agency Details: Main Branch:
+1, SOPHIA ROAD, #05-32, PEACE CENTRE, Singapore - 228149
+63342533
+
+Page 35 - Agency ID: eadAllAgenciesForm:allAgenciesList:275:j_id_16_57
+Agency Name: IDEAL GEMS MANPOWER (24C2085)
+Agency Details: Main Branch:
+2, DEFU LANE 10, #04-507, DEFU INDUSTRIAL ESTATE, Singapore - 539183
+80337558
+
+Page 35 - Agency ID: eadAllAgenciesForm:allAgenciesList:276:j_id_16_57
+Agency Name: ASIA GURU MANPOWER SERVICES PTE. LTD. (22C1052)
+Agency Details: Main Branch:
+-, SUNVIEW ROAD, #03-13, ECO-TECH@SUNVIEW, Singapore - 627615
+81188402
+
+Page 35 - Agency ID: eadAllAgenciesForm:allAgenciesList:277:j_id_16_57
+Agency Name: ASTAR HOUSEKEEPING PTE. LTD. (21C0448)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #B1-64, KATONG SHOPPING CENTRE, Singapore - 437844
+83598878
+
+Page 35 - Agency ID: eadAllAgenciesForm:allAgenciesList:278:j_id_16_57
+Agency Name: JOBSEARCH MANPOWER SERVICES (11C2121)
+Agency Details: Main Branch:
+313, SHUNFU ROAD, #06-287, SHUNFU GARDENS, Singapore - 570313
+68365398
+
+Page 35 - Agency ID: eadAllAgenciesForm:allAgenciesList:279:j_id_16_57
+Agency Name: GALILEE EMPLOYMENT AGENCY PTE. LTD. (14C7168)
+Agency Details: Main Branch:
+213, JURONG EAST STREET 21, ##05-281, Singapore - 600213
+
+Page 36 - Agency ID: eadAllAgenciesForm:allAgenciesList:280:j_id_16_57
+Agency Name: 21ST CENTURY EMPLOYMENT PTE. LTD. (15C7472)
+Agency Details: Main Branch:
+304, ORCHARD ROAD, #04-04, LUCKY PLAZA, Singapore - 238863
+67371022
+
+Page 36 - Agency ID: eadAllAgenciesForm:allAgenciesList:281:j_id_16_57
+Agency Name: MD EMPLOYMENT NETWORK PTE. LTD. (12C6211)
+Agency Details: Main Branch:
+100, TRAS STREET, #09-01, 100 AM, Singapore - 079027
+97526957
+
+Page 36 - Agency ID: eadAllAgenciesForm:allAgenciesList:282:j_id_16_57
+Agency Name: SHAZZY EMPLOYMENT AGENCY (18C9219)
+Agency Details: Main Branch:
+358, WOODLANDS AVENUE 5, #02-374, Singapore - 730358
+98757645
+
+Page 36 - Agency ID: eadAllAgenciesForm:allAgenciesList:283:j_id_16_57
+Agency Name: TEAM-UP RECRUITMENT LLP (18C9145)
+Agency Details: Main Branch:
+144, UPPER BUKIT TIMAH ROAD, #02-18, BEAUTY WORLD CENTRE, Singapore - 588177
+64650388
+
+Page 36 - Agency ID: eadAllAgenciesForm:allAgenciesList:284:j_id_16_57
+Agency Name: HOUSE ON HIRE (PTE. LTD.) (22C1384)
+Agency Details: Main Branch:
+-, UBI ROAD 1, #04-05, OXLEY BIZHUB, Singapore - 520460
+88004248
+
+Page 36 - Agency ID: eadAllAgenciesForm:allAgenciesList:285:j_id_16_57
+Agency Name: H2 CONSULTING (00C3124)
+Agency Details: Main Branch:
+993, BUKIT TIMAH ROAD, #01-09, MAPLE WOODS, Singapore - 589631
+63330992
+
+Page 36 - Agency ID: eadAllAgenciesForm:allAgenciesList:286:j_id_16_57
+Agency Name: BEST CHOICE EMPLOYMENT SERVICES (04C4489)
+Agency Details: Main Branch:
+27, HAZEL PARK TERRACE, #02-04, HAZEL PARK CONDOMINIUM, Singapore - 678949
+94529460
+
+Page 36 - Agency ID: eadAllAgenciesForm:allAgenciesList:287:j_id_16_57
+Agency Name: DOMESTIC 21 EMPLOYMENT AGENCY (18C9207)
+Agency Details: Main Branch:
+713, CLEMENTI WEST STREET 2, #01-121, Singapore - 120713
+67770030
+
+Page 37 - Agency ID: eadAllAgenciesForm:allAgenciesList:288:j_id_16_57
+Agency Name: J RECRUITMENT SERVICES PTE. LTD. (19C0004)
+Agency Details: Main Branch:
+606, CHOA CHU KANG STREET 62, #05-135, Singapore - 680606
+96659680
+
+Page 37 - Agency ID: eadAllAgenciesForm:allAgenciesList:289:j_id_16_57
+Agency Name: SERVLINK EMPLOYMENT AGENCY (01C4583)
+Agency Details: Main Branch:
+149, ROCHOR ROAD, #03-19, FU LU SHOU COMPLEX, Singapore - 188425
+62933565
+
+Page 37 - Agency ID: eadAllAgenciesForm:allAgenciesList:290:j_id_16_57
+Agency Name: TANG MAID AGENCY (21C0559)
+Agency Details: Main Branch:
+211, HOUGANG STREET 21, #01-285, Singapore - 530211
+89388106
+
+Page 37 - Agency ID: eadAllAgenciesForm:allAgenciesList:291:j_id_16_57
+Agency Name: DIRECT MAIDS CONSULTANCY PTE. LTD. (17C8779)
+Agency Details: Main Branch:
+401, RACE COURSE ROAD, Singapore - 218652
+93208198
+
+Page 37 - Agency ID: eadAllAgenciesForm:allAgenciesList:292:j_id_16_57
+Agency Name: STAFFERS MANPOWER CENTRE (86C3762)
+Agency Details: Main Branch:
+632, BEDOK RESERVOIR ROAD, #01-832, EUNOS GROVE, Singapore - 470632
+98160208
+
+Page 37 - Agency ID: eadAllAgenciesForm:allAgenciesList:293:j_id_16_57
+Agency Name: CHARMING MAY EMPLOYMENT AGENCY LIMITED LIABILITY PARTNERSHIP (22C1286)
+Agency Details: Main Branch:
+883, NORTH BRIDGE ROAD, #04-04, SOUTHBANK, Singapore - 198785
+82062822
+
+Page 37 - Agency ID: eadAllAgenciesForm:allAgenciesList:294:j_id_16_57
+Agency Name: 3SSHALINIS EMPLOYMENT MAGIC PTE. LTD. (20C0391)
+Agency Details: Main Branch:
+10, KAKI BUKIT ROAD 2, #03-36, FIRST EAST CENTRE, Singapore - 417868
+91143641
+
+Page 37 - Agency ID: eadAllAgenciesForm:allAgenciesList:295:j_id_16_57
+Agency Name: GRACE HARMONY MANPOWER PTE. LTD. (23C1578)
+Agency Details: Main Branch:
+48, TOH GUAN ROAD EAST, #01-132, ENTERPRISE HUB, Singapore - 608586
+82675856
+
+Page 38 - Agency ID: eadAllAgenciesForm:allAgenciesList:296:j_id_16_57
+Agency Name: INSTAMAIDS(EMPLOYMENT AGENCY) (17C8508)
+Agency Details: Main Branch:
+22, SIN MING LANE, #06-76, MIDVIEW CITY, Singapore - 573969
+
+Page 38 - Agency ID: eadAllAgenciesForm:allAgenciesList:297:j_id_16_57
+Agency Name: LGS HR CONSULTANTS PRIVATE LIMITED (03C4483)
+Agency Details: Main Branch:
+587, BUKIT TIMAH ROAD, #03-21, CORONATION PLAZA, Singapore - 269707
+64683831
+
+Page 38 - Agency ID: eadAllAgenciesForm:allAgenciesList:298:j_id_16_57
+Agency Name: MAID EASILY PTE. LTD. (22C0920)
+Agency Details: Main Branch:
+390, VICTORIA STREET, #03-12, THE GOLDEN LANDMARK, Singapore - 188061
+88173891
+
+Page 38 - Agency ID: eadAllAgenciesForm:allAgenciesList:299:j_id_16_57
+Agency Name: MAIDCORP EMPLOYMENT PTE. LTD. (20C0061)
+Agency Details: Main Branch:
+150, SOUTH BRIDGE ROAD, #02-25, FOOK HAI BUILDING, Singapore - 058727
+87202087
+
+Page 38 - Agency ID: eadAllAgenciesForm:allAgenciesList:300:j_id_16_57
+Agency Name: MASTERMAID PTE. LTD. (17C8563)
+Agency Details: Main Branch:
+24, SELETAR GREEN VIEW, Singapore - 805124
+64401323
+
+Page 38 - Agency ID: eadAllAgenciesForm:allAgenciesList:301:j_id_16_57
+Agency Name: QA EMPLOYMENT CONSULTANT PTE. LTD. (04C5357)
+Agency Details: Main Branch:
+175A, BENCOOLEN STREET, #06-08, BURLINGTON SQUARE, Singapore - 189650
+63377449
+
+Page 38 - Agency ID: eadAllAgenciesForm:allAgenciesList:302:j_id_16_57
+Agency Name: SINGAPORE TALENT MANPOWER PTE. LTD. (18C9032)
+Agency Details: Main Branch:
+37, JALAN PEMIMPIN, #02-11, MAPEX, Singapore - 577177
+66850509
+
+Page 38 - Agency ID: eadAllAgenciesForm:allAgenciesList:303:j_id_16_57
+Agency Name: SP MAID AGENCY PTE. LTD. (13C6669)
+Agency Details: Main Branch:
+196, PANDAN LOOP, #06-29, PANTECH BUSINESS HUB, Singapore - 128384
+91466252
+
+Page 39 - Agency ID: eadAllAgenciesForm:allAgenciesList:304:j_id_16_57
+Agency Name: SUAN MAIDS AGENCY PTE. LTD. (22C1032)
+Agency Details: Main Branch:
+12, TANAH MERAH KECHIL AVENUE, Singapore - 465580
+97355377
+
+Page 39 - Agency ID: eadAllAgenciesForm:allAgenciesList:305:j_id_16_57
+Agency Name: SUPERSIS CARE PTE. LTD. (22C0939)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #01-57, KATONG SHOPPING CENTRE, Singapore - 437844
+93677629
+
+Page 39 - Agency ID: eadAllAgenciesForm:allAgenciesList:306:j_id_16_57
+Agency Name: UPVIEW EMPLOYMENT SERVICES (98C5438)
+Agency Details: Main Branch:
+356, TAMPINES STREET 33, #08-624, Singapore - 520356
+63481221
+
+Page 39 - Agency ID: eadAllAgenciesForm:allAgenciesList:307:j_id_16_57
+Agency Name: ZHE AGENCY (SG) PTE. LTD. (21C0478)
+Agency Details: Main Branch:
+9, MAS KUNING TERRACE, THE CLEMENTVALE, Singapore - 126853
+90258165
+
+Page 39 - Agency ID: eadAllAgenciesForm:allAgenciesList:308:j_id_16_57
+Agency Name: EDEN GRACE HUMAN RESOURCES PRIVATE LIMITED (13C6831)
+Agency Details: Main Branch:
+18, SIN MING LANE, #07-38, MIDVIEW CITY, Singapore - 573960
+62625562
+
+Page 39 - Agency ID: eadAllAgenciesForm:allAgenciesList:309:j_id_16_57
+Agency Name: NATION EMPLOYMENT PTE LTD (09C5332)
+Agency Details: Main Branch:
+135, JURONG GATEWAY ROAD, #05-317, Singapore - 600135
+66658199
+
+Page 39 - Agency ID: eadAllAgenciesForm:allAgenciesList:310:j_id_16_57
+Agency Name: SKYFU MANPOWER PTE. LTD. (18C9429)
+Agency Details: Main Branch:
+3, SOUTH BUONA VISTA ROAD, #01-29, VIVA VISTA, Singapore - 118136
+92259898
+
+Page 39 - Agency ID: eadAllAgenciesForm:allAgenciesList:311:j_id_16_57
+Agency Name: SUMMER EMPLOYMENT AGENCY LLP (11C5727)
+Agency Details: Main Branch:
+92, LORONG 4 TOA PAYOH, #01-278, TOA PAYOH PALM SPRING, Singapore - 310092
+62554772
+
+Page 40 - Agency ID: eadAllAgenciesForm:allAgenciesList:312:j_id_16_57
+Agency Name: MNK EMPLOYMENT AGENCY (02C5625)
+Agency Details: Main Branch:
+304, WOODLANDS STREET 31, #01-101, FUCHUN NEIGHBOURHOOD CENTRE, Singapore - 730304
+63685447
+
+Page 40 - Agency ID: eadAllAgenciesForm:allAgenciesList:313:j_id_16_57
+Agency Name: ASSET AGENCY PTE. LTD. (11C4090)
+Agency Details: Main Branch:
+21, HOUGANG STREET 51, #02-22A, HOUGANG GREEN SHOPPING MALL, Singapore - 538719
+63858558
+
+Page 40 - Agency ID: eadAllAgenciesForm:allAgenciesList:314:j_id_16_57
+Agency Name: HEMEI CONSULTANCY SERVICES PTE. LTD. (24C2173)
+Agency Details: Main Branch:
+3, CHURCH STREET, #24-06, SAMSUNG HUB, Singapore - 049483
+88006416
+
+Page 40 - Agency ID: eadAllAgenciesForm:allAgenciesList:315:j_id_16_57
+Agency Name: GLOBEL ASIA MANPOWER CONSULTANTS PTE. LTD. (10C5399)
+Agency Details: Main Branch:
+8, EU TONG SEN STREET, #21-83, THE CENTRAL, Singapore - 059818
+64976619
+
+Page 40 - Agency ID: eadAllAgenciesForm:allAgenciesList:316:j_id_16_57
+Agency Name: ROSE MAID AGENCY (09C3706)
+Agency Details: Main Branch:
+322, UBI AVENUE 1, #04-605, KAMPUNG UBI ESTATE, Singapore - 400322
+67486058
+
+Page 40 - Agency ID: eadAllAgenciesForm:allAgenciesList:317:j_id_16_57
+Agency Name: ML EMPLOYMENT AGENCY (20C0305)
+Agency Details: Main Branch:
+128A, PLANTATION CRESCENT, #04-407, Singapore - 691128
+97308213
+
+Page 40 - Agency ID: eadAllAgenciesForm:allAgenciesList:318:j_id_16_57
+Agency Name: MAID-POWER PTE LTD (92C4657)
+Agency Details: Main Branch:
+304, ORCHARD ROAD, #06-15/16, LUCKY PLAZA, Singapore - 238863
+
+Page 40 - Agency ID: eadAllAgenciesForm:allAgenciesList:319:j_id_16_57
+Agency Name: 2R EMPLOYMENT AGENCY (23C1627)
+Agency Details: Main Branch:
+812, YISHUN RING ROAD, #07-4153, KHATIB GARDENS, Singapore - 760812
+98638636
+
+Page 41 - Agency ID: eadAllAgenciesForm:allAgenciesList:320:j_id_16_57
+Agency Name: ASIA CARE CONSULTANCY (11C3229)
+Agency Details: Main Branch:
+1014, GEYLANG EAST AVENUE 3, #06-208, GEYLANG EAST INDUSTRIAL ESTATE, Singapore - 389729
+
+Page 41 - Agency ID: eadAllAgenciesForm:allAgenciesList:321:j_id_16_57
+Agency Name: AMAZING MAIDS PTE. LTD. (19C9693)
+Agency Details: Main Branch:
+7, TEMASEK BOULEVARD, #12-07, SUNTEC TOWER ONE, Singapore - 038987
+87799206
+
+Page 41 - Agency ID: eadAllAgenciesForm:allAgenciesList:322:j_id_16_57
+Agency Name: MADELEINE'S EMPLOYMENT AGENCY (17C8536)
+Agency Details: Main Branch:
+23, HOUGANG AVENUE 3, #06-281, HOUGANG VIEW, Singapore - 530023
+
+Page 41 - Agency ID: eadAllAgenciesForm:allAgenciesList:323:j_id_16_57
+Agency Name: TECH BRIDGING EMPLOYMENT AGENCY PTE. LTD. (24C2230)
+Agency Details: Main Branch:
+810, GEYLANG ROAD, #03-138, CITY PLAZA, Singapore - 409286
+96684874
+
+Page 41 - Agency ID: eadAllAgenciesForm:allAgenciesList:324:j_id_16_57
+Agency Name: ANS EMPLOYMENT PTE. LTD. (18C9347)
+Agency Details: Main Branch:
+587, BUKIT TIMAH ROAD, #02-39, CORONATION PLAZA, Singapore - 269707
+81851104
+
+Page 41 - Agency ID: eadAllAgenciesForm:allAgenciesList:325:j_id_16_57
+Agency Name: GLADSOME EMPLOYMENT PTE. LTD. (17C8904)
+Agency Details: Main Branch:
+60, PAYA LEBAR ROAD, #07-54, PAYA LEBAR SQUARE, Singapore - 409051
+66412655
+
+Page 41 - Agency ID: eadAllAgenciesForm:allAgenciesList:326:j_id_16_57
+Agency Name: NATION HUMAN RESOURCES PTE. LTD. (12C5507)
+Agency Details: Main Branch:
+135, JURONG GATEWAY ROAD, #05-315, Singapore - 600135
+66658199
+
+Page 41 - Agency ID: eadAllAgenciesForm:allAgenciesList:327:j_id_16_57
+Agency Name: AMAZING EMPLOYMENT AGENCY (06C3365)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #03-39, FAR EAST SHOPPING CENTRE, Singapore - 238882
+63153160
+
+Page 42 - Agency ID: eadAllAgenciesForm:allAgenciesList:328:j_id_16_57
+Agency Name: GETZ RESOURCES (04C4639)
+Agency Details: Main Branch:
+443, PASIR RIS DRIVE 6, #01-16, Singapore - 510443
+67779109
+
+Page 42 - Agency ID: eadAllAgenciesForm:allAgenciesList:329:j_id_16_57
+Agency Name: MAIMUNAH EMPLOYMENT AND MANAGEMENT SERVICES (98C3890)
+Agency Details: Main Branch:
+255, PASIR RIS STREET 21, #03-261, Singapore - 510255
+67487982
+
+Page 42 - Agency ID: eadAllAgenciesForm:allAgenciesList:330:j_id_16_57
+Agency Name: MY MAID (08C3000)
+Agency Details: Main Branch:
+50, EAST COAST ROAD, #01-84, ROXY SQUARE, Singapore - 428769
+64408642
+
+Page 42 - Agency ID: eadAllAgenciesForm:allAgenciesList:331:j_id_16_57
+Agency Name: PROCARE MANPOWER PTE. LTD. (22C1089)
+Agency Details: Main Branch:
+111, NORTH BRIDGE ROAD, #27-01, PENINSULA PLAZA, Singapore - 179098
+82881089
+
+Page 42 - Agency ID: eadAllAgenciesForm:allAgenciesList:332:j_id_16_57
+Agency Name: AC GLOBAL MANPOWER (20C0288)
+Agency Details: Main Branch:
+101, UPPER CROSS STREET, #01-34, PEOPLE'S PARK CENTRE, Singapore - 058357
+81044132
+
+Page 42 - Agency ID: eadAllAgenciesForm:allAgenciesList:333:j_id_16_57
+Agency Name: JANS MAID AND EMPLOYMENT AGENCY (21C0862)
+Agency Details: Main Branch:
+1001, LOWER DELTA ROAD, #01-02, TERESA VILLE, Singapore - 099307
+97707078
+
+Page 42 - Agency ID: eadAllAgenciesForm:allAgenciesList:334:j_id_16_57
+Agency Name: SGTM PTE. LTD. (16C8405)
+Agency Details: Main Branch:
+1, LOWER KENT RIDGE ROAD, #04-03, NUH MEDICAL CENTRE, Singapore - 119082
+
+Page 42 - Agency ID: eadAllAgenciesForm:allAgenciesList:335:j_id_16_57
+Agency Name: EXPRESS MAID & MANPOWER SERVICE CENTRE (89C2932)
+Agency Details: Main Branch:
+140, UPPER BUKIT TIMAH ROAD, #01-13, BEAUTY WORLD PLAZA, Singapore - 588176
+64693600
+
+Page 43 - Agency ID: eadAllAgenciesForm:allAgenciesList:336:j_id_16_57
+Agency Name: UNIQUE MAID AGENCY (22C1057)
+Agency Details: Main Branch:
+3024, UBI ROAD 3, #02-67, KAMPONG UBI INDUSTRIAL ESTATE, Singapore - 408652
+91690825
+
+Page 43 - Agency ID: eadAllAgenciesForm:allAgenciesList:337:j_id_16_57
+Agency Name: BLOSSOM EMPLOYMENT SERVICES (15C7510)
+Agency Details: Main Branch:
+158, MEI LING STREET, #01-84, MEI LING HEIGHTS, Singapore - 140158
+97326627
+
+Page 43 - Agency ID: eadAllAgenciesForm:allAgenciesList:338:j_id_16_57
+Agency Name: HOMEMAKER EMPLOYMENT SERVICES (04C3807)
+Agency Details: Main Branch:
+148, POTONG PASIR AVENUE 1, #01-33, Singapore - 350148
+62864666
+
+Page 43 - Agency ID: eadAllAgenciesForm:allAgenciesList:339:j_id_16_57
+Agency Name: MAX RECRUITMENT PTE. LTD. (23C1979)
+Agency Details: Main Branch:
+188, CANBERRA DRIVE, #10-39, THE VISIONAIRE, Singapore - 767956
+96865601
+
+Page 43 - Agency ID: eadAllAgenciesForm:allAgenciesList:340:j_id_16_57
+Agency Name: HONESTY EMPLOYMENT SERVICE CENTRE (97C3581)
+Agency Details: Main Branch:
+756, UPPER SERANGOON ROAD, #02-46, UPPER SERANGOON SHOPPING CENTRE, Singapore - 534626
+62532221
+
+Page 43 - Agency ID: eadAllAgenciesForm:allAgenciesList:341:j_id_16_57
+Agency Name: ZECRUITX PTE. LTD. (10C4649)
+Agency Details: Main Branch:
+144, UPPER BUKIT TIMAH ROAD, #01-K10, BEAUTY WORLD CENTRE, Singapore - 588177
+68150016
+
+Page 43 - Agency ID: eadAllAgenciesForm:allAgenciesList:342:j_id_16_57
+Agency Name: JADE EXPEDITING SERVICES (12C6077)
+Agency Details: Main Branch:
+124, GEYLANG EAST AVENUE 1, #02-41, Singapore - 380124
+
+Page 43 - Agency ID: eadAllAgenciesForm:allAgenciesList:343:j_id_16_57
+Agency Name: HOUSEKEEPERS' AGENCY PTE. LTD. (17C8628)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #05-13, FAR EAST SHOPPING CENTRE, Singapore - 238882
+96464955
+
+Page 44 - Agency ID: eadAllAgenciesForm:allAgenciesList:344:j_id_16_57
+Agency Name: JAYAMAIDS (06C5528)
+Agency Details: Main Branch:
+21, HOUGANG STREET 51, #01-14, HOUGANG GREEN SHOPPING MALL, Singapore - 538719
+63870900
+
+Page 44 - Agency ID: eadAllAgenciesForm:allAgenciesList:345:j_id_16_57
+Agency Name: A.M.K ALLIANCE EMPLOYMENT PTE. LTD. (24C2235)
+Agency Details: Main Branch:
+928, YISHUN CENTRAL 1, #01-151, Singapore - 760928
+97999028
+
+Page 44 - Agency ID: eadAllAgenciesForm:allAgenciesList:346:j_id_16_57
+Agency Name: AME MANPOWER (15C7669)
+Agency Details: Main Branch:
+661A, JURONG WEST STREET 64, #02-414, Singapore - 641661
+67290124
+
+Page 44 - Agency ID: eadAllAgenciesForm:allAgenciesList:347:j_id_16_57
+Agency Name: EDEN AGENCY (13C6767)
+Agency Details: Main Branch:
+16, RAFFLES QUAY, #B1-40, HONG LEONG BUILDING, Singapore - 048581
+90029293
+
+Page 44 - Agency ID: eadAllAgenciesForm:allAgenciesList:348:j_id_16_57
+Agency Name: MAGANDA EMPLOYMENT (90C4666)
+Agency Details: Main Branch:
+756, UPPER SERANGOON ROAD, #02-32, UPPER SERANGOON SHOPPING CENTRE, Singapore - 534626
+68353839
+
+Page 44 - Agency ID: eadAllAgenciesForm:allAgenciesList:349:j_id_16_57
+Agency Name: PERFECT SEARCH PTE LTD (97C3187)
+Agency Details: Main Branch:
+5, COLEMAN STREET, #03-22, EXCELSIOR HOTEL, Singapore - 179805
+63396804
+
+Page 44 - Agency ID: eadAllAgenciesForm:allAgenciesList:350:j_id_16_57
+Agency Name: QUENNIE MANPOWER & ENTERPRISES (11C3646)
+Agency Details: Main Branch:
+77, LORONG LIMAU, #11-53, WHAMPOA SPRING, Singapore - 320077
+90086836
+
+Page 44 - Agency ID: eadAllAgenciesForm:allAgenciesList:351:j_id_16_57
+Agency Name: RESOURCES RELIANCE LLP (17C8896)
+Agency Details: Main Branch:
+100, PECK SEAH STREET, #08-14, PS100, Singapore - 079333
+96275279
+
+Page 45 - Agency ID: eadAllAgenciesForm:allAgenciesList:352:j_id_16_57
+Agency Name: VALUE RECRUITMENT SERVICES PTE. LTD. (16C7991)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #01-52, KATONG SHOPPING CENTRE, Singapore - 437844
+63489556
+
+Page 45 - Agency ID: eadAllAgenciesForm:allAgenciesList:353:j_id_16_57
+Agency Name: WHITE GLOVE PTE. LTD. (19C9581)
+Agency Details: Main Branch:
+304, ORCHARD ROAD, #02-29, LUCKY PLAZA, Singapore - 238863
+97520464
+
+Page 45 - Agency ID: eadAllAgenciesForm:allAgenciesList:354:j_id_16_57
+Agency Name: UNIVERSAL EMPLOYMENT AGENCY PTE. LTD. (87C4847)
+Agency Details: Main Branch:
+304, ORCHARD ROAD, #04-56, LUCKY PLAZA, Singapore - 238863
+67353456
+
+Page 45 - Agency ID: eadAllAgenciesForm:allAgenciesList:355:j_id_16_57
+Agency Name: IRON MAID EMPLOYMENT AGENCY PTE. LTD. (22C1340)
+Agency Details: Main Branch:
+400, BALESTIER ROAD, #01-39B, BALESTIER PLAZA, Singapore - 329802
+83899206
+
+Page 45 - Agency ID: eadAllAgenciesForm:allAgenciesList:356:j_id_16_57
+Agency Name: PRESTIGE MANAGEMENT SERVICES (89C5166)
+Agency Details: Main Branch:
+442, ORCHARD ROAD, #03-07, ORCHARD HOTEL SINGAPORE, Singapore - 238879
+67382100
+
+Page 45 - Agency ID: eadAllAgenciesForm:allAgenciesList:357:j_id_16_57
+Agency Name: SILINK PTE. LTD. (22C1012)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #B1-23, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+94371690
+
+Page 45 - Agency ID: eadAllAgenciesForm:allAgenciesList:358:j_id_16_57
+Agency Name: ASSURED EMPLOYMENT SERVICES PTE. LTD. (12C6192)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #B1-60, KATONG SHOPPING CENTRE, Singapore - 437844
+63467218
+
+Page 45 - Agency ID: eadAllAgenciesForm:allAgenciesList:359:j_id_16_57
+Agency Name: ASCENSION AGENCY PTE. LTD. (21C0731)
+Agency Details: Main Branch:
+464, CRAWFORD LANE, #01-01, CRAWFORD CENTRE, Singapore - 190464
+69098265
+
+Page 46 - Agency ID: eadAllAgenciesForm:allAgenciesList:360:j_id_16_57
+Agency Name: E3 EMPLOYMENT SRVS PTE. LTD. (14C7083)
+Agency Details: Main Branch:
+24, UBI ROAD 4, #03-00, WUI HONG BUILDING, Singapore - 408612
+64431211
+
+Page 46 - Agency ID: eadAllAgenciesForm:allAgenciesList:361:j_id_16_57
+Agency Name: WONDERLAND RESOURCES(SINGAPORE) PTE. LTD. (16C8469)
+Agency Details: Main Branch:
+10, COLLYER QUAY, #07-02, OCEAN FINANCIAL CENTRE, Singapore - 049315
+88006416
+
+Page 46 - Agency ID: eadAllAgenciesForm:allAgenciesList:362:j_id_16_57
+Agency Name: AROHA EMPLOYMENT SERVICES PTE. LTD. (18C9383)
+Agency Details: Main Branch:
+3, ST. GEORGE'S ROAD, #01-101, ST GEORGE'S WEST GARDENS, Singapore - 320003
+90181741
+
+Page 46 - Agency ID: eadAllAgenciesForm:allAgenciesList:363:j_id_16_57
+Agency Name: 1ST AVENUE EMPLOYMENT SERVICES (13C6803)
+Agency Details: Main Branch:
+29, FERNVALE ROAD, #14-38, HIGH PARK RESIDENCES, Singapore - 797416
+94244550
+
+Page 46 - Agency ID: eadAllAgenciesForm:allAgenciesList:364:j_id_16_57
+Agency Name: BETTER MAID EMPLOYMENT AGENCY (06C3760)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #B1-57, KATONG SHOPPING CENTRE, Singapore - 437844
+63441592
+
+Page 46 - Agency ID: eadAllAgenciesForm:allAgenciesList:365:j_id_16_57
+Agency Name: RT CONNECTIONS PTE. LTD. (23C1445)
+Agency Details: Main Branch:
+2, KERONG WALK, Singapore - 757127
+80430483
+
+Page 46 - Agency ID: eadAllAgenciesForm:allAgenciesList:366:j_id_16_57
+Agency Name: LUNA AGENCY (09C4205)
+Agency Details: Main Branch:
+158, HOUGANG STREET 11, #10-09, Singapore - 530158
+92332884
+
+Page 46 - Agency ID: eadAllAgenciesForm:allAgenciesList:367:j_id_16_57
+Agency Name: HARMONY EMPLOYMENT SERVICES PTE. LTD. (10C3233)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #01-60, KATONG SHOPPING CENTRE, Singapore - 437844
+63440669
+
+Page 47 - Agency ID: eadAllAgenciesForm:allAgenciesList:368:j_id_16_57
+Agency Name: LOYALTY MANPOWER SERVICES (22C1147)
+Agency Details: Main Branch:
+9, TAMPINES GRANDE, #02 ASIA GREEN, Singapore - 528735
+96713992
+
+Page 47 - Agency ID: eadAllAgenciesForm:allAgenciesList:369:j_id_16_57
+Agency Name: AJS MANPOWER CONSULTANTS PTE. LTD. (97C5648)
+Agency Details: Main Branch:
+587, BUKIT TIMAH ROAD, ##03-22, CORONATION PLAZA, Singapore - 269707
+64630990
+
+Page 47 - Agency ID: eadAllAgenciesForm:allAgenciesList:370:j_id_16_57
+Agency Name: SINCERE MANPOWER PTE. LTD. (17C8495)
+Agency Details: Main Branch:
+465, NORTH BRIDGE ROAD, #02-5079, Singapore - 191465
+83229591
+
+Page 47 - Agency ID: eadAllAgenciesForm:allAgenciesList:371:j_id_16_57
+Agency Name: INSPIRE EMPLOYMENT AGENCY (17C8827)
+Agency Details: Main Branch:
+100, PECK SEAH STREET, #08-14, PS100, Singapore - 079333
+91186905
+
+Page 47 - Agency ID: eadAllAgenciesForm:allAgenciesList:372:j_id_16_57
+Agency Name: RAE CONSULTING PTE. LTD. (12C6185)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #02-81E, KATONG SHOPPING CENTRE, Singapore - 437844
+65341960
+
+Page 47 - Agency ID: eadAllAgenciesForm:allAgenciesList:373:j_id_16_57
+Agency Name: TEO EXPRESS EMPLOYMENT SERVICES PTE. LTD. (17C8609)
+Agency Details: Main Branch:
+67, KALLANG BAHRU, #01-471, NIL, Singapore - 330067
+89221899
+
+Page 47 - Agency ID: eadAllAgenciesForm:allAgenciesList:374:j_id_16_57
+Agency Name: FINDAMAID EMPLOYMENT PTE. LTD. (22C1134)
+Agency Details: Main Branch:
+150, BEDOK RESERVOIR ROAD, #02-1727, EUNOS SPRING, Singapore - 470150
+96932292
+
+Page 47 - Agency ID: eadAllAgenciesForm:allAgenciesList:375:j_id_16_57
+Agency Name: ORANGE EMPLOYMENT (23C1851)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #02-16, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+97720259
+
+Page 48 - Agency ID: eadAllAgenciesForm:allAgenciesList:376:j_id_16_57
+Agency Name: IRENE & SUN MANPOWER CONSULTANCY PTE LTD (94C4755)
+Agency Details: Main Branch:
+504B, YISHUN STREET 51, #03-112, ACACIA BREEZE @ YISHUN, Singapore - 762504
+
+Page 48 - Agency ID: eadAllAgenciesForm:allAgenciesList:377:j_id_16_57
+Agency Name: 1.ALPHA EMPLOYMENT AGENCY (21C0788)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #02-23, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+96429242
+
+Page 48 - Agency ID: eadAllAgenciesForm:allAgenciesList:378:j_id_16_57
+Agency Name: DANMAX EMPLOYMENT PTE. LTD. (98C5319)
+Agency Details: Main Branch:
+11, WOODLANDS CLOSE, #05-36, WOODLANDS 11, Singapore - 737853
+64406264
+
+Page 48 - Agency ID: eadAllAgenciesForm:allAgenciesList:379:j_id_16_57
+Agency Name: INFINITE EMPLOYMENT LLP (09C3923)
+Agency Details: Main Branch:
+627, HOUGANG AVENUE 8, #08-146, Singapore - 530627
+63853122
+
+Page 48 - Agency ID: eadAllAgenciesForm:allAgenciesList:380:j_id_16_57
+Agency Name: RENDEZVOUS RECRUITMENT PTE. LTD. (18C9019)
+Agency Details: Main Branch:
+756, UPPER SERANGOON ROAD, #03-19, UPPER SERANGOON SHOPPING CENTRE, Singapore - 534626
+89064707
+
+Page 48 - Agency ID: eadAllAgenciesForm:allAgenciesList:381:j_id_16_57
+Agency Name: WANDEE RECRUITMENT SERVICES (17C8974)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #03-04, FAR EAST SHOPPING CENTRE, Singapore - 238882
+69092303
+
+Page 48 - Agency ID: eadAllAgenciesForm:allAgenciesList:382:j_id_16_57
+Agency Name: BUSY BEE RECRUITMENT LLP (23C1482)
+Agency Details: Main Branch:
+38, DEFU LANE 10, #03-21, DEFU INDUSTRIAL ESTATE, Singapore - 539215
+80124179
+
+Page 48 - Agency ID: eadAllAgenciesForm:allAgenciesList:383:j_id_16_57
+Agency Name: JFORCE EMPLOYMENT SERVICE PTE. LTD. (14C7171)
+Agency Details: Main Branch:
+23, BENDEMEER ROAD, #01-515, Singapore - 330023
+66352506
+
+Page 49 - Agency ID: eadAllAgenciesForm:allAgenciesList:384:j_id_16_57
+Agency Name: PEACE EMPLOYMENT PTE. LTD. (15C7464)
+Agency Details: Main Branch:
+50, EAST COAST ROAD, #01-19, ROXY SQUARE, Singapore - 428769
+64470298
+
+Page 49 - Agency ID: eadAllAgenciesForm:allAgenciesList:385:j_id_16_57
+Agency Name: ANGEL MAIDS (16C8213)
+Agency Details: Main Branch:
+927, YISHUN CENTRAL 1, #01-167, Singapore - 760927
+65133385
+
+Page 49 - Agency ID: eadAllAgenciesForm:allAgenciesList:386:j_id_16_57
+Agency Name: RQ MAID PTE. LTD. (11C3657)
+Agency Details: Main Branch:
+85, LORONG 4 TOA PAYOH, #01-332, TOA PAYOH PEAKVIEW, Singapore - 310085
+62659039
+
+Page 49 - Agency ID: eadAllAgenciesForm:allAgenciesList:387:j_id_16_57
+Agency Name: EXODUS MANPOWER AGENCY PRIVATE LIMITED (22C1253)
+Agency Details: Main Branch:
+400, ORCHARD ROAD, #19-08, ORCHARD TOWERS, Singapore - 238875
+88550909
+
+Page 49 - Agency ID: eadAllAgenciesForm:allAgenciesList:388:j_id_16_57
+Agency Name: FIELDPOINT PTE. LTD. (07C3518)
+Agency Details: Main Branch:
+618, YISHUN RING ROAD, #12-3240, Singapore - 760618
+98643210
+
+Page 49 - Agency ID: eadAllAgenciesForm:allAgenciesList:389:j_id_16_57
+Agency Name: INTER GREAT EMPLOYMENT PTE. LTD. (14C6931)
+Agency Details: Main Branch:
+726, ANG MO KIO AVENUE 6, #01-4152, Singapore - 560726
+67671559
+
+Page 49 - Agency ID: eadAllAgenciesForm:allAgenciesList:390:j_id_16_57
+Agency Name: REGENT MAID AGENCY PTE. LTD. (21C0451)
+Agency Details: Main Branch:
+603, ANG MO KIO AVENUE 5, #1-2667A, YIO CHU KANG GREEN, Singapore - 560603
+69808212
+
+Page 49 - Agency ID: eadAllAgenciesForm:allAgenciesList:391:j_id_16_57
+Agency Name: MY HAUS MATE PTE. LTD. (23C1435)
+Agency Details: Main Branch:
+649, JALAN TENAGA, #06-155, EUNOS TENAGA VILLE, Singapore - 410649
+91686638
+
+Page 50 - Agency ID: eadAllAgenciesForm:allAgenciesList:392:j_id_16_57
+Agency Name: ORANGE EMPLOYMENT AGENCY (97C3616)
+Agency Details: Main Branch:
+400, BALESTIER RD, #01-21, BALESTIER PLAZA, Singapore - 329802
+
+Page 50 - Agency ID: eadAllAgenciesForm:allAgenciesList:393:j_id_16_57
+Agency Name: ASCEND EMPLOYMENT SERVICES (20C1953)
+Agency Details: Main Branch:
+111, NORTH BRIDGE ROAD, #04-58A, PENINSULA PLAZA, Singapore - 179098
+91455709
+
+Page 50 - Agency ID: eadAllAgenciesForm:allAgenciesList:394:j_id_16_57
+Agency Name: AA CELEST EMPLOYMENT (09C4587)
+Agency Details: Main Branch:
+531, UPPER CROSS STREET, #03-35, HONG LIM COMPLEX, Singapore - 050531
+97526772
+
+Page 50 - Agency ID: eadAllAgenciesForm:allAgenciesList:395:j_id_16_57
+Agency Name: BIBIK2GOSG PTE. LTD. (23C1772)
+Agency Details: Main Branch:
+80, CHANGI ROAD, #01-42, CENTROPOD @ CHANGI, Singapore - 419715
+88946828
+
+Page 50 - Agency ID: eadAllAgenciesForm:allAgenciesList:396:j_id_16_57
+Agency Name: GALLANT MANPOWER (11C4789)
+Agency Details: Main Branch:
+126, LORONG 1 TOA PAYOH, #01-555, TOA PAYOH HEIGHTS, Singapore - 310126
+62886218
+
+Page 50 - Agency ID: eadAllAgenciesForm:allAgenciesList:397:j_id_16_57
+Agency Name: RAYMOND MAIDS EMPLOYMENT CENTRE (99C4728)
+Agency Details: Main Branch:
+1, JALAN ANAK BUKIT, #1-11, BUKIT TIMAH PLAZA, Singapore - 588996
+64685688
+
+Page 50 - Agency ID: eadAllAgenciesForm:allAgenciesList:398:j_id_16_57
+Agency Name: JOYFUL EMPLOYMENT AGENCY (21C0865)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #02-74, KATONG SHOPPING CENTRE, Singapore - 437844
+62834188
+
+Page 50 - Agency ID: eadAllAgenciesForm:allAgenciesList:399:j_id_16_57
+Agency Name: 3A'S CONSULTANCY AND SERVICES (04C4978)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #05-40, FAR EAST SHOPPING CENTRE, Singapore - 238882
+67387598
+
+Page 51 - Agency ID: eadAllAgenciesForm:allAgenciesList:400:j_id_16_57
+Agency Name: ALOHA MANPOWER AGENCY (98C8858)
+Agency Details: Main Branch:
+94, TAGORE AVENUE, #0 TEACHER'S HOUSING ESTATE, Singapore - 787687
+65533061
+
+Page 51 - Agency ID: eadAllAgenciesForm:allAgenciesList:401:j_id_16_57
+Agency Name: DIVINE EMPLOYMENT AGENCY (18C9342)
+Agency Details: Main Branch:
+53, EDGEDALE PLAINS, #09-01, THE AMORE, Singapore - 828692
+92999946
+
+Page 51 - Agency ID: eadAllAgenciesForm:allAgenciesList:402:j_id_16_57
+Agency Name: EK MAID AGENCY (09C3395)
+Agency Details: Main Branch:
+27A, CHAI CHEE ROAD, #01-367, Singapore - 461027
+96796844
+
+Page 51 - Agency ID: eadAllAgenciesForm:allAgenciesList:403:j_id_16_57
+Agency Name: FAMILY TREE MANPOWER RESOURCES (11C3241)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #10-02, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+
+Page 51 - Agency ID: eadAllAgenciesForm:allAgenciesList:404:j_id_16_57
+Agency Name: ZION GLOBAL RESOURCES LLP (17C8662)
+Agency Details: Main Branch:
+175A, SENGKANG EAST DRIVE, #04-328, Singapore - 541175
+90917711
+
+Page 51 - Agency ID: eadAllAgenciesForm:allAgenciesList:405:j_id_16_57
+Agency Name: BRIGHT MANPOWER EMPLOYMENT PTE. LTD. (13C6889)
+Agency Details: Main Branch:
+587, BUKIT TIMAH ROAD, #03-17, CORONATION PLAZA, Singapore - 269707
+64670188
+
+Page 51 - Agency ID: eadAllAgenciesForm:allAgenciesList:406:j_id_16_57
+Agency Name: AATAS EMPLOYMENT AGENCY (98C2940)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #06-14, FAR EAST SHOPPING CENTRE, Singapore - 238882
+67378681
+
+Page 51 - Agency ID: eadAllAgenciesForm:allAgenciesList:407:j_id_16_57
+Agency Name: JAS EMPLOYMENT AGENCY LLP (19C9837)
+Agency Details: Main Branch:
+22, YIO CHU KANG ROAD, #01-30, HIGHLAND CENTRE, Singapore - 545535
+62828747
+
+Page 52 - Agency ID: eadAllAgenciesForm:allAgenciesList:408:j_id_16_57
+Agency Name: IHELPER PTE. LTD. (19C9881)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #16-02, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+65131777
+
+Page 52 - Agency ID: eadAllAgenciesForm:allAgenciesList:409:j_id_16_57
+Agency Name: HC EMPLOYMENT SERVICES PTE. LTD. (22C0961)
+Agency Details: Main Branch:
+42, SUMANG WALK, #13-41, Singapore - 828626
+91396742
+
+Page 52 - Agency ID: eadAllAgenciesForm:allAgenciesList:410:j_id_16_57
+Agency Name: HUMANROSE SERVICES PTE. LTD. (12C5926)
+Agency Details: Main Branch:
+338, ANG MO KIO AVENUE 1, #01-1663, TECK GHEE COURT, Singapore - 560338
+64513488
+
+Page 52 - Agency ID: eadAllAgenciesForm:allAgenciesList:411:j_id_16_57
+Agency Name: SHEN-EE MAID AGENCY (20C1723)
+Agency Details: Main Branch:
+1, PARK ROAD, #04-51A, PEOPLE'S PARK COMPLEX, Singapore - 059108
+65381192
+
+Page 52 - Agency ID: eadAllAgenciesForm:allAgenciesList:412:j_id_16_57
+Agency Name: SG EMPLOYMENT AGENCY PTE. LTD. (20C0365)
+Agency Details: Main Branch:
+49C, TUAS SOUTH AVENUE 1, #02-00, TUAS COVE INDUSTRIAL CENTRE, Singapore - 637253
+80114998
+
+Page 52 - Agency ID: eadAllAgenciesForm:allAgenciesList:413:j_id_16_57
+Agency Name: 3C DOMESTIC (17C8885)
+Agency Details: Main Branch:
+288A, PUNGGOL PLACE, #10-803, PUNGGOL ARCADIA, Singapore - 821288
+96677058
+
+Page 52 - Agency ID: eadAllAgenciesForm:allAgenciesList:414:j_id_16_57
+Agency Name: SELAMAT EMPLOYMENT (18C9502)
+Agency Details: Main Branch:
+810, GEYLANG ROAD, #02-55, CITY PLAZA, Singapore - 409286
+69099234
+
+Page 52 - Agency ID: eadAllAgenciesForm:allAgenciesList:415:j_id_16_57
+Agency Name: INTERNATIONAL MAID AND EMPLOYMENT AGENCY (19C0804)
+Agency Details: Main Branch:
+71, LORONG 4 TOA PAYOH, #01-393, TOA PAYOH VISTA, Singapore - 310071
+62591681
+
+Page 53 - Agency ID: eadAllAgenciesForm:allAgenciesList:416:j_id_16_57
+Agency Name: STRAITS EMPLOYMENT PTE. LTD. (16C7949)
+Agency Details: Main Branch:
+22, SIN MING LANE, #06-76, MIDVIEW CITY, Singapore - 573969
+92257661
+
+Page 53 - Agency ID: eadAllAgenciesForm:allAgenciesList:417:j_id_16_57
+Agency Name: MAX EMPLOYMENT AGENCY (96C4931)
+Agency Details: Main Branch:
+10, JALAN BESAR, #09-07, SIM LIM TOWER, Singapore - 208787
+62956608
+
+Page 53 - Agency ID: eadAllAgenciesForm:allAgenciesList:418:j_id_16_57
+Agency Name: MILESTONES EMPLOYMENT (16C7961)
+Agency Details: Main Branch:
+75A, REDHILL ROAD, #19-58, Singapore - 151075
+97779611
+
+Page 53 - Agency ID: eadAllAgenciesForm:allAgenciesList:419:j_id_16_57
+Agency Name: SURIA EMPLOYMENT AGENCY (02C2836)
+Agency Details: Main Branch:
+390, VICTORIA STREET, #02-58, GOLDEN LANDMARK, THE, Singapore - 188061
+62965373
+
+Page 53 - Agency ID: eadAllAgenciesForm:allAgenciesList:420:j_id_16_57
+Agency Name: HONEST RECRUITER PTE. LTD. (20C0398)
+Agency Details: Main Branch:
+27, WOODLANDS INDUSTRIAL PARK E1, #03-02, HIANGKIE INDUSTRIAL BUILDING, Singapore - 757718
+92749787
+
+Page 53 - Agency ID: eadAllAgenciesForm:allAgenciesList:421:j_id_16_57
+Agency Name: ST EMPLOYMENT PTE. LTD. (14C7366)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #02-K38, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64632538
+
+Page 53 - Agency ID: eadAllAgenciesForm:allAgenciesList:422:j_id_16_57
+Agency Name: PROSPECT MANPOWER AGENCY (16C8402)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #01-83C, KATONG SHOPPING CENTRE, Singapore - 437844
+63421368
+
+Page 53 - Agency ID: eadAllAgenciesForm:allAgenciesList:423:j_id_16_57
+Agency Name: J JABEZ GROUP PTE. LTD. (07C3986)
+Agency Details: Main Branch:
+167, JALAN BUKIT MERAH, #06-12, CONNECTION ONE, Singapore - 150167
+62855257
+
+Page 54 - Agency ID: eadAllAgenciesForm:allAgenciesList:424:j_id_16_57
+Agency Name: SIMPLE EMPLOYMENT PTE. LTD. (22C1046)
+Agency Details: Main Branch:
+33, UBI AVENUE 3, #07-54, VERTEX, Singapore - 408868
+96235522
+
+Page 54 - Agency ID: eadAllAgenciesForm:allAgenciesList:425:j_id_16_57
+Agency Name: CARE TREE EMPLOYMENT AGENCY (17C8872)
+Agency Details: Main Branch:
+55, TELOK BLANGAH DRIVE, #08-70, BLANGAH VIEW, Singapore - 100055
+88780995
+
+Page 54 - Agency ID: eadAllAgenciesForm:allAgenciesList:426:j_id_16_57
+Agency Name: BRIGHT MAID EMPLOYMENT PTE. LTD. (13C6887)
+Agency Details: Main Branch:
+587, BUKIT TIMAH ROAD, #03-17, CORONATION PLAZA, Singapore - 269707
+64670188
+
+Page 54 - Agency ID: eadAllAgenciesForm:allAgenciesList:427:j_id_16_57
+Agency Name: EP ONE MANPOWER PTE. LTD. (12C5367)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #03-09, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64635278
+
+Page 54 - Agency ID: eadAllAgenciesForm:allAgenciesList:428:j_id_16_57
+Agency Name: FOCUS EMPLOYMENT AGENCY LLP (10C2935)
+Agency Details: Main Branch:
+76A, REDHILL ROAD, #11-10, REDHILL RISE, Singapore - 151076
+64799315
+
+Page 54 - Agency ID: eadAllAgenciesForm:allAgenciesList:429:j_id_16_57
+Agency Name: THE GOODHOUSEKEEPERS (20C0094)
+Agency Details: Main Branch:
+22, BLANDFORD DRIVE, SERANGOON GARDEN ESTATE, Singapore - 559815
+97970202
+
+Page 54 - Agency ID: eadAllAgenciesForm:allAgenciesList:430:j_id_16_57
+Agency Name: C-FOCUS SERVICES (96C5272)
+Agency Details: Main Branch:
+810, GEYLANG RD, #03-18, CITY PLAZA, Singapore - 409286
+67456889
+
+Page 54 - Agency ID: eadAllAgenciesForm:allAgenciesList:431:j_id_16_57
+Agency Name: 21ST CENTURY CAREGIVERS PTE. LTD. (17C8711)
+Agency Details: Main Branch:
+304, ORCHARD ROAD, #04-04, LUCKY PLAZA, Singapore - 238863
+67371277
+
+Page 55 - Agency ID: eadAllAgenciesForm:allAgenciesList:432:j_id_16_57
+Agency Name: HOMECARE EMPLOYMENT AGENCY (00C4178)
+Agency Details: Main Branch:
+190, MIDDLE RD, #04-21, FORTUNE CENTRE, Singapore - 188979
+63378182
+
+Page 55 - Agency ID: eadAllAgenciesForm:allAgenciesList:433:j_id_16_57
+Agency Name: AT EMPLOYMENT AGENCY (00C4723)
+Agency Details: Main Branch:
+35, SELEGIE ROAD, #04-18B, PARKLANE SHOPPING MALL, Singapore - 188307
+63367312
+
+Page 55 - Agency ID: eadAllAgenciesForm:allAgenciesList:434:j_id_16_57
+Agency Name: 4R EMPLOYMENT AGENCY (18C9364)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #02-42, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+87552511
+
+Page 55 - Agency ID: eadAllAgenciesForm:allAgenciesList:435:j_id_16_57
+Agency Name: LINK EMPLOYMENT AGENCY (12C6062)
+Agency Details: Main Branch:
+6, FLORA ROAD, #03-04, AZALEA PARK CONDOMINIUM, Singapore - 509727
+
+Page 55 - Agency ID: eadAllAgenciesForm:allAgenciesList:436:j_id_16_57
+Agency Name: MAID4U (21C0834)
+Agency Details: Main Branch:
+192, WATERLOO STREET, #04-03, SKYLINE, Singapore - 187966
+91544780
+
+Page 55 - Agency ID: eadAllAgenciesForm:allAgenciesList:437:j_id_16_57
+Agency Name: SHINING EMPLOYMENT SERVICES (17C8720)
+Agency Details: Main Branch:
+257, JURONG EAST STREET 24, #01-K1, Singapore - 600257
+69800860
+
+Page 55 - Agency ID: eadAllAgenciesForm:allAgenciesList:438:j_id_16_57
+Agency Name: BEST HUMAN RESOURCE (14C7071)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #04-15, FAR EAST SHOPPING CENTRE, Singapore - 238882
+
+Page 55 - Agency ID: eadAllAgenciesForm:allAgenciesList:439:j_id_16_57
+Agency Name: HL EMPLOYMENT (15C7492)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #03-02, KATONG SHOPPING CENTRE, Singapore - 437844
+
+Page 56 - Agency ID: eadAllAgenciesForm:allAgenciesList:440:j_id_16_57
+Agency Name: JLK EMPLOYMENT SERVICES (02C3501)
+Agency Details: Main Branch:
+163, STIRLING ROAD, #01-1228, MEI LING VISTA, Singapore - 140163
+
+Page 56 - Agency ID: eadAllAgenciesForm:allAgenciesList:441:j_id_16_57
+Agency Name: HILWAH MAID AGENCY PTE. LTD. (17C8623)
+Agency Details: Main Branch:
+54, LORONG 23 GEYLANG, #03-01, TM@54, Singapore - 388380
+64434510
+
+Page 56 - Agency ID: eadAllAgenciesForm:allAgenciesList:442:j_id_16_57
+Agency Name: EAGLEWINGS MANPOWER EMPLOYMENT PTE. LTD. (18C9100)
+Agency Details: Main Branch:
+841, TAMPINES STREET 83, #08-102, TAMPINES PALMWALK, Singapore - 520841
+96727131
+
+Page 56 - Agency ID: eadAllAgenciesForm:allAgenciesList:443:j_id_16_57
+Agency Name: TAHARAH RECRUITERS PTE. LTD. (20C0099)
+Agency Details: Main Branch:
+141, MIDDLE ROAD, #05-06, GSM BUILDING, Singapore - 188976
+98737774
+
+Page 56 - Agency ID: eadAllAgenciesForm:allAgenciesList:444:j_id_16_57
+Agency Name: SHIRLEY KONG EMPLOYMENT AGENCY (15C7704)
+Agency Details: Main Branch:
+467A, ADMIRALTY DRIVE, #05-161, Singapore - 751467
+88186020
+
+Page 56 - Agency ID: eadAllAgenciesForm:allAgenciesList:445:j_id_16_57
+Agency Name: AC MANPOWER SERVICES (13C6373)
+Agency Details: Main Branch:
+8B, YIO CHU KANG ROAD, #02-8B, ICB SHOPPING CENTRE, Singapore - 545522
+
+Page 56 - Agency ID: eadAllAgenciesForm:allAgenciesList:446:j_id_16_57
+Agency Name: BT MAID AGENCY (11C1437)
+Agency Details: Main Branch:
+134, JURONG GATEWAY ROAD, #02-307B, Singapore - 600134
+97337723
+
+Page 56 - Agency ID: eadAllAgenciesForm:allAgenciesList:447:j_id_16_57
+Agency Name: OTTIMO EMPLOYMENT AGENCY PTE. LTD. (05C3768)
+Agency Details: Main Branch:
+3, ANG MO KIO STREET 62, #06-17, LINK@AMK, Singapore - 569139
+92397893
+
+Page 57 - Agency ID: eadAllAgenciesForm:allAgenciesList:448:j_id_16_57
+Agency Name: SUNNYVALE RESOURCES (12C6182)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #04-03, FAR EAST SHOPPING CENTRE, Singapore - 238882
+67358755
+
+Page 57 - Agency ID: eadAllAgenciesForm:allAgenciesList:449:j_id_16_57
+Agency Name: ZIFA SOLUTIONS (19C9935)
+Agency Details: Main Branch:
+567, PASIR RIS STREET 51, #05-104, Singapore - 510567
+81896381
+
+Page 57 - Agency ID: eadAllAgenciesForm:allAgenciesList:450:j_id_16_57
+Agency Name: ORCHARD MANPOWER (04C4159)
+Agency Details: Main Branch:
+587, BUKIT TIMAH ROAD, #03-23, CORONATION PLAZA, Singapore - 269707
+64638922
+
+Page 57 - Agency ID: eadAllAgenciesForm:allAgenciesList:451:j_id_16_57
+Agency Name: JH HELEN EMPLOYMENT AGENCY (23C2039)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #02-13, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+97294171
+
+Page 57 - Agency ID: eadAllAgenciesForm:allAgenciesList:452:j_id_16_57
+Agency Name: SCK EMPLOYMENT SERVICES PTE. LTD. (17C8653)
+Agency Details: Main Branch:
+4, HARTLEY GROVE, FRANKEL ESTATE, Singapore - 457873
+
+Page 57 - Agency ID: eadAllAgenciesForm:allAgenciesList:453:j_id_16_57
+Agency Name: SANCTUARY MANPOWER (13C9766)
+Agency Details: Main Branch:
+33, UBI AVENUE 3, #07-21, VERTEX, Singapore - 408868
+84118225
+
+Page 57 - Agency ID: eadAllAgenciesForm:allAgenciesList:454:j_id_16_57
+Agency Name: SWIFT MAIDS AGENCY PTE. LTD. (21C0832)
+Agency Details: Main Branch:
+449, RACE COURSE ROAD, Singapore - 218693
+93888241
+
+Page 57 - Agency ID: eadAllAgenciesForm:allAgenciesList:455:j_id_16_57
+Agency Name: HELPERLY PTE. LTD. (23C1465)
+Agency Details: Main Branch:
+33, UBI AVENUE 3, #08-49, VERTEX, Singapore - 408868
+92486423
+
+Page 58 - Agency ID: eadAllAgenciesForm:allAgenciesList:456:j_id_16_57
+Agency Name: BUDGET EMPLOYMENT PTE. LTD. (14C7260)
+Agency Details: Main Branch:
+1, JALAN ANAK BUKIT, #B1-57A, BUKIT TIMAH PLAZA, Singapore - 588996
+
+Page 58 - Agency ID: eadAllAgenciesForm:allAgenciesList:457:j_id_16_57
+Agency Name: EASY HIRE PTE. LTD. (23C1905)
+Agency Details: Main Branch:
+62, POTONG PASIR AVENUE 1, #12-14, THE TRE VER, Singapore - 358392
+92260086
+
+Page 58 - Agency ID: eadAllAgenciesForm:allAgenciesList:458:j_id_16_57
+Agency Name: JAYA LESTARI AGENCY (86C3694)
+Agency Details: Main Branch:
+20, UPP CIRCULAR RD, #01-08, RIVERWALK GALLERIA, Singapore - 058416
+65389838
+
+Page 58 - Agency ID: eadAllAgenciesForm:allAgenciesList:459:j_id_16_57
+Agency Name: TNY RECRUITMENT PTE. LTD. (14C7257)
+Agency Details: Main Branch:
+-, MOUNTBATTEN ROAD, #01-19, KATONG SHOPPING CENTRE, Singapore - 437844
+64408126
+
+Page 58 - Agency ID: eadAllAgenciesForm:allAgenciesList:460:j_id_16_57
+Agency Name: MY FAMILY HELPER LLP (18C9229)
+Agency Details: Main Branch:
+116, CHANGI ROAD, #04-13, WIS@CHANGI, Singapore - 419718
+88117116
+
+Page 58 - Agency ID: eadAllAgenciesForm:allAgenciesList:461:j_id_16_57
+Agency Name: JOBLINK PERSONNEL SERVICES (97C3981)
+Agency Details: Main Branch:
+101, UPPER CROSS STREET, #04-19A, PEOPLE'S PARK CENTRE, Singapore - 058357
+65385902
+
+Page 58 - Agency ID: eadAllAgenciesForm:allAgenciesList:462:j_id_16_57
+Agency Name: DYNAMIC EMPLOYMENT SERVICES PTE. LTD. (09C5738)
+Agency Details: Main Branch:
+111, NORTH BRIDGE ROAD, #05-47, PENINSULA PLAZA, Singapore - 179098
+63334072
+
+Page 58 - Agency ID: eadAllAgenciesForm:allAgenciesList:463:j_id_16_57
+Agency Name: AR EXCEL EMPLOYMENT AGENCY (10C4820)
+Agency Details: Main Branch:
+422, CHOA CHU KANG AVENUE 4, #04-242, Singapore - 680422
+
+Page 59 - Agency ID: eadAllAgenciesForm:allAgenciesList:464:j_id_16_57
+Agency Name: SPRING HELPER CONSULTANCY PRIVATE LIMITED (12C5978)
+Agency Details: Main Branch:
+50, EAST COAST ROAD, #01-09, ROXY SQUARE, Singapore - 428769
+63456711
+
+Page 59 - Agency ID: eadAllAgenciesForm:allAgenciesList:465:j_id_16_57
+Agency Name: ADMORE EMPLOYMENT AGENCY (12C5886)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #10-02, KATONG SHOPPING CENTRE, Singapore - 437844
+62820482
+
+Page 59 - Agency ID: eadAllAgenciesForm:allAgenciesList:466:j_id_16_57
+Agency Name: REGENT EMPLOYMENT SERVICES PTE. LTD. (03C3206)
+Agency Details: Main Branch:
+50, EAST COAST ROAD, #01-33, ROXY SQUARE, Singapore - 428769
+63487789
+
+Page 59 - Agency ID: eadAllAgenciesForm:allAgenciesList:467:j_id_16_57
+Agency Name: HYPERLINK RECRUITMENT PRIVATE LIMITED (18C9290)
+Agency Details: Main Branch:
+123, LORONG 1 TOA PAYOH, #01-517, Singapore - 310123
+62590213
+
+Page 59 - Agency ID: eadAllAgenciesForm:allAgenciesList:468:j_id_16_57
+Agency Name: POINTERS HUMAN RESOURCES PTE LTD (07C3634)
+Agency Details: Main Branch:
+190, MIDDLE ROAD, #01-21, FORTUNE CENTRE, Singapore - 188979
+63398328
+
+Page 59 - Agency ID: eadAllAgenciesForm:allAgenciesList:469:j_id_16_57
+Agency Name: JO-AN RECRUITMENT AND CONSULTANCY SERVICES (95C8957)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #04-32, FAR EAST SHOPPING CENTRE, Singapore - 238882
+87178450
+
+Page 59 - Agency ID: eadAllAgenciesForm:allAgenciesList:470:j_id_16_57
+Agency Name: BEST HELPER PTE. LTD. (15C7459)
+Agency Details: Main Branch:
+22, SIN MING LANE, #06-76, MIDVIEW CITY, Singapore - 573969
+87876674
+
+Page 59 - Agency ID: eadAllAgenciesForm:allAgenciesList:471:j_id_16_57
+Agency Name: EDEN GRACE HUMAN RESOURCES ( CENTRAL ) PRIVATE LIMITED (15C7737)
+Agency Details: Main Branch:
+18, SIN MING LANE, #07-38, MIDVIEW CITY, Singapore - 573960
+62625562
+
+Page 60 - Agency ID: eadAllAgenciesForm:allAgenciesList:472:j_id_16_57
+Agency Name: MAIDCITY RESOURCES PTE. LTD. (21C0694)
+Agency Details: Main Branch:
+85, LORONG 4 TOA PAYOH, #01-316, TOA PAYOH PEAKVIEW, Singapore - 310085
+67346735
+
+Page 60 - Agency ID: eadAllAgenciesForm:allAgenciesList:473:j_id_16_57
+Agency Name: AWARD EMPLOYMENT AGENCY (09C6582)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #05-13, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+
+Page 60 - Agency ID: eadAllAgenciesForm:allAgenciesList:474:j_id_16_57
+Agency Name: REGENT MAID PTE. LTD. (23C1834)
+Agency Details: Main Branch:
+18, YISHUN AVENUE 9, #02-26, JUNCTION NINE, Singapore - 768897
+82002037
+
+Page 60 - Agency ID: eadAllAgenciesForm:allAgenciesList:475:j_id_16_57
+Agency Name: FIRST MAID PTE. LTD. (20C0141)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #B1-21, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+84887603
+
+Page 60 - Agency ID: eadAllAgenciesForm:allAgenciesList:476:j_id_16_57
+Agency Name: ZEAL CARE PTE. LTD. (23C1639)
+Agency Details: Main Branch:
+304, ORCHARD ROAD, #02-17, LUCKY PLAZA, Singapore - 238863
+97252188
+
+Page 60 - Agency ID: eadAllAgenciesForm:allAgenciesList:477:j_id_16_57
+Agency Name: LUMINUS HUMAN RESOURCE PTE. LTD. (18C9315)
+Agency Details: Main Branch:
+100, TRAS STREET, #16-01, 100 AM, Singapore - 079027
+92383631
+
+Page 60 - Agency ID: eadAllAgenciesForm:allAgenciesList:478:j_id_16_57
+Agency Name: HURE MANAGEMENT PRIVATE LIMITED (06C5683)
+Agency Details: Main Branch:
+2, JURONG EAST STREET 21, #02-158, IMM BUILDING, Singapore - 609601
+96891618
+
+Page 60 - Agency ID: eadAllAgenciesForm:allAgenciesList:479:j_id_16_57
+Agency Name: BEST HOUSEKEEPER PTE. LTD. (16C8019)
+Agency Details: Main Branch:
+304, ORCHARD ROAD, #04-11, LUCKY PLAZA, Singapore - 238863
+68767948
+
+Page 61 - Agency ID: eadAllAgenciesForm:allAgenciesList:480:j_id_16_57
+Agency Name: REN EMPLOYMENT SERVICES PTE. LTD. (23C1657)
+Agency Details: Main Branch:
+713, ANG MO KIO AVENUE 6, #01-4032, Singapore - 560713
+69808790
+
+Page 61 - Agency ID: eadAllAgenciesForm:allAgenciesList:481:j_id_16_57
+Agency Name: FAR EAST EMPLOYMENT SERVICES (04C5338)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #02-06/07, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64670123
+
+Page 61 - Agency ID: eadAllAgenciesForm:allAgenciesList:482:j_id_16_57
+Agency Name: AUK MANAGEMENT SERVICES PTE LTD (01C2818)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #04-11, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64671022
+
+Page 61 - Agency ID: eadAllAgenciesForm:allAgenciesList:483:j_id_16_57
+Agency Name: GREATLINK EMPLOYMENT PTE. LTD. (23C1460)
+Agency Details: Main Branch:
+18, YISHUN AVENUE 9, #01-71, JUNCTION NINE, Singapore - 768897
+81816524
+
+Page 61 - Agency ID: eadAllAgenciesForm:allAgenciesList:484:j_id_16_57
+Agency Name: HOMELAND EMPLOYMENT AGENCY (06C4023)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #02-59, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64630122
+
+Page 61 - Agency ID: eadAllAgenciesForm:allAgenciesList:485:j_id_16_57
+Agency Name: SHUN AN EMPLOYMENT AGENCY (22C1395)
+Agency Details: Main Branch:
+14, ROBINSON ROAD, #08-01, FAR EAST FINANCE BUILDING, Singapore - 048545
+81210718
+
+Page 61 - Agency ID: eadAllAgenciesForm:allAgenciesList:486:j_id_16_57
+Agency Name: TRUST MANPOWER RESOURCE (95C4951)
+Agency Details: Main Branch:
+150, SOUTH BRIDGE ROAD, #B1-01, FOOK HAI BUILDING, Singapore - 058727
+65341488
+
+Page 61 - Agency ID: eadAllAgenciesForm:allAgenciesList:487:j_id_16_57
+Agency Name: SK27 AGENCY (17C8526)
+Agency Details: Main Branch:
+633A, SENJA ROAD, #23-161, SENJA GREEN, Singapore - 671633
+
+Page 62 - Agency ID: eadAllAgenciesForm:allAgenciesList:488:j_id_16_57
+Agency Name: 1-ALLIANCE EMPLOYMENT (MAIDS) AGENCY PTE. LTD. (16C8002)
+Agency Details: Main Branch:
+66, KALLANG BAHRU, #01-523, Singapore - 330066
+93868982
+
+Page 62 - Agency ID: eadAllAgenciesForm:allAgenciesList:489:j_id_16_57
+Agency Name: 1 REGION RESOURCE (24C2119)
+Agency Details: Main Branch:
+305, BUKIT BATOK STREET 31, #07-95, HONG KAH GREEN, Singapore - 650305
+88415478
+
+Page 62 - Agency ID: eadAllAgenciesForm:allAgenciesList:490:j_id_16_57
+Agency Name: 1A STAR EMPLOYMENT AGENCY (09C4638)
+Agency Details: Main Branch:
+101, KITCHENER ROAD, #03-32A, JALAN BESAR PLAZA, Singapore - 208511
+65261669
+
+Page 62 - Agency ID: eadAllAgenciesForm:allAgenciesList:491:j_id_16_57
+Agency Name: 1ST CHOICE EMPLOYMENT AGENCY (18C9374)
+Agency Details: Main Branch:
+267B, COMPASSVALE LINK, #09-57, COMPASSVALE ARCADIA, Singapore - 542267
+63127472
+
+Page 62 - Agency ID: eadAllAgenciesForm:allAgenciesList:492:j_id_16_57
+Agency Name: 3M'S MANPOWER AND SERVICES (09C2888)
+Agency Details: Main Branch:
+165, GANGSA ROAD, #04-74, Singapore - 670165
+
+Page 62 - Agency ID: eadAllAgenciesForm:allAgenciesList:493:j_id_16_57
+Agency Name: ADVENTAGE LIFE PTE. LTD. (23C1530)
+Agency Details: Main Branch:
+469, JOO CHIAT ROAD, #02 Singapore - 427679
+68659890
+
+Page 62 - Agency ID: eadAllAgenciesForm:allAgenciesList:494:j_id_16_57
+Agency Name: AFFIRM SERVICES PTE. LTD. (24C2178)
+Agency Details: Main Branch:
+14, CACTUS DRIVE, #03-02, GRANDE VISTA, Singapore - 809689
+94522340
+
+Page 62 - Agency ID: eadAllAgenciesForm:allAgenciesList:495:j_id_16_57
+Agency Name: ALEX AUNG CAREER GUIDANCE SERVICE (22C1036)
+Agency Details: Main Branch:
+-, FUSIONOPOLIS PLACE, GALAXIS, Singapore - 138522
+88997390
+
+Page 63 - Agency ID: eadAllAgenciesForm:allAgenciesList:496:j_id_16_57
+Agency Name: ALL STAR EMPLOYMENT PTE. LTD. (22C1403)
+Agency Details: Main Branch:
+22, SIN MING LANE, #06-76, MIDVIEW CITY, Singapore - 573969
+88891518
+
+Page 63 - Agency ID: eadAllAgenciesForm:allAgenciesList:497:j_id_16_57
+Agency Name: AP BEST EMPLOYMENT AGENCY (23C1756)
+Agency Details: Main Branch:
+127, LORONG K TELOK KURAU, #04-01, PROSPERO VILLE, Singapore - 425766
+90286248
+
+Page 63 - Agency ID: eadAllAgenciesForm:allAgenciesList:498:j_id_16_57
+Agency Name: ASIA MANPOWER SUPPLY PTE. LTD. (08C5217)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #03-49, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+62422777
+
+Page 63 - Agency ID: eadAllAgenciesForm:allAgenciesList:499:j_id_16_57
+Agency Name: ASSIST-U EA (21C0586)
+Agency Details: Main Branch:
+468, SEGAR ROAD, #04-202, Singapore - 670468
+90275858
+
+Page 63 - Agency ID: eadAllAgenciesForm:allAgenciesList:500:j_id_16_57
+Agency Name: BAN CHEONG RESOURCES (24C2200)
+Agency Details: Main Branch:
+283, BUKIT BATOK EAST AVENUE 3, #01-267, Singapore - 650283
+93253299
+
+Page 63 - Agency ID: eadAllAgenciesForm:allAgenciesList:501:j_id_16_57
+Agency Name: BLESSED HELPERS AGENCY PTE. LTD. (23C2066)
+Agency Details: Main Branch:
+1D, CANTONMENT ROAD, #30-39, THE PINNACLE @ DUXTON, Singapore - 085401
+97401063
+
+Page 63 - Agency ID: eadAllAgenciesForm:allAgenciesList:502:j_id_16_57
+Agency Name: CONNECT MAID AGENCY PTE. LTD. (23C2071)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #01-06, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+69808663
+
+Page 63 - Agency ID: eadAllAgenciesForm:allAgenciesList:503:j_id_16_57
+Agency Name: FRONDOSA CITY EMPLOYMENT AGENCY (13C6312)
+Agency Details: Main Branch:
+56, MARINE TERRACE, #01-255, MARINE TERRACE HAVEN, Singapore - 440056
+61008860
+
+Page 64 - Agency ID: eadAllAgenciesForm:allAgenciesList:504:j_id_16_57
+Agency Name: FUTURE BRIGHT PTE. LTD. (16C8035)
+Agency Details: Main Branch:
+183, JALAN PELIKAT, #01-102, THE PROMENADE@PELIKAT, Singapore - 537643
+62298363
+
+Page 64 - Agency ID: eadAllAgenciesForm:allAgenciesList:505:j_id_16_57
+Agency Name: GOLDEN DRAGON MANAGEMENT SERVICES (23C1960)
+Agency Details: Main Branch:
+111, NTH BRIDGE RD, #05-11, Singapore - 179098
+67171112
+
+Page 64 - Agency ID: eadAllAgenciesForm:allAgenciesList:506:j_id_16_57
+Agency Name: GOOD DAY MAID PTE. LTD. (23C1649)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #01-06, KATONG SHOPPING CENTRE, Singapore - 437844
+98369935
+
+Page 64 - Agency ID: eadAllAgenciesForm:allAgenciesList:507:j_id_16_57
+Agency Name: GREEN DOT MAID AGENCY (15C7407)
+Agency Details: Main Branch:
+466, HOUGANG AVENUE 8, #03-1528, Singapore - 530466
+96718655
+
+Page 64 - Agency ID: eadAllAgenciesForm:allAgenciesList:508:j_id_16_57
+Agency Name: GUTS EMPLOYMENT SERVICES (22C1230)
+Agency Details: Main Branch:
+676D, PUNGGOL DRIVE, #03-742, WATERWAY BROOKS, Singapore - 824676
+91820152
+
+Page 64 - Agency ID: eadAllAgenciesForm:allAgenciesList:509:j_id_16_57
+Agency Name: HANSING RECRUITMENT PTE. LTD. (23C1646)
+Agency Details: Main Branch:
+39, TEMPLE STREET, #02-01, Singapore - 058584
+89192550
+
+Page 64 - Agency ID: eadAllAgenciesForm:allAgenciesList:510:j_id_16_57
+Agency Name: J.E MANPOWER AGENCY (24C2264)
+Agency Details: Main Branch:
+8, KAKI BUKIT AVENUE 4, #04-35, PREMIER @ KAKI BUKIT, Singapore - 415875
+98234885
+
+Page 64 - Agency ID: eadAllAgenciesForm:allAgenciesList:511:j_id_16_57
+Agency Name: JAG EMPLOYMENT SERVICES (18C9474)
+Agency Details: Main Branch:
+22, YIO CHU KANG ROAD, #01-21, HIGHLAND CENTRE, Singapore - 545535
+65141815
+
+Page 65 - Agency ID: eadAllAgenciesForm:allAgenciesList:512:j_id_16_57
+Agency Name: JOB CONSULTANCY GLOBAL PTE. LTD. (11C3835)
+Agency Details: Main Branch:
+175A, BENCOOLEN STREET, #06-10, BURLINGTON SQUARE, Singapore - 189650
+63366944
+
+Page 65 - Agency ID: eadAllAgenciesForm:allAgenciesList:513:j_id_16_57
+Agency Name: JOY EMPLOYMENT MANAGEMENT (98C5416)
+Agency Details: Main Branch:
+27J, NIM ROAD, ESTE VILLA, Singapore - 805004
+64663590
+
+Page 65 - Agency ID: eadAllAgenciesForm:allAgenciesList:514:j_id_16_57
+Agency Name: LEADING-EDGE CONSULTANCY SERVICES PTE. LTD. (12C6068)
+Agency Details: Main Branch:
+51, GOLDHILL PLAZA, #08-02, Singapore - 308900
+65025829
+
+Page 65 - Agency ID: eadAllAgenciesForm:allAgenciesList:515:j_id_16_57
+Agency Name: MINI MIKE RECRUITMENT AND MANPOWER PTE. LTD. (02C4065)
+Agency Details: Main Branch:
+57, GERALD DRIVE, Singapore - 799007
+65385806
+
+Page 65 - Agency ID: eadAllAgenciesForm:allAgenciesList:516:j_id_16_57
+Agency Name: MJ EMPLOYMENT SERVICES (05C3918)
+Agency Details: Main Branch:
+5001, BEACH ROAD, #04-03, GOLDEN MILE COMPLEX, Singapore - 199588
+63338104
+
+Page 65 - Agency ID: eadAllAgenciesForm:allAgenciesList:517:j_id_16_57
+Agency Name: S.E.A. EMPLOYMENT AGENCY (12C5700)
+Agency Details: Main Branch:
+241, BUKIT BATOK EAST AVENUE 5, #12-273, Singapore - 650241
+65677978
+
+Page 65 - Agency ID: eadAllAgenciesForm:allAgenciesList:518:j_id_16_57
+Agency Name: SHINE EMPLOYMENT AGENCY (20C0086)
+Agency Details: Main Branch:
+655B, PUNGGOL EAST, #12-736, Singapore - 822655
+96898898
+
+Page 65 - Agency ID: eadAllAgenciesForm:allAgenciesList:519:j_id_16_57
+Agency Name: SIBLINGS ASIA PTE. LTD. (21C0699)
+Agency Details: Main Branch:
+18, SIN MING LANE, #06-19, MIDVIEW CITY, Singapore - 573960
+93424008
+
+Page 66 - Agency ID: eadAllAgenciesForm:allAgenciesList:520:j_id_16_57
+Agency Name: SKYLINE AGENCY SG PTE. LTD. (23C2025)
+Agency Details: Main Branch:
+25, BUKIT BATOK CRESCENT, #03-03, THE ELITIST, Singapore - 658066
+88076620
+
+Page 66 - Agency ID: eadAllAgenciesForm:allAgenciesList:521:j_id_16_57
+Agency Name: SUNPOWER EMPLOYMENT (18C9069)
+Agency Details: Main Branch:
+125, EVERITT ROAD, Singapore - 428650
+64401821
+
+Page 66 - Agency ID: eadAllAgenciesForm:allAgenciesList:522:j_id_16_57
+Agency Name: TOTAL EMPLOYMENT SERVICES (23C1773)
+Agency Details: Main Branch:
+290B, COMPASSVALE CRESCENT, #03-52, Singapore - 542290
+94673320
+
+Page 66 - Agency ID: eadAllAgenciesForm:allAgenciesList:523:j_id_16_57
+Agency Name: YATHRIB EMPLOYMENT SERVICES (04C4890)
+Agency Details: Main Branch:
+463, CRAWFORD LANE, #02-17, Singapore - 190463
+63923827
+
+Page 66 - Agency ID: eadAllAgenciesForm:allAgenciesList:524:j_id_16_57
+Agency Name: IDEAL RESOURCES AGENCY (09C5529)
+Agency Details: Main Branch:
+555, ANG MO KIO AVENUE 10, #01-1966, CHENG SAN PLACE, Singapore - 560555
+63370353
+
+Page 66 - Agency ID: eadAllAgenciesForm:allAgenciesList:525:j_id_16_57
+Agency Name: MAGNUM EMPLOYMENT SERVICES PTE. LTD. (17C8840)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #03-14, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64636388
+
+Page 66 - Agency ID: eadAllAgenciesForm:allAgenciesList:526:j_id_16_57
+Agency Name: CONTACT ASIA PTE. LTD. (02C3245)
+Agency Details: Main Branch:
+140, UPPER BUKIT TIMAH ROAD, #02-06, BEAUTY WORLD PLAZA, Singapore - 588176
+64662696
+
+Page 66 - Agency ID: eadAllAgenciesForm:allAgenciesList:527:j_id_16_57
+Agency Name: ELITE RECRUITMENT PTE. LTD. (12C5935)
+Agency Details: Main Branch:
+846, YISHUN RING ROAD, #01-1113, KHATIB CENTRAL, Singapore - 760846
+84681122
+
+Page 67 - Agency ID: eadAllAgenciesForm:allAgenciesList:528:j_id_16_57
+Agency Name: STAR LIGHT RESOURCES PTE. LTD. (22C1285)
+Agency Details: Main Branch:
+123, LORONG 1 TOA PAYOH, #01-507B, TOA PAYOH VIEW, Singapore - 310123
+88112832
+
+Page 67 - Agency ID: eadAllAgenciesForm:allAgenciesList:529:j_id_16_57
+Agency Name: H.ERA EMPLOYMENT SERVICES (08C4991)
+Agency Details: Main Branch:
+848, WOODLANDS STREET 82, #07-189, Singapore - 730848
+83774111
+
+Page 67 - Agency ID: eadAllAgenciesForm:allAgenciesList:530:j_id_16_57
+Agency Name: 1 ASSIST AGENCY (14C7037)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #03-31, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64630419
+
+Page 67 - Agency ID: eadAllAgenciesForm:allAgenciesList:531:j_id_16_57
+Agency Name: JOY MANPOWER SERVICES PTE. LTD. (23C1915)
+Agency Details: Main Branch:
+448A, BUKIT BATOK WEST AVENUE 9, #07-16, WEST VALLEY @ BUKIT BATOK, Singapore - 651448
+94314959
+
+Page 67 - Agency ID: eadAllAgenciesForm:allAgenciesList:532:j_id_16_57
+Agency Name: LV CONSULTANCY & SERVICES (11C3471)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #03-37, FAR EAST SHOPPING CENTRE, Singapore - 238882
+62350448
+
+Page 67 - Agency ID: eadAllAgenciesForm:allAgenciesList:533:j_id_16_57
+Agency Name: LOYALTY EMPLOYMENT AGENCY (20C0222)
+Agency Details: Main Branch:
+111, NORTH BRIDGE ROAD, #02-45, PENINSULA PLAZA, Singapore - 179098
+63342313
+
+Page 67 - Agency ID: eadAllAgenciesForm:allAgenciesList:534:j_id_16_57
+Agency Name: ECONOMAID (21C0872)
+Agency Details: Main Branch:
+203, HOUGANG STREET 21, #01-73, Singapore - 530203
+62823082
+
+Page 67 - Agency ID: eadAllAgenciesForm:allAgenciesList:535:j_id_16_57
+Agency Name: A1 EMPLOYMENT AGENCY PTE. LTD. (04C4715)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #05-12, FAR EAST SHOPPING CENTRE, Singapore - 238882
+67384715
+
+Page 68 - Agency ID: eadAllAgenciesForm:allAgenciesList:536:j_id_16_57
+Agency Name: BEYOND BIBIK EMPLOYMENT AGENCY PTE. LTD. (22C1137)
+Agency Details: Main Branch:
+430, UPPER CHANGI ROAD, #01-40, EAST VILLAGE, Singapore - 487048
+88000801
+
+Page 68 - Agency ID: eadAllAgenciesForm:allAgenciesList:537:j_id_16_57
+Agency Name: HOMEKEEPER INTERNATIONAL PTE. LTD. (09C5350)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #04-60, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64685220
+
+Page 68 - Agency ID: eadAllAgenciesForm:allAgenciesList:538:j_id_16_57
+Agency Name: HOMEKEEPER JOBSPLACEMENT PTE. LTD. (09C5352)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #04-60, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+
+Page 68 - Agency ID: eadAllAgenciesForm:allAgenciesList:539:j_id_16_57
+Agency Name: MING HWEE AGENCY (12C6072)
+Agency Details: Main Branch:
+101, UPPER CROSS STREET, #03-54, PEOPLE'S PARK CENTRE, Singapore - 058357
+
+Page 68 - Agency ID: eadAllAgenciesForm:allAgenciesList:540:j_id_16_57
+Agency Name: MDS PTE LTD (06C4247)
+Agency Details: Main Branch:
+407, ANG MO KIO AVENUE 10, ##01-767, TECK GHEE SQUARE, Singapore - 560407
+81113216
+
+Page 68 - Agency ID: eadAllAgenciesForm:allAgenciesList:541:j_id_16_57
+Agency Name: NUR EA PTE. LTD. (23C1887)
+Agency Details: Main Branch:
+448, CHANGI ROAD, #01-06, Singapore - 419975
+63965848
+
+Page 68 - Agency ID: eadAllAgenciesForm:allAgenciesList:542:j_id_16_57
+Agency Name: JINGGA MANPOWER AGENCY (11C3138)
+Agency Details: Main Branch:
+810, GEYLANG ROAD, #02-35, CITY PLAZA, Singapore - 409286
+
+Page 68 - Agency ID: eadAllAgenciesForm:allAgenciesList:543:j_id_16_57
+Agency Name: IA EMPLOYMENT LLP (21C0440)
+Agency Details: Main Branch:
+107, ANG MO KIO AVENUE 4, #01-152, KEBUN BARU HEIGHTS, Singapore - 560107
+96398936
+
+Page 69 - Agency ID: eadAllAgenciesForm:allAgenciesList:544:j_id_16_57
+Agency Name: RAYMOND EXPRESS AGENCY (17C8774)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #06-20, KATONG SHOPPING CENTRE, Singapore - 437844
+63456788
+
+Page 69 - Agency ID: eadAllAgenciesForm:allAgenciesList:545:j_id_16_57
+Agency Name: SWIFT MAIDS RESOURCES PTE. LTD. (92C5415)
+Agency Details: Main Branch:
+217, BEDOK NORTH STREET 1, #01-63, Singapore - 460217
+68587388
+
+Page 69 - Agency ID: eadAllAgenciesForm:allAgenciesList:546:j_id_16_57
+Agency Name: WONDER MAID & MANPOWER SERVICE CENTRE (92C4747)
+Agency Details: Main Branch:
+108, HOUGANG AVENUE 1, #01-1309, Singapore - 530108
+62800383
+
+Page 69 - Agency ID: eadAllAgenciesForm:allAgenciesList:547:j_id_16_57
+Agency Name: BUDGET EMPLOYMENT SERVICE CENTRE PTE. LTD. (13C6756)
+Agency Details: Main Branch:
+200, UPPER THOMSON ROAD, #01-04, Singapore - 574424
+
+Page 69 - Agency ID: eadAllAgenciesForm:allAgenciesList:548:j_id_16_57
+Agency Name: READY EMPLOYMENT PTE. LTD. (22C1105)
+Agency Details: Main Branch:
+4, BUKIT BATOK STREET 41, #01-18, LE QUEST, Singapore - 657991
+89017027
+
+Page 69 - Agency ID: eadAllAgenciesForm:allAgenciesList:549:j_id_16_57
+Agency Name: DELTA MANPOWER AGENCY PTE. LTD. (19C0024)
+Agency Details: Main Branch:
+50, EAST COAST ROAD, #02-16, ROXY SQUARE, Singapore - 428769
+82075350
+
+Page 69 - Agency ID: eadAllAgenciesForm:allAgenciesList:550:j_id_16_57
+Agency Name: GSK @ YOUR SERVICE PTE. LTD. (20C0337)
+Agency Details: Main Branch:
+96, RANGOON ROAD, #02-96A, Singapore - 218381
+87500771
+
+Page 69 - Agency ID: eadAllAgenciesForm:allAgenciesList:551:j_id_16_57
+Agency Name: PRESTIGIOUS EMPLOYMENT AGENCY PTE. LTD. (18C9155)
+Agency Details: Main Branch:
+714, ANG MO KIO AVENUE 6, #01-4016, Singapore - 560714
+69095168
+
+Page 70 - Agency ID: eadAllAgenciesForm:allAgenciesList:552:j_id_16_57
+Agency Name: ABLECARE EMPLOYMENT SERVICES (22C1336)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #02-21, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+98569098
+
+Page 70 - Agency ID: eadAllAgenciesForm:allAgenciesList:553:j_id_16_57
+Agency Name: HIKMAH EMPLOYMENT AGENCY PTE. LTD. (10C3058)
+Agency Details: Main Branch:
+970, GEYLANG ROAD, #01-09, TRISTAR COMPLEX, Singapore - 423492
+
+Page 70 - Agency ID: eadAllAgenciesForm:allAgenciesList:554:j_id_16_57
+Agency Name: XPRESS GROUP PTE. LTD. (10C4995)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #01-61, KATONG SHOPPING CENTRE, Singapore - 437844
+64409868
+
+Page 70 - Agency ID: eadAllAgenciesForm:allAgenciesList:555:j_id_16_57
+Agency Name: EXPRESS MAID & EMPLOYMENT SERVICES PTE. LTD. (12C6270)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #03-16, FAR EAST SHOPPING CENTRE, Singapore - 238882
+64691121
+
+Page 70 - Agency ID: eadAllAgenciesForm:allAgenciesList:556:j_id_16_57
+Agency Name: AISEARCH PTE. LTD. (14C7148)
+Agency Details: Main Branch:
+61, KAKI BUKIT AVENUE 1, #03-05A, SHUN LI INDUSTRIAL PARK, Singapore - 417943
+67482128
+
+Page 70 - Agency ID: eadAllAgenciesForm:allAgenciesList:557:j_id_16_57
+Agency Name: PERFECT HOME HELPER (06C5589)
+Agency Details: Main Branch:
+587, BUKIT TIMAH ROAD, #03-20, CORONATION PLAZA, Singapore - 269707
+64696166
+
+Page 70 - Agency ID: eadAllAgenciesForm:allAgenciesList:558:j_id_16_57
+Agency Name: APEX EMPLOYMENT AGENCY (PTE.) LTD. (12C5760)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #09-01, FAR EAST SHOPPING CENTRE, Singapore - 238882
+62685522
+
+Page 70 - Agency ID: eadAllAgenciesForm:allAgenciesList:559:j_id_16_57
+Agency Name: BLISS HELPER PTE. LTD. (21C0625)
+Agency Details: Main Branch:
+183, TOA PAYOH CENTRAL, #01-292, Singapore - 310183
+62326699
+
+Page 71 - Agency ID: eadAllAgenciesForm:allAgenciesList:560:j_id_16_57
+Agency Name: GREEN EMPLOYMENT PTE. LTD. (21C0720)
+Agency Details: Main Branch:
+116, LORONG 2 TOA PAYOH, #01-152, TOA PAYOH VIEW, Singapore - 310116
+80306663
+
+Page 71 - Agency ID: eadAllAgenciesForm:allAgenciesList:561:j_id_16_57
+Agency Name: ST EMPLOYMENT MAID AGENCY PTE. LTD. (22C1087)
+Agency Details: Main Branch:
+810, GEYLANG ROAD, #1-81, CITY PLAZA, Singapore - 409286
+92476183
+
+Page 71 - Agency ID: eadAllAgenciesForm:allAgenciesList:562:j_id_16_57
+Agency Name: DS EMPLOYMENT AGENCY (11C4533)
+Agency Details: Main Branch:
+100, PECK SEAH STREET, #08-14, PS100, Singapore - 079333
+81276998
+
+Page 71 - Agency ID: eadAllAgenciesForm:allAgenciesList:563:j_id_16_57
+Agency Name: MAID MANAGEMENT SERVICES PTE. LTD. (03C4432)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #01-62, KATONG SHOPPING CENTRE, Singapore - 437844
+62915598
+
+Page 71 - Agency ID: eadAllAgenciesForm:allAgenciesList:564:j_id_16_57
+Agency Name: SKILLS AND RESOURCES CONSULTANCY (86C0931)
+Agency Details: Main Branch:
+400, BALESTIER ROAD, #01-42, BALESTIER PLAZA, Singapore - 329802
+98340996
+
+Page 71 - Agency ID: eadAllAgenciesForm:allAgenciesList:565:j_id_16_57
+Agency Name: FIRST CHOICE RECRUITMENT AGENCY SINGAPORE PTE. LTD. (22C1010)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #04-39, FAR EAST SHOPPING CENTRE, Singapore - 238882
+94466877
+
+Page 71 - Agency ID: eadAllAgenciesForm:allAgenciesList:566:j_id_16_57
+Agency Name: OSCAR MAIDS PTE. LTD. (17C8697)
+Agency Details: Main Branch:
+204, HOUGANG STREET 21, #03-111, KOVAN CITY, Singapore - 530204
+65840408
+
+Page 71 - Agency ID: eadAllAgenciesForm:allAgenciesList:567:j_id_16_57
+Agency Name: LABOUR EXPRESS EMPLOYMENT AGENCY PTE. LTD. (13C6536)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #01-31, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64660805
+
+Page 72 - Agency ID: eadAllAgenciesForm:allAgenciesList:568:j_id_16_57
+Agency Name: JOURNEY CARE EMPLOYMENT AGENCY (13C6403)
+Agency Details: Main Branch:
+630, SENJA ROAD, #26-216, Singapore - 670630
+90065487
+
+Page 72 - Agency ID: eadAllAgenciesForm:allAgenciesList:569:j_id_16_57
+Agency Name: WORKFORCE MANPOWER PTE. LTD. (07C2992)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #05-29, FAR EAST SHOPPING CENTRE, Singapore - 238882
+63421211
+
+Page 72 - Agency ID: eadAllAgenciesForm:allAgenciesList:570:j_id_16_57
+Agency Name: FAITH MAID AGENCY PTE. LTD. (13C6818)
+Agency Details: Main Branch:
+810, GEYLANG ROAD, #01-28, CITY PLAZA, Singapore - 409286
+68414178
+
+Page 72 - Agency ID: eadAllAgenciesForm:allAgenciesList:571:j_id_16_57
+Agency Name: HR ASIA EMPLOYMENT SERVICES (12C5899)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #03-40, FAR EAST SHOPPING CENTRE, Singapore - 238882
+
+Page 72 - Agency ID: eadAllAgenciesForm:allAgenciesList:572:j_id_16_57
+Agency Name: TRINITY EMPLOYMENT AGENCY (05C4711)
+Agency Details: Main Branch:
+317, OUTRAM ROAD, #01-22, CONCORDE SHOPPING CENTRE, Singapore - 169075
+67349322
+
+Page 72 - Agency ID: eadAllAgenciesForm:allAgenciesList:573:j_id_16_57
+Agency Name: ONE EMPLOYMENT SOLUTIONS & SERVICES PTE. LTD. (14C7056)
+Agency Details: Main Branch:
+748, WOODLANDS CIRCLE, #05-514, Singapore - 730748
+67378489
+
+Page 72 - Agency ID: eadAllAgenciesForm:allAgenciesList:574:j_id_16_57
+Agency Name: JSTAR EMPLOYMENT AGENCY (11C4448)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #02-25, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64658878
+
+Page 72 - Agency ID: eadAllAgenciesForm:allAgenciesList:575:j_id_16_57
+Agency Name: HUMANSCO PTE. LTD. (22C0950)
+Agency Details: Main Branch:
+70, FIGARO STREET, OPERA ESTATE, Singapore - 458375
+92252579
+
+Page 73 - Agency ID: eadAllAgenciesForm:allAgenciesList:576:j_id_16_57
+Agency Name: ACHIEVE EMPLOYMENT LLP (12C5848)
+Agency Details: Main Branch:
+8, JALAN KUKOH, #01-35, CHIN SWEE VIEW, Singapore - 162008
+69086678
+
+Page 73 - Agency ID: eadAllAgenciesForm:allAgenciesList:577:j_id_16_57
+Agency Name: SGE EMPLOYMENT AGENCY (20C0112)
+Agency Details: Main Branch:
+198, YIO CHU KANG ROAD, Singapore - 545645
+94231874
+
+Page 73 - Agency ID: eadAllAgenciesForm:allAgenciesList:578:j_id_16_57
+Agency Name: DICH VU GIUP VIEC NHA SINGAPORE PTE. LTD. (23C1478)
+Agency Details: Main Branch:
+810, GEYLANG ROAD, #01-40, CITY PLAZA, Singapore - 409286
+97584999
+
+Page 73 - Agency ID: eadAllAgenciesForm:allAgenciesList:579:j_id_16_57
+Agency Name: LOVING HELPER (19C9994)
+Agency Details: Main Branch:
+230J, TAMPINES STREET 21, #07-675, Singapore - 523230
+87275464
+
+Page 73 - Agency ID: eadAllAgenciesForm:allAgenciesList:580:j_id_16_57
+Agency Name: AFLAH EMPLOYMENT AGENCY PTE. LIMITED (11C5435)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #05-33, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64621012
+
+Page 73 - Agency ID: eadAllAgenciesForm:allAgenciesList:581:j_id_16_57
+Agency Name: CENTRAL MANPOWER SERVICES (15C7837)
+Agency Details: Main Branch:
+3, BEACH ROAD, #01-4843, Singapore - 190003
+62914400
+
+Page 73 - Agency ID: eadAllAgenciesForm:allAgenciesList:582:j_id_16_57
+Agency Name: MERRIES EMPLOYMENT LLP (14C7362)
+Agency Details: Main Branch:
+7, TEMASEK BOULEVARD, #12-07, SUNTEC TOWER ONE, Singapore - 038987
+63489085
+
+Page 73 - Agency ID: eadAllAgenciesForm:allAgenciesList:583:j_id_16_57
+Agency Name: ZE INTERNATIONAL EMPLOYMENT AGENCY (17C8771)
+Agency Details: Main Branch:
+8, MARINA BOULEVARD, #11 MARINA BAY FINANCIAL CENTRE, Singapore - 018981
+65119533
+
+Page 74 - Agency ID: eadAllAgenciesForm:allAgenciesList:584:j_id_16_57
+Agency Name: ZHEN MANPOWER SERVICES (22C1016)
+Agency Details: Main Branch:
+80, PLAYFAIR ROAD, #01-18, KAPO FACTORY BUILDING, Singapore - 367998
+97988897
+
+Page 74 - Agency ID: eadAllAgenciesForm:allAgenciesList:585:j_id_16_57
+Agency Name: LEMANN EMPLOYMENT AGENCY PTE. LTD. (15C7463)
+Agency Details: Main Branch:
+390, VICTORIA STREET, #03-48, VILLAGE HOTEL BUGIS, Singapore - 188061
+
+Page 74 - Agency ID: eadAllAgenciesForm:allAgenciesList:586:j_id_16_57
+Agency Name: AGAPE EMPLOYMENT SERVICES PTE. LTD. (90C3770)
+Agency Details: Main Branch:
+455, SIN MING AVENUE, #11-475, SIN MING COURT, Singapore - 570455
+67201584
+
+Page 74 - Agency ID: eadAllAgenciesForm:allAgenciesList:587:j_id_16_57
+Agency Name: BY HIS GRACE EMPLOYMENT AGENCIES PTE. LTD. (09C5576)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #05-04, FAR EAST SHOPPING CENTRE, Singapore - 238882
+67638566
+
+Page 74 - Agency ID: eadAllAgenciesForm:allAgenciesList:588:j_id_16_57
+Agency Name: C & C EMPLOYMENT SERVICES PTE. LTD. (19C9844)
+Agency Details: Main Branch:
+10A, JALAN TAMPANG, SEMBAWANG GARDEN ARCADE, Singapore - 758955
+88226966
+
+Page 74 - Agency ID: eadAllAgenciesForm:allAgenciesList:589:j_id_16_57
+Agency Name: DOMESTIC MAID SPECIALIST (20C0381)
+Agency Details: Main Branch:
+21, LORONG TAHAR, #08-01, ANGSANA@21, Singapore - 387757
+91992780
+
+Page 74 - Agency ID: eadAllAgenciesForm:allAgenciesList:590:j_id_16_57
+Agency Name: FAITH EMPLOYMENT AGENCY (89C3554)
+Agency Details: Main Branch:
+22, SIN MING LANE, #06-76, MIDVIEW CITY, Singapore - 573969
+67338387
+
+Page 74 - Agency ID: eadAllAgenciesForm:allAgenciesList:591:j_id_16_57
+Agency Name: ORIENTAL EXPRESS MANPOWER PTE. LTD. (14C7155)
+Agency Details: Main Branch:
+9, UBI LINK, #4-13B, Singapore - 408549
+83334959
+
+Page 75 - Agency ID: eadAllAgenciesForm:allAgenciesList:592:j_id_16_57
+Agency Name: RIZCONSULTANT EMPLOYMENT AGENCY (12C5916)
+Agency Details: Main Branch:
+55, CHANGI ROAD, #02-31, MILLAGE, Singapore - 419709
+91387445
+
+Page 75 - Agency ID: eadAllAgenciesForm:allAgenciesList:593:j_id_16_57
+Agency Name: TANYA EMPLOYMENT AGENCY (21C0712)
+Agency Details: Main Branch:
+61, BUKIT BATOK CRESCENT, #05-03, HENG LOONG BUILDING, Singapore - 658078
+81397771
+
+Page 75 - Agency ID: eadAllAgenciesForm:allAgenciesList:594:j_id_16_57
+Agency Name: TJM EMPLOYMENT AGENCY (19C9595)
+Agency Details: Main Branch:
+139, TAMPINES STREET 11, #01-56A, Singapore - 521139
+81212433
+
+Page 75 - Agency ID: eadAllAgenciesForm:allAgenciesList:595:j_id_16_57
+Agency Name: WENDY EMPLOYMENT AGENCY (17C8970)
+Agency Details: Main Branch:
+9, ENG KONG TERRACE, ENG KONG PARK, Singapore - 598981
+68444494
+
+Page 75 - Agency ID: eadAllAgenciesForm:allAgenciesList:596:j_id_16_57
+Agency Name: GNA EMPLOYMENT AGENCY (22C1033)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #05-22, FAR EAST SHOPPING CENTRE, Singapore - 238882
+98303786
+
+Page 75 - Agency ID: eadAllAgenciesForm:allAgenciesList:597:j_id_16_57
+Agency Name: ANGLO NURSES PTE. LTD. (17C8737)
+Agency Details: Main Branch:
+1, LOWER KENT RIDGE ROAD, #02-14, NUH MEDICAL CENTRE, Singapore - 119082
+66460000
+
+Page 75 - Agency ID: eadAllAgenciesForm:allAgenciesList:598:j_id_16_57
+Agency Name: MILLIONAR EMPLOYMENT AGENCY PTE. LTD. (23C1755)
+Agency Details: Main Branch:
+8, KAKI BUKIT AVENUE 4, #04-30, PREMIER @ KAKI BUKIT, Singapore - 415875
+84881111
+
+Page 75 - Agency ID: eadAllAgenciesForm:allAgenciesList:599:j_id_16_57
+Agency Name: SWEET HOME EMPLOYMENT AGENCY (14C7385)
+Agency Details: Main Branch:
+14, SCOTTS ROAD, #05-72, FAR EAST PLAZA, Singapore - 228213
+67343303
+
+Page 76 - Agency ID: eadAllAgenciesForm:allAgenciesList:600:j_id_16_57
+Agency Name: HELPER EXPRESS PTE. LTD. (23C1660)
+Agency Details: Main Branch:
+400, BALESTIER ROAD, #02-06, BALESTIER PLAZA, Singapore - 329802
+97766499
+
+Page 76 - Agency ID: eadAllAgenciesForm:allAgenciesList:601:j_id_16_57
+Agency Name: PREMIER HR SERVICES (14C7012)
+Agency Details: Main Branch:
+529, GEYLANG ROAD, Singapore - 389485
+92257575
+
+Page 76 - Agency ID: eadAllAgenciesForm:allAgenciesList:602:j_id_16_57
+Agency Name: V-DOVE INTERNATIONAL MANAGEMENT SERVICES (10C4803)
+Agency Details: Main Branch:
+235, BUKIT PANJANG RING ROAD, #08-23, Singapore - 670235
+92477671
+
+Page 76 - Agency ID: eadAllAgenciesForm:allAgenciesList:603:j_id_16_57
+Agency Name: NOVA EMPLOYMENT AGENCY (21C0812)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #02-71, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+98775438
+
+Page 76 - Agency ID: eadAllAgenciesForm:allAgenciesList:604:j_id_16_57
+Agency Name: GOODWAY IMMIGRATION & MANPOWER AGENCY (15C7815)
+Agency Details: Main Branch:
+170, HOUGANG AVENUE 1, #02-1489, Singapore - 530170
+94522272
+
+Page 76 - Agency ID: eadAllAgenciesForm:allAgenciesList:605:j_id_16_57
+Agency Name: EELIT AGENCY PTE. LTD. (18C9439)
+Agency Details: Main Branch:
+47, KALLANG PUDDING ROAD, #06-13, THE CRESCENT @ KALLANG, Singapore - 349318
+63203826
+
+Page 76 - Agency ID: eadAllAgenciesForm:allAgenciesList:606:j_id_16_57
+Agency Name: JOY EMPLOYMENT SERVICES (05C4320)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #02-60, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+67632078
+
+Page 76 - Agency ID: eadAllAgenciesForm:allAgenciesList:607:j_id_16_57
+Agency Name: REDOT EMPLOYMENT SERVICES LLP (16C8397)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #02-20, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+65183385
+
+Page 77 - Agency ID: eadAllAgenciesForm:allAgenciesList:608:j_id_16_57
+Agency Name: GINA OPTIMUM CONSULTANCY (05C8482)
+Agency Details: Main Branch:
+8, BURN ROAD, #12-05, TRIVEX, Singapore - 369977
+64416912
+
+Page 77 - Agency ID: eadAllAgenciesForm:allAgenciesList:609:j_id_16_57
+Agency Name: RIZQI EMPLOYMENT AGENCY PTE. LTD. (23C1943)
+Agency Details: Main Branch:
+289, YISHUN AVENUE 6, #10-20, Singapore - 760289
+90580080
+
+Page 77 - Agency ID: eadAllAgenciesForm:allAgenciesList:610:j_id_16_57
+Agency Name: XEDGE RESOURCE LIMITED LIABILITY PARTNERSHIP (09C3871)
+Agency Details: Main Branch:
+135, MIDDLE ROAD, #04-14, BYLANDS BUILDING, Singapore - 188975
+65918891
+
+Page 77 - Agency ID: eadAllAgenciesForm:allAgenciesList:611:j_id_16_57
+Agency Name: SASHA MANAGEMENT RESOURCES PTE LTD (98C4654)
+Agency Details: Main Branch:
+5, JALAN MASJID, #01-15, KEMBANGAN COURT, Singapore - 418924
+63980056
+
+Page 77 - Agency ID: eadAllAgenciesForm:allAgenciesList:612:j_id_16_57
+Agency Name: ISLAND MAIDS (GROUP) PTE. LTD. (16C8413)
+Agency Details: Main Branch:
+930, YISHUN CENTRAL 1, #01-117, Singapore - 760930
+
+Page 77 - Agency ID: eadAllAgenciesForm:allAgenciesList:613:j_id_16_57
+Agency Name: FIRST FORM PTE LTD (88C4232)
+Agency Details: Main Branch:
+10, ANSON RD, #10-06, INTERNATIONAL PLAZA, Singapore - 079903
+62275246
+
+Page 77 - Agency ID: eadAllAgenciesForm:allAgenciesList:614:j_id_16_57
+Agency Name: INTEGRITY MAID & EMPLOYMENT SERVICES PTE. LTD. (13C6378)
+Agency Details: Main Branch:
+304, ORCHARD ROAD, #03-92, LUCKY PLAZA, Singapore - 238863
+62258169
+
+Page 77 - Agency ID: eadAllAgenciesForm:allAgenciesList:615:j_id_16_57
+Agency Name: EXODUS EMPLOYMENT AGENCY PRIVATE LIMITED (19C9833)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #02-19, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+88550909
+
+Page 78 - Agency ID: eadAllAgenciesForm:allAgenciesList:616:j_id_16_57
+Agency Name: SHIRLEY MAIDS & EMPLOYMENT PTE. LTD. (05C4222)
+Agency Details: Main Branch:
+511, GUILLEMARD ROAD, #01-41, GRANDLINK SQUARE, Singapore - 399849
+62555000
+
+Page 78 - Agency ID: eadAllAgenciesForm:allAgenciesList:617:j_id_16_57
+Agency Name: SRA MANAGEMENT & CONSULTANCY PTE LTD (99C3283)
+Agency Details: Main Branch:
+34, UPPER CROSS STREET, #04-170, Singapore - 050034
+68737553
+
+Page 78 - Agency ID: eadAllAgenciesForm:allAgenciesList:618:j_id_16_57
+Agency Name: ASTUTE EMPLOYMENT AGENCY (20C0155)
+Agency Details: Main Branch:
+80, CHANGI ROAD, #02-21, CENTROPOD @ CHANGI, Singapore - 419715
+96140787
+
+Page 78 - Agency ID: eadAllAgenciesForm:allAgenciesList:619:j_id_16_57
+Agency Name: GREATHELPER RESOURCES PTE. LTD. (17C8630)
+Agency Details: Main Branch:
+22, ST. GEORGE'S ROAD, #10-180, Singapore - 321022
+61000888
+
+Page 78 - Agency ID: eadAllAgenciesForm:allAgenciesList:620:j_id_16_57
+Agency Name: NICE EMPLOYMENT AGENCY PTE. LTD. (17C8936)
+Agency Details: Main Branch:
+21, YISHUN STREET 51, #01-04, SIGNATURE AT YISHUN, Singapore - 768085
+82683901
+
+Page 78 - Agency ID: eadAllAgenciesForm:allAgenciesList:621:j_id_16_57
+Agency Name: JL RECRUITMENT PTE. LTD. (11C4974)
+Agency Details: Main Branch:
+625, ELIAS ROAD, #01-328, ELIAS MALL, Singapore - 510625
+65813566
+
+Page 78 - Agency ID: eadAllAgenciesForm:allAgenciesList:622:j_id_16_57
+Agency Name: CHAMPION MANPOWER AGENCY LLP (11C5535)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #B1-61, KATONG SHOPPING CENTRE, Singapore - 437844
+96382363
+
+Page 78 - Agency ID: eadAllAgenciesForm:allAgenciesList:623:j_id_16_57
+Agency Name: PARAGON MAIDS & EMPLOYMENT AGENCY PTE. LTD. (23C2057)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #02-66, KATONG SHOPPING CENTRE, Singapore - 437844
+92283878
+
+Page 79 - Agency ID: eadAllAgenciesForm:allAgenciesList:624:j_id_16_57
+Agency Name: DIRECT HIRED PTE. LTD. (23C1443)
+Agency Details: Main Branch:
+195D, PUNGGOL ROAD, #02-538, THE PERIWINKLE, Singapore - 824195
+98556637
+
+Page 79 - Agency ID: eadAllAgenciesForm:allAgenciesList:625:j_id_16_57
+Agency Name: WORKLE PTE. LTD. (19C9611)
+Agency Details: Main Branch:
+4009, ANG MO KIO AVENUE 10, #02-30, TECHPLACE 1, Singapore - 569738
+62800096
+
+Page 79 - Agency ID: eadAllAgenciesForm:allAgenciesList:626:j_id_16_57
+Agency Name: MY EMPLOYMENT AGENCY (19C9558)
+Agency Details: Main Branch:
+10, ANSON ROAD, #13-01, INTERNATIONAL PLAZA, Singapore - 079903
+97200099
+
+Page 79 - Agency ID: eadAllAgenciesForm:allAgenciesList:627:j_id_16_57
+Agency Name: JOY RESOURCES CONSULTANCY (16C8467)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #01-02B, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64630090
+
+Page 79 - Agency ID: eadAllAgenciesForm:allAgenciesList:628:j_id_16_57
+Agency Name: A4 EMPLOYMENT AGENCY (12C6236)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #04-43K, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64650014
+
+Page 79 - Agency ID: eadAllAgenciesForm:allAgenciesList:629:j_id_16_57
+Agency Name: APROF EMPLOYMENT PTE. LTD. (20C0134)
+Agency Details: Main Branch:
+612, CHOA CHU KANG STREET 62, #02-187, Singapore - 680612
+91995002
+
+Page 79 - Agency ID: eadAllAgenciesForm:allAgenciesList:630:j_id_16_57
+Agency Name: GODWIN EMPLOYMENT AGENCY (17C8580)
+Agency Details: Main Branch:
+304, ORCHARD ROAD, #04-112, LUCKY PLAZA, Singapore - 238863
+62623122
+
+Page 79 - Agency ID: eadAllAgenciesForm:allAgenciesList:631:j_id_16_57
+Agency Name: HELEN MAIDS AGENCY PTE. LTD. (07C4010)
+Agency Details: Main Branch:
+119, SIMEI STREET 1, #11-506, Singapore - 520119
+64400787
+
+Page 80 - Agency ID: eadAllAgenciesForm:allAgenciesList:632:j_id_16_57
+Agency Name: J-MPLOY PTE. LTD. (16C8461)
+Agency Details: Main Branch:
+140, PAYA LEBAR ROAD, #01-10, AZ @ PAYA LEBAR, Singapore - 409015
+
+Page 80 - Agency ID: eadAllAgenciesForm:allAgenciesList:633:j_id_16_57
+Agency Name: SKP EMPLOYMENT AGENCY PTE. LTD. (23C1497)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #02-74, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+96891247
+
+Page 80 - Agency ID: eadAllAgenciesForm:allAgenciesList:634:j_id_16_57
+Agency Name: PRO-CHAIN GROUP HR CONSULTANCY (PTE.) LTD. (11C3381)
+Agency Details: Main Branch:
+69, LORONG 4 TOA PAYOH, #01-361, TOA PAYOH VISTA, Singapore - 310069
+
+Page 80 - Agency ID: eadAllAgenciesForm:allAgenciesList:635:j_id_16_57
+Agency Name: JPB EMPLOYMENT PTE. LTD. (16C8445)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #01-16, KATONG SHOPPING CENTRE, Singapore - 437844
+
+Page 80 - Agency ID: eadAllAgenciesForm:allAgenciesList:636:j_id_16_57
+Agency Name: GOLDEN DRAGON EMPLOYMENT AGENCY GROUP (10C8768)
+Agency Details: Main Branch:
+111, NORTH BRIDGE ROAD, #05-16, PENINSULA PLAZA, Singapore - 179098
+96280791
+
+Page 80 - Agency ID: eadAllAgenciesForm:allAgenciesList:637:j_id_16_57
+Agency Name: STARMAID EMPLOYMENT AGENCY (16C7930)
+Agency Details: Main Branch:
+60, PAYA LEBAR ROAD, #6-33, PAYA LEBAR SQUARE, Singapore - 409051
+86998211
+
+Page 80 - Agency ID: eadAllAgenciesForm:allAgenciesList:638:j_id_16_57
+Agency Name: FAREPRO SERVICES PTE. LTD. (17C8792)
+Agency Details: Main Branch:
+60, PAYA LEBAR ROAD, #05-27, PAYA LEBAR SQUARE, Singapore - 409051
+69805676
+
+Page 80 - Agency ID: eadAllAgenciesForm:allAgenciesList:639:j_id_16_57
+Agency Name: INTEGRITY TALENT PTE. LTD. (17C8569)
+Agency Details: Main Branch:
+56, PUNGGOL WALK, #08-15, A TREASURE TROVE, Singapore - 828833
+63121479
+
+Page 81 - Agency ID: eadAllAgenciesForm:allAgenciesList:640:j_id_16_57
+Agency Name: LCS2CONNECT PTE. LTD. (22C1040)
+Agency Details: Main Branch:
+321, ALEXANDRA ROAD, #01-21, ALEXANDRA CENTRAL, Singapore - 159971
+80323380
+
+Page 81 - Agency ID: eadAllAgenciesForm:allAgenciesList:641:j_id_16_57
+Agency Name: JRS BUSINESS EXPRESS PTE LTD (95C3906)
+Agency Details: Main Branch:
+713, ANG MO KIO AVENUE 6, #01-4032A, Singapore - 560713
+84994466
+
+Page 81 - Agency ID: eadAllAgenciesForm:allAgenciesList:642:j_id_16_57
+Agency Name: NANYANG EMPLOYMENT SERVICES PTE. LTD. (19C9713)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #03-13, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64677996
+
+Page 81 - Agency ID: eadAllAgenciesForm:allAgenciesList:643:j_id_16_57
+Agency Name: WONDERFUL HELPER PRIVATE LIMITED (19C9703)
+Agency Details: Main Branch:
+293, CHANGI ROAD, #01-01, Singapore - 419771
+81412888
+
+Page 81 - Agency ID: eadAllAgenciesForm:allAgenciesList:644:j_id_16_57
+Agency Name: HUB RECRUITMENT PTE. LTD. (19C9842)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #01-07, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64660075
+
+Page 81 - Agency ID: eadAllAgenciesForm:allAgenciesList:645:j_id_16_57
+Agency Name: SUMMIT MANPOWER PTE. LTD. (13C6349)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #05-14, FAR EAST SHOPPING CENTRE, Singapore - 238882
+64634625
+
+Page 81 - Agency ID: eadAllAgenciesForm:allAgenciesList:646:j_id_16_57
+Agency Name: ONWARD RECRUITMENT AGENCY (20C0276)
+Agency Details: Main Branch:
+24, SIN MING ROAD, #01-45, SIN MING VILLE, Singapore - 570024
+69807774
+
+Page 81 - Agency ID: eadAllAgenciesForm:allAgenciesList:647:j_id_16_57
+Agency Name: MABUHAY EMPLOYMENT AGENCY (10C1968)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #03-18, FAR EAST SHOPPING CENTRE, Singapore - 238882
+91216528
+
+Page 82 - Agency ID: eadAllAgenciesForm:allAgenciesList:648:j_id_16_57
+Agency Name: MAIDGIC PTE. LTD. (13C6570)
+Agency Details: Main Branch:
+205, BALESTIER ROAD, #02-08, MEZZO, THE, Singapore - 329682
+66930825
+
+Page 82 - Agency ID: eadAllAgenciesForm:allAgenciesList:649:j_id_16_57
+Agency Name: NG EMPLOYMENT SERVICES (17C8959)
+Agency Details: Main Branch:
+201C, TAMPINES STREET 21, #01-10, Singapore - 523201
+97711398
+
+Page 82 - Agency ID: eadAllAgenciesForm:allAgenciesList:650:j_id_16_57
+Agency Name: SUNRISE EMPLOYMENT AGENCY (17C8790)
+Agency Details: Main Branch:
+890C, TAMPINES AVENUE 1, #06-335, TAMPINES GREENTERRACE, Singapore - 523890
+92960070
+
+Page 82 - Agency ID: eadAllAgenciesForm:allAgenciesList:651:j_id_16_57
+Agency Name: GREAT EMPLOYMENT AGENCY (06C2981)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #02-01K, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64660040
+
+Page 82 - Agency ID: eadAllAgenciesForm:allAgenciesList:652:j_id_16_57
+Agency Name: ISLAND MAIDS (EAST) PTE. LTD. (11C3134)
+Agency Details: Main Branch:
+214, BEDOK NORTH STREET 1, #01-183, Singapore - 460214
+92288732
+
+Page 82 - Agency ID: eadAllAgenciesForm:allAgenciesList:653:j_id_16_57
+Agency Name: AKAAL JOT PTE. LTD. (22C1027)
+Agency Details: Main Branch:
+864, YISHUN AVENUE 4, #09-37, KHATIB EVERGREEN II, Singapore - 760864
+97996721
+
+Page 82 - Agency ID: eadAllAgenciesForm:allAgenciesList:654:j_id_16_57
+Agency Name: BEYOND MAIDS PRIVATE LIMITED (23C1451)
+Agency Details: Main Branch:
+183, JALAN PELIKAT, #01-112, THE PROMENADE@PELIKAT, Singapore - 537643
+98000396
+
+Page 82 - Agency ID: eadAllAgenciesForm:allAgenciesList:655:j_id_16_57
+Agency Name: NANYANG MAIDS AGENCY PTE. LTD. (19C9817)
+Agency Details: Main Branch:
+3151, COMMONWEALTH AVENUE WEST, #01-25, GRANTRAL MALL @ CLEMENTI, Singapore - 129581
+88115592
+
+Page 83 - Agency ID: eadAllAgenciesForm:allAgenciesList:656:j_id_16_57
+Agency Name: UNISTARR EMPLOYMENT PTE. LTD. (15C7448)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #03-46, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+63144252
+
+Page 83 - Agency ID: eadAllAgenciesForm:allAgenciesList:657:j_id_16_57
+Agency Name: DEE EMPLOYMENT AGENCY PTE. LTD. (18C9129)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #03-25, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+63147990
+
+Page 83 - Agency ID: eadAllAgenciesForm:allAgenciesList:658:j_id_16_57
+Agency Name: MAID SEARCH SINGAPORE PTE. LTD. (13C6379)
+Agency Details: Main Branch:
+5, COLEMAN STREET, #B1-26, PENINSULA.EXCELSIOR HOTEL, Singapore - 179805
+96825955
+
+Page 83 - Agency ID: eadAllAgenciesForm:allAgenciesList:659:j_id_16_57
+Agency Name: MAIDS R US PTE. LTD. (10C5196)
+Agency Details: Main Branch:
+131, TANGLIN ROAD, #02-13, TUDOR COURT, Singapore - 247924
+91866527
+
+Page 83 - Agency ID: eadAllAgenciesForm:allAgenciesList:660:j_id_16_57
+Agency Name: SKYLINE EMPLOYMENT AGENCY (07C3207)
+Agency Details: Main Branch:
+183, JALAN PELIKAT, #01-99, THE PROMENADE@PELIKAT, Singapore - 537643
+63852191
+
+Page 83 - Agency ID: eadAllAgenciesForm:allAgenciesList:661:j_id_16_57
+Agency Name: LIBRA EMPLOYMENT AGENCY PTE. LTD. (22C1002)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #01-02, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+65189168
+
+Page 83 - Agency ID: eadAllAgenciesForm:allAgenciesList:662:j_id_16_57
+Agency Name: SKILLS ASIA (SG) PTE. LTD. (22C1334)
+Agency Details: Main Branch:
+12, EU TONG SEN STREET, #07-164, THE CENTRAL, Singapore - 059819
+82887952
+
+Page 83 - Agency ID: eadAllAgenciesForm:allAgenciesList:663:j_id_16_57
+Agency Name: ICONNECT EMPLOYMENT AGENCY PTE. LTD. (16C8430)
+Agency Details: Main Branch:
+304, ORCHARD ROAD, #02-73, LUCKY PLAZA, Singapore - 238863
+69090789
+
+Page 84 - Agency ID: eadAllAgenciesForm:allAgenciesList:664:j_id_16_57
+Agency Name: ASIA MANPOWER RESOURCES PTE. LTD. (13C6812)
+Agency Details: Main Branch:
+11, TAMPINES STREET 32, #01-02B, Singapore - 529287
+62417440
+
+Page 84 - Agency ID: eadAllAgenciesForm:allAgenciesList:665:j_id_16_57
+Agency Name: GREENDALE RECRUITMENT (17C8603)
+Agency Details: Main Branch:
+2, UPPER ALJUNIED LANE, #01-17, JOO SENG GREEN, Singapore - 360002
+86008007
+
+Page 84 - Agency ID: eadAllAgenciesForm:allAgenciesList:666:j_id_16_57
+Agency Name: SOPHIE & DEREK EMPLOYMENT AGENCY (05C5313)
+Agency Details: Main Branch:
+50, EAST COAST ROAD, #01-18, ROXY SQUARE, Singapore - 428769
+64402728
+
+Page 84 - Agency ID: eadAllAgenciesForm:allAgenciesList:667:j_id_16_57
+Agency Name: SONIC RECRUITMENT PTE. LTD. (19C9692)
+Agency Details: Main Branch:
+930, YISHUN CENTRAL 1, #01-117, Singapore - 760930
+69698278
+
+Page 84 - Agency ID: eadAllAgenciesForm:allAgenciesList:668:j_id_16_57
+Agency Name: AJS GLOBAL PTE. LTD. (17C8901)
+Agency Details: Main Branch:
+7, TEMASEK BOULEVARD, #12-07, SUNTEC TOWER ONE, Singapore - 038987
+96180477
+
+Page 84 - Agency ID: eadAllAgenciesForm:allAgenciesList:669:j_id_16_57
+Agency Name: YES EMPLOYMENT AGENCY PTE. LTD. (11C4737)
+Agency Details: Main Branch:
+41, JURONG EAST AVENUE 1, #15-01, PARC OASIS, Singapore - 609777
+62733147
+
+Page 84 - Agency ID: eadAllAgenciesForm:allAgenciesList:670:j_id_16_57
+Agency Name: INVESTITURE RESOURCES PTE. LTD. (18C9500)
+Agency Details: Main Branch:
+4, DELTA AVENUE, #02-02, DELTA AVENUE ESTATE, Singapore - 161004
+62717613
+
+Page 84 - Agency ID: eadAllAgenciesForm:allAgenciesList:671:j_id_16_57
+Agency Name: JACK FOCUS MANAGEMENT PTE. LTD. (06C4840)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #03-41, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64693566
+
+Page 85 - Agency ID: eadAllAgenciesForm:allAgenciesList:672:j_id_16_57
+Agency Name: CENTRAL MANPOWERS (09C2957)
+Agency Details: Main Branch:
+100, JALAN SULTAN, #03-48, SULTAN PLAZA, Singapore - 199001
+96394646
+
+Page 85 - Agency ID: eadAllAgenciesForm:allAgenciesList:673:j_id_16_57
+Agency Name: AMAZING GRACE EMPLOYMENT AGENCY (12C5953)
+Agency Details: Main Branch:
+587, BUKIT TIMAH ROAD, #03-04, CORONATION PLAZA, Singapore - 269707
+
+Page 85 - Agency ID: eadAllAgenciesForm:allAgenciesList:674:j_id_16_57
+Agency Name: AUNTIS EMPLOYMENT AGENCY (23C1534)
+Agency Details: Main Branch:
+14, SCOTTS ROAD, #05-53A, FAR EAST PLAZA, Singapore - 228213
+82646364
+
+Page 85 - Agency ID: eadAllAgenciesForm:allAgenciesList:675:j_id_16_57
+Agency Name: EMPIRE BIZ MANAGEMENT PTE. LTD. (09C4927)
+Agency Details: Main Branch:
+2C, HONG SAN WALK, #10-12, PALM GARDENS, Singapore - 689049
+64025631
+
+Page 85 - Agency ID: eadAllAgenciesForm:allAgenciesList:676:j_id_16_57
+Agency Name: JDM MANAGEMENT SERVICES PTE LTD (96C2837)
+Agency Details: Main Branch:
+37, KALLANG PUDDING ROAD, #04-07I, TONG LEE BUILDING BLOCK B, Singapore - 349315
+64622169
+
+Page 85 - Agency ID: eadAllAgenciesForm:allAgenciesList:677:j_id_16_57
+Agency Name: LY TRAINING ACADEMY & CONSULTANTS PTE. LTD. (19C0018)
+Agency Details: Main Branch:
+101, KITCHENER ROAD, #03-30A, JALAN BESAR PLAZA, Singapore - 208511
+68767923
+
+Page 85 - Agency ID: eadAllAgenciesForm:allAgenciesList:678:j_id_16_57
+Agency Name: TOP MAID PTE. LTD. (23C1528)
+Agency Details: Main Branch:
+60, PAYA LEBAR ROAD, #07-54, PAYA LEBAR SQUARE, Singapore - 409051
+88231528
+
+Page 85 - Agency ID: eadAllAgenciesForm:allAgenciesList:679:j_id_16_57
+Agency Name: U GROUP EMPLOYMENT PTE. LTD. (23C1716)
+Agency Details: Main Branch:
+21, HOUGANG STREET 51, #02-27, HOUGANG GREEN SHOPPING MALL, Singapore - 538719
+98968563
+
+Page 86 - Agency ID: eadAllAgenciesForm:allAgenciesList:680:j_id_16_57
+Agency Name: WISOL GLOBAL TALENT PTE. LTD. (19C9632)
+Agency Details: Main Branch:
+230, VICTORIA STREET, #15-01, BUGIS JUNCTION TOWERS, Singapore - 188024
+96910028
+
+Page 86 - Agency ID: eadAllAgenciesForm:allAgenciesList:681:j_id_16_57
+Agency Name: JIREH EMPLOYMENT AGENCY (16C8237)
+Agency Details: Main Branch:
+351, ANG MO KIO STREET 32, #11-119, ANG MO KIO HEIGHTS, Singapore - 560351
+96301064
+
+Page 86 - Agency ID: eadAllAgenciesForm:allAgenciesList:682:j_id_16_57
+Agency Name: HOME EMPLOYMENT AGENCY PTE. LTD. (02C3210)
+Agency Details: Main Branch:
+21, HOUGANG STREET 51, #01-22, HOUGANG GREEN SHOPPING MALL, Singapore - 538719
+64892555
+
+Page 86 - Agency ID: eadAllAgenciesForm:allAgenciesList:683:j_id_16_57
+Agency Name: CENTER FAIR STAFFING PTE. LTD. (18C9469)
+Agency Details: Main Branch:
+61, BUKIT BATOK CRESCENT, #05-05, HENG LOONG BUILDING, Singapore - 658078
+98365200
+
+Page 86 - Agency ID: eadAllAgenciesForm:allAgenciesList:684:j_id_16_57
+Agency Name: ECA EMPLOYMENT SERVICES (19C9974)
+Agency Details: Main Branch:
+325, HOUGANG AVENUE 7, #06-317, Singapore - 530325
+97317286
+
+Page 86 - Agency ID: eadAllAgenciesForm:allAgenciesList:685:j_id_16_57
+Agency Name: LEGEND MANPOWER AGENCY (97C2898)
+Agency Details: Main Branch:
+531, BEDOK NORTH STREET 3, #01-690, Singapore - 460531
+64499913
+
+Page 86 - Agency ID: eadAllAgenciesForm:allAgenciesList:686:j_id_16_57
+Agency Name: MAID HUB EMPLOYMENT PTE. LTD. (19C9586)
+Agency Details: Main Branch:
+21, HOUGANG STREET 51, #01-24, HOUGANG GREEN SHOPPING MALL, Singapore - 538719
+64893383
+
+Page 86 - Agency ID: eadAllAgenciesForm:allAgenciesList:687:j_id_16_57
+Agency Name: HIH PRIVATE LIMITED (21C0677)
+Agency Details: Main Branch:
+1, JALAN BERSEH, #03-14, NEW WORLD CENTRE, Singapore - 209037
+91837931
+
+Page 87 - Agency ID: eadAllAgenciesForm:allAgenciesList:688:j_id_16_57
+Agency Name: AMPAS MANAGEMENT SERVICES (97C5199)
+Agency Details: Main Branch:
+279, BALESTIER ROAD, #02-16, BALESTIER POINT, Singapore - 329727
+63551373
+
+Page 87 - Agency ID: eadAllAgenciesForm:allAgenciesList:689:j_id_16_57
+Agency Name: H&R EMPLOYMENT SERVICES (12C6075)
+Agency Details: Main Branch:
+1, JALAN ANAK BUKIT, #01-06, BUKIT TIMAH PLAZA, Singapore - 588996
+64660028
+
+Page 87 - Agency ID: eadAllAgenciesForm:allAgenciesList:690:j_id_16_57
+Agency Name: FAST TRACK EMPLOYMENT AGENCY (19C0009)
+Agency Details: Main Branch:
+371, BUKIT BATOK STREET 31, #01-304, NIL, Singapore - 650371
+87871043
+
+Page 87 - Agency ID: eadAllAgenciesForm:allAgenciesList:691:j_id_16_57
+Agency Name: NANYANG INFINITE LLP (13C6900)
+Agency Details: Main Branch:
+3151, COMMONWEALTH AVENUE WEST, #01-25, GRANTRAL MALL @ CLEMENTI, Singapore - 129581
+82229089
+
+Page 87 - Agency ID: eadAllAgenciesForm:allAgenciesList:692:j_id_16_57
+Agency Name: EVENTS ENTERPRISE PTE LTD (94C3850)
+Agency Details: Main Branch:
+9, HOW SUN CLOSE, #---, Singapore - 538637
+62810510
+
+Page 87 - Agency ID: eadAllAgenciesForm:allAgenciesList:693:j_id_16_57
+Agency Name: GLOBAL UNITED CHANNEL PRIVATE LIMITED (17C8945)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #01-56, KATONG SHOPPING CENTRE, Singapore - 437844
+63448807
+
+Page 87 - Agency ID: eadAllAgenciesForm:allAgenciesList:694:j_id_16_57
+Agency Name: DOUM (23C2109)
+Agency Details: Main Branch:
+144, UPPER BUKIT TIMAH ROAD, #03-K09, BEAUTY WORLD CENTRE, Singapore - 588177
+96481027
+
+Page 87 - Agency ID: eadAllAgenciesForm:allAgenciesList:695:j_id_16_57
+Agency Name: HAPPY HOME AGENCY PTE. LTD. (06C4290)
+Agency Details: Main Branch:
+304, ORCHARD ROAD, #04-03, LUCKY PLAZA, Singapore - 238863
+68849543
+
+Page 88 - Agency ID: eadAllAgenciesForm:allAgenciesList:696:j_id_16_57
+Agency Name: MEDINA RECRUITMENT CONSULTANT (09C4592)
+Agency Details: Main Branch:
+511, GUILLEMARD ROAD, #03-10, GRANDLINK SQUARE, Singapore - 399849
+63468122
+
+Page 88 - Agency ID: eadAllAgenciesForm:allAgenciesList:697:j_id_16_57
+Agency Name: ALPHA PLUS EMPLOYMENT SERVICES PTE. LTD. (13C6747)
+Agency Details: Main Branch:
+3, SOUTH BUONA VISTA ROAD, #01-31, VIVA VISTA, Singapore - 118136
+91865595
+
+Page 88 - Agency ID: eadAllAgenciesForm:allAgenciesList:698:j_id_16_57
+Agency Name: ENIK EMPLOYMENT AGENCY (20C0404)
+Agency Details: Main Branch:
+317, OUTRAM ROAD, #02-54, CONCORDE SHOPPING CENTRE, Singapore - 169075
+67383831
+
+Page 88 - Agency ID: eadAllAgenciesForm:allAgenciesList:699:j_id_16_57
+Agency Name: ASCENSION EMPLOYMENT AGENCY (19C9655)
+Agency Details: Main Branch:
+464, CRAWFORD LANE, #01-03, CRAWFORD CENTRE, Singapore - 190464
+91068754
+
+Page 88 - Agency ID: eadAllAgenciesForm:allAgenciesList:700:j_id_16_57
+Agency Name: WHITE EMPLOYMENT SERVICES PTE. LTD. (23C1942)
+Agency Details: Main Branch:
+1, QUEENSWAY, #14-64, QUEENSWAY SHOPPING CENTRE/QUEENSWAY TOWER, Singapore - 149053
+81693906
+
+Page 88 - Agency ID: eadAllAgenciesForm:allAgenciesList:701:j_id_16_57
+Agency Name: CENTURY COMMERCIAL MANAGEMENT PTE. LTD. (07C5242)
+Agency Details: Main Branch:
+81, WHAMPOA DRIVE, #01-911, Singapore - 320081
+62565080
+
+Page 88 - Agency ID: eadAllAgenciesForm:allAgenciesList:702:j_id_16_57
+Agency Name: CRISLO EMPLOYMENT AGENCY PTE. LTD. (95C3707)
+Agency Details: Main Branch:
+1, PARK ROAD, #03-01, PEOPLE'S PARK COMPLEX, Singapore - 059108
+64383353
+
+Page 88 - Agency ID: eadAllAgenciesForm:allAgenciesList:703:j_id_16_57
+Agency Name: NIRAZ AGENCY SERVICES (10C8715)
+Agency Details: Main Branch:
+41, JALAN PEMIMPIN, #03-05, KONG BENG INDUSTRIAL BUILDING, Singapore - 577186
+62686173
+
+Page 89 - Agency ID: eadAllAgenciesForm:allAgenciesList:704:j_id_16_57
+Agency Name: AYYAN EMPLOYMENT PTE. LTD. (23C1712)
+Agency Details: Main Branch:
+24, WOODLANDS DRIVE 16, #05-09, FORESTVILLE, Singapore - 737881
+81236605
+
+Page 89 - Agency ID: eadAllAgenciesForm:allAgenciesList:705:j_id_16_57
+Agency Name: FUTURISTIC EMPLOYMENT AGENCY PTE. LTD. (23C1998)
+Agency Details: Main Branch:
+96, FLORA ROAD, #02-51, EDELWEISS PARK CONDOMINIUM, Singapore - 507007
+81137320
+
+Page 89 - Agency ID: eadAllAgenciesForm:allAgenciesList:706:j_id_16_57
+Agency Name: HANIWAK CONSULTANCY PTE. LTD. (21C0486)
+Agency Details: Main Branch:
+729, GEYLANG ROAD, #01-01, Singapore - 389640
+91220040
+
+Page 89 - Agency ID: eadAllAgenciesForm:allAgenciesList:707:j_id_16_57
+Agency Name: MEGA BUSINESS RESOURCES (09C4928)
+Agency Details: Main Branch:
+94, GEYLANG BAHRU, #02-3104, Singapore - 330094
+63964434
+
+Page 89 - Agency ID: eadAllAgenciesForm:allAgenciesList:708:j_id_16_57
+Agency Name: YEOH-HOMECRADLE EMPLOYMENT SERVICES PTE. LTD. (22C1270)
+Agency Details: Main Branch:
+-, BUKIT BATOK STREET 23, #07-19, MIDVIEW BUILDING, Singapore - 659578
+98899141
+
+Page 89 - Agency ID: eadAllAgenciesForm:allAgenciesList:709:j_id_16_57
+Agency Name: SHING YI EMPLOYMENT AGENCY (10C3282)
+Agency Details: Main Branch:
+724, YISHUN STREET 71, #12-183, KHATIB SPRING, Singapore - 760724
+67590086
+
+Page 89 - Agency ID: eadAllAgenciesForm:allAgenciesList:710:j_id_16_57
+Agency Name: NUYONG AGENCY PTE. LTD. (22C1345)
+Agency Details: Main Branch:
+756, UPPER SERANGOON ROAD, #03-14, UPPER SERANGOON SHOPPING CENTRE, Singapore - 534626
+88029907
+
+Page 89 - Agency ID: eadAllAgenciesForm:allAgenciesList:711:j_id_16_57
+Agency Name: MAID & ME EMPLOYMENT AGENCY (12C5820)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #04-07, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64695822
+
+Page 90 - Agency ID: eadAllAgenciesForm:allAgenciesList:712:j_id_16_57
+Agency Name: THITER-S EMPLOYMENT AGENCY (13C6477)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #04-28, FAR EAST SHOPPING CENTRE, Singapore - 238882
+
+Page 90 - Agency ID: eadAllAgenciesForm:allAgenciesList:713:j_id_16_57
+Agency Name: ATHENA CONSULTANCY & MAIDS SERVICES (19C9972)
+Agency Details: Main Branch:
+35, SELEGIE ROAD, #05-13, PARKLANE SHOPPING MALL, Singapore - 188307
+96444361
+
+Page 90 - Agency ID: eadAllAgenciesForm:allAgenciesList:714:j_id_16_57
+Agency Name: FOSTER RESOURCES PTE. LTD. (19C9813)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #01-59, KATONG SHOPPING CENTRE, Singapore - 437844
+67907906
+
+Page 90 - Agency ID: eadAllAgenciesForm:allAgenciesList:715:j_id_16_57
+Agency Name: 1APPLE PLACEMENT AGENCY (19C9601)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #02-60, KATONG SHOPPING CENTRE, Singapore - 437844
+96758040
+
+Page 90 - Agency ID: eadAllAgenciesForm:allAgenciesList:716:j_id_16_57
+Agency Name: JY EMPLOYMENT SERVICES PTE. LTD. (23C1635)
+Agency Details: Main Branch:
+505D, BISHAN STREET 11, #01-410, Singapore - 574505
+69808928
+
+Page 90 - Agency ID: eadAllAgenciesForm:allAgenciesList:717:j_id_16_57
+Agency Name: SUNRISE EMPLOYMENT SERVICES (88C4180)
+Agency Details: Main Branch:
+71E, CHOA CHU KANG ROAD, NICON GARDENS, Singapore - 689434
+62508437
+
+Page 90 - Agency ID: eadAllAgenciesForm:allAgenciesList:718:j_id_16_57
+Agency Name: CONNEXUS EMPLOYMENT HUB (18C9148)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #01-39, KATONG SHOPPING CENTRE, Singapore - 437844
+69048533
+
+Page 90 - Agency ID: eadAllAgenciesForm:allAgenciesList:719:j_id_16_57
+Agency Name: 1CLICK EMPLOYMENT AGENCY (20C0338)
+Agency Details: Main Branch:
+334, KRETA AYER ROAD, #01-03, KRETA AYER HEIGHTS, Singapore - 080334
+87572862
+
+Page 91 - Agency ID: eadAllAgenciesForm:allAgenciesList:720:j_id_16_57
+Agency Name: ISLAND MAIDS PTE. LTD. (13C6728)
+Agency Details: Main Branch:
+716, ANG MO KIO AVENUE 6, #01-4030, Singapore - 560716
+64487703
+
+Page 91 - Agency ID: eadAllAgenciesForm:allAgenciesList:721:j_id_16_57
+Agency Name: THE BRANCH EMPLOYMENT AGENCY PTE. LTD. (16C7894)
+Agency Details: Main Branch:
+304, ORCHARD ROAD, #04-60, LUCKY PLAZA, Singapore - 238863
+67343393
+
+Page 91 - Agency ID: eadAllAgenciesForm:allAgenciesList:722:j_id_16_57
+Agency Name: AVERISE AGENCY (96C4343)
+Agency Details: Main Branch:
+304, ORCHARD ROAD, #03-21, LUCKY PLAZA, Singapore - 238863
+67381577
+
+Page 91 - Agency ID: eadAllAgenciesForm:allAgenciesList:723:j_id_16_57
+Agency Name: UNITED CHANNEL SERVICES PTE. LTD. (11C4954)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #01-23, KATONG SHOPPING CENTRE, Singapore - 437844
+63448807
+
+Page 91 - Agency ID: eadAllAgenciesForm:allAgenciesList:724:j_id_16_57
+Agency Name: JLW SINGAPORE EMPLOYMENT SERVICES (09C4863)
+Agency Details: Main Branch:
+22, BOON KENG ROAD, #01-33, Singapore - 330022
+
+Page 91 - Agency ID: eadAllAgenciesForm:allAgenciesList:725:j_id_16_57
+Agency Name: IDEAL DOMESTIC STATION (10C3982)
+Agency Details: Main Branch:
+21, HOUGANG STREET 51, #02-21, HOUGANG GREEN SHOPPING MALL, Singapore - 538719
+62549244
+
+Page 91 - Agency ID: eadAllAgenciesForm:allAgenciesList:726:j_id_16_57
+Agency Name: TM GLOBAL HR CONSULTANCY (07C6575)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #02-22, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+
+Page 91 - Agency ID: eadAllAgenciesForm:allAgenciesList:727:j_id_16_57
+Agency Name: ARJAVA EMPLOYMENT SERVICES (19C9567)
+Agency Details: Main Branch:
+18, KAKI BUKIT ROAD 3, #04-09, ENTREPRENEUR BUSINESS CENTRE, Singapore - 415978
+82687272
+
+Page 92 - Agency ID: eadAllAgenciesForm:allAgenciesList:728:j_id_16_57
+Agency Name: WECARE PTE. LTD. (17C8527)
+Agency Details: Main Branch:
+126, LORONG 1 TOA PAYOH, #01-559B, TOA PAYOH HEIGHTS, Singapore - 310126
+
+Page 92 - Agency ID: eadAllAgenciesForm:allAgenciesList:729:j_id_16_57
+Agency Name: HD MANPOWER PTE. LTD. (08C2962)
+Agency Details: Main Branch:
+390, VICTORIA STREET, #02-57, VILLAGE HOTEL BUGIS, Singapore - 188061
+62610271
+
+Page 92 - Agency ID: eadAllAgenciesForm:allAgenciesList:730:j_id_16_57
+Agency Name: HAYY RESOURCES (06C5123)
+Agency Details: Main Branch:
+101, YISHUN AVENUE 5, #01-31, Singapore - 760101
+82625263
+
+Page 92 - Agency ID: eadAllAgenciesForm:allAgenciesList:731:j_id_16_57
+Agency Name: ERA EMPLOYMENT AGENCY LLP (10C5209)
+Agency Details: Main Branch:
+9B, DA SILVA LANE, #01-00, Singapore - 549737
+62884558
+
+Page 92 - Agency ID: eadAllAgenciesForm:allAgenciesList:732:j_id_16_57
+Agency Name: JIA CHIA MANAGEMENT PTE. LTD. (07C2970)
+Agency Details: Main Branch:
+1B, CANTONMENT ROAD, #45-13, THE PINNACLE @ DUXTON, Singapore - 085201
+62263008
+
+Page 92 - Agency ID: eadAllAgenciesForm:allAgenciesList:733:j_id_16_57
+Agency Name: CRISLO RESOURCES PTE. LTD. (16C7908)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #01-15, KATONG SHOPPING CENTRE, Singapore - 437844
+
+Page 92 - Agency ID: eadAllAgenciesForm:allAgenciesList:734:j_id_16_57
+Agency Name: TOP EMPLOYMENT PTE. LTD. (17C8610)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #01-02C, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64660030
+
+Page 92 - Agency ID: eadAllAgenciesForm:allAgenciesList:735:j_id_16_57
+Agency Name: ORCHARD EMPLOYMENT AGENCY (06C3272)
+Agency Details: Main Branch:
+304, ORCHARD ROAD, #01-40, LUCKY PLAZA, Singapore - 238863
+67321131
+
+Page 93 - Agency ID: eadAllAgenciesForm:allAgenciesList:736:j_id_16_57
+Agency Name: NAYRAMAIDS AGENCY (23C1555)
+Agency Details: Main Branch:
+648A, TAMPINES STREET 62, #07-109, Singapore - 521648
+84989794
+
+Page 93 - Agency ID: eadAllAgenciesForm:allAgenciesList:737:j_id_16_57
+Agency Name: EXTRA HAND MANPOWER SERVICES PTE. LTD. (18C9141)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #05-27, FAR EAST SHOPPING CENTRE, Singapore - 238882
+87661830
+
+Page 93 - Agency ID: eadAllAgenciesForm:allAgenciesList:738:j_id_16_57
+Agency Name: INTEGRATIVE MANPOWER SOLUTIONS PTE. LTD. (21C0721)
+Agency Details: Main Branch:
+81A, CLEMENCEAU AVENUE, #04-20, PARK AVENUE CLEMENCEAU SUITES, Singapore - 239918
+97982978
+
+Page 93 - Agency ID: eadAllAgenciesForm:allAgenciesList:739:j_id_16_57
+Agency Name: SINGAPORE HELPER PTE. LTD. (15C7600)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #B1-100, KATONG SHOPPING CENTRE, Singapore - 437844
+
+Page 93 - Agency ID: eadAllAgenciesForm:allAgenciesList:740:j_id_16_57
+Agency Name: K&K EMPLOYMENT AGENCY (20C0136)
+Agency Details: Main Branch:
+21, TOH GUAN ROAD EAST, #09-12E, TOH GUAN CENTRE, Singapore - 608609
+98330954
+
+Page 93 - Agency ID: eadAllAgenciesForm:allAgenciesList:741:j_id_16_57
+Agency Name: ASCENT MAID & EMPLOYMENT PTE. LTD. (15C7757)
+Agency Details: Main Branch:
+1, SOON LEE STREET, #04-26, PIONEER CENTRE, Singapore - 627605
+86114544
+
+Page 93 - Agency ID: eadAllAgenciesForm:allAgenciesList:742:j_id_16_57
+Agency Name: CARING CAREGIVERS.SG PTE. LTD. (19C9594)
+Agency Details: Main Branch:
+304, SHUNFU ROAD, #05-65, SHUNFU GARDENS, Singapore - 570304
+86067550
+
+Page 93 - Agency ID: eadAllAgenciesForm:allAgenciesList:743:j_id_16_57
+Agency Name: JORY EMPLOYMENT PTE. LTD. (23C1525)
+Agency Details: Main Branch:
+400, ORCHARD ROAD, #02-28, ORCHARD TOWERS, Singapore - 238875
+96827927
+
+Page 94 - Agency ID: eadAllAgenciesForm:allAgenciesList:744:j_id_16_57
+Agency Name: MAY MANPOWER PTE. LTD. (13C6811)
+Agency Details: Main Branch:
+111, NORTH BRIDGE ROAD, #04-06, PENINSULA PLAZA, Singapore - 179098
+
+Page 94 - Agency ID: eadAllAgenciesForm:allAgenciesList:745:j_id_16_57
+Agency Name: VISTA EMPLOYMENT (01C3615)
+Agency Details: Main Branch:
+123, BUKIT MERAH LANE 1, #01-90, Singapore - 150123
+62739255
+
+Page 94 - Agency ID: eadAllAgenciesForm:allAgenciesList:746:j_id_16_57
+Agency Name: HOPE RECRUITMENT PTE. LTD. (21C0601)
+Agency Details: Main Branch:
+140, UPPER BUKIT TIMAH ROAD, #02-21B, BEAUTY WORLD PLAZA, Singapore - 588176
+88305262
+
+Page 94 - Agency ID: eadAllAgenciesForm:allAgenciesList:747:j_id_16_57
+Agency Name: BEE LEE MAID AGENCY PTE. LTD. (15C7728)
+Agency Details: Main Branch:
+2, MAJU AVENUE, #2-C, SERANGOON GARDEN ESTATE, Singapore - 556680
+88769088
+
+Page 94 - Agency ID: eadAllAgenciesForm:allAgenciesList:748:j_id_16_57
+Agency Name: ARC EMPLOYMENT AGENCY (21C0664)
+Agency Details: Main Branch:
+92A, SYED ALWI ROAD, #02-08, Singapore - 207668
+94651772
+
+Page 94 - Agency ID: eadAllAgenciesForm:allAgenciesList:749:j_id_16_57
+Agency Name: ATLANTIC RECRUITMENT PTE. LTD. (18C9319)
+Agency Details: Main Branch:
+34B, SAGO STREET, Singapore - 059026
+92719007
+
+Page 94 - Agency ID: eadAllAgenciesForm:allAgenciesList:750:j_id_16_57
+Agency Name: AZA EMPLOYMENT AGENCY PTE. LTD. (07C5137)
+Agency Details: Main Branch:
+18, JALAN MASJID, #01-08, KEMBANGAN PLAZA, Singapore - 418944
+68484272
+
+Page 94 - Agency ID: eadAllAgenciesForm:allAgenciesList:751:j_id_16_57
+Agency Name: BB NETWORK (22C1316)
+Agency Details: Main Branch:
+105, CECIL STREET, #18-88, THE OCTAGON, Singapore - 069534
+87142741
+
+Page 95 - Agency ID: eadAllAgenciesForm:allAgenciesList:752:j_id_16_57
+Agency Name: EZER EMPLOYMENT AGENCY (21C0653)
+Agency Details: Main Branch:
+22, SIN MING LANE, #06-76, MIDVIEW CITY, Singapore - 573969
+88312456
+
+Page 95 - Agency ID: eadAllAgenciesForm:allAgenciesList:753:j_id_16_57
+Agency Name: FINEST DOMESTIC AND EMPLOYMENT CONSULTANCY PTE. LTD. (24C2147)
+Agency Details: Main Branch:
+130, JURONG GATEWAY ROAD, #04-223, Singapore - 600130
+93687270
+
+Page 95 - Agency ID: eadAllAgenciesForm:allAgenciesList:754:j_id_16_57
+Agency Name: FINEST EMPLOYMENT PTE. LTD. (20C0195)
+Agency Details: Main Branch:
+542, JELAPANG ROAD, #17-46, Singapore - 670542
+90938466
+
+Page 95 - Agency ID: eadAllAgenciesForm:allAgenciesList:755:j_id_16_57
+Agency Name: FLORA MEOW PTE. LTD. (23C1629)
+Agency Details: Main Branch:
+195, PEARL'S HILL TERRACE, #02-26, Singapore - 168976
+91721791
+
+Page 95 - Agency ID: eadAllAgenciesForm:allAgenciesList:756:j_id_16_57
+Agency Name: INTERHELP AGENCY (85C3227)
+Agency Details: Main Branch:
+119, SERANGOON NORTH AVENUE 1, #03-255, Singapore - 550119
+90052188
+
+Page 95 - Agency ID: eadAllAgenciesForm:allAgenciesList:757:j_id_16_57
+Agency Name: JDS EMPLOYMENT AGENCY (18C9025)
+Agency Details: Main Branch:
+104, TECK WHYE LANE, #02-468, Singapore - 680104
+93801906
+
+Page 95 - Agency ID: eadAllAgenciesForm:allAgenciesList:758:j_id_16_57
+Agency Name: JLOW EMPLOYMENT AGENCY (14C7277)
+Agency Details: Main Branch:
+454, GEYLANG ROAD, #0-454B, Singapore - 389413
+
+Page 95 - Agency ID: eadAllAgenciesForm:allAgenciesList:759:j_id_16_57
+Agency Name: LGS EMPLOYMENT AGENCY (12C5905)
+Agency Details: Main Branch:
+587, BUKIT TIMAH ROAD, #03-21, CORONATION PLAZA, Singapore - 269707
+64683831
+
+Page 96 - Agency ID: eadAllAgenciesForm:allAgenciesList:760:j_id_16_57
+Agency Name: NRW EMPLOYMENT PTE. LTD. (16C7885)
+Agency Details: Main Branch:
+20, SIMEI STREET 1, #08-04, MELVILLE PARK, Singapore - 529944
+
+Page 96 - Agency ID: eadAllAgenciesForm:allAgenciesList:761:j_id_16_57
+Agency Name: R.C EMPLOYMENT PTE. LTD. (15C7555)
+Agency Details: Main Branch:
+26A, ST. GEORGE'S LANE, #03-19, ST GEORGE'S TOWERS, Singapore - 321026
+69104576
+
+Page 96 - Agency ID: eadAllAgenciesForm:allAgenciesList:762:j_id_16_57
+Agency Name: RESTORE EMPLOYMENT AGENCY (17C8913)
+Agency Details: Main Branch:
+810, GEYLANG ROAD, #02-108A, CITY PLAZA, Singapore - 409286
+98585866
+
+Page 96 - Agency ID: eadAllAgenciesForm:allAgenciesList:763:j_id_16_57
+Agency Name: WINNERS EMPLOYMENT AGENCY (23C1621)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #04-05, FAR EAST SHOPPING CENTRE, Singapore - 238882
+69939315
+
+Page 96 - Agency ID: eadAllAgenciesForm:allAgenciesList:764:j_id_16_57
+Agency Name: VCARE EMPLOYMENT SERVICES PTE. LTD. (06C5439)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #1-40, KATONG SHOPPING CENTRE, Singapore - 437844
+63440847
+
+Page 96 - Agency ID: eadAllAgenciesForm:allAgenciesList:765:j_id_16_57
+Agency Name: GOLDEN KAYIN MANPOWER PTE. LTD. (11C5006)
+Agency Details: Main Branch:
+111, NORTH BRIDGE ROAD, #5-33, PENINSULA PLAZA, Singapore - 179098
+62740718
+
+Page 96 - Agency ID: eadAllAgenciesForm:allAgenciesList:766:j_id_16_57
+Agency Name: BEST HOME EMPLOYMENT AGENCY PTE. LTD. (96C5039)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #04-33, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64627055
+
+Page 96 - Agency ID: eadAllAgenciesForm:allAgenciesList:767:j_id_16_57
+Agency Name: AA OVERSEAS EMPLOYMENT CENTRE PTE. LTD. (22C1416)
+Agency Details: Main Branch:
+304, ORCHARD ROAD, #04-16, LUCKY PLAZA, Singapore - 238863
+93861161
+
+Page 97 - Agency ID: eadAllAgenciesForm:allAgenciesList:768:j_id_16_57
+Agency Name: MUM SOPHIA AGENCY PTE. LTD. (15C7807)
+Agency Details: Main Branch:
+100, PECK SEAH STREET, #08-14, PS100, Singapore - 079333
+68147977
+
+Page 97 - Agency ID: eadAllAgenciesForm:allAgenciesList:769:j_id_16_57
+Agency Name: ROYAL MANPOWER RESOURCE PTE. LTD. (22C1317)
+Agency Details: Main Branch:
+720, ANG MO KIO AVENUE 6, #01-4110, Singapore - 560720
+62354627
+
+Page 97 - Agency ID: eadAllAgenciesForm:allAgenciesList:770:j_id_16_57
+Agency Name: RELIABLE MANPOWER SERVICES PRIVATE LIMITED (23C1434)
+Agency Details: Main Branch:
+46, EAST COAST ROAD, #10-01, EASTGATE, Singapore - 428766
+63487115
+
+Page 97 - Agency ID: eadAllAgenciesForm:allAgenciesList:771:j_id_16_57
+Agency Name: ANGLESEY PTE. LTD. (17C8547)
+Agency Details: Main Branch:
+190, CLEMENCEAU AVENUE, #03-28, SINGAPORE SHOPPING CENTRE, Singapore - 239924
+65540512
+
+Page 97 - Agency ID: eadAllAgenciesForm:allAgenciesList:772:j_id_16_57
+Agency Name: GMM MANAGEMENT SERVICES PRIVATE LIMITED (17C8654)
+Agency Details: Main Branch:
+44, BEDOK SOUTH ROAD, #02-759, BEDOK SOUTH PARKVIEW, Singapore - 460044
+96627877
+
+Page 97 - Agency ID: eadAllAgenciesForm:allAgenciesList:773:j_id_16_57
+Agency Name: HOME SWEET HOME PROFESSIONAL RECRUITMENT AGENCY PTE. LTD. (20C0124)
+Agency Details: Main Branch:
+304, ORCHARD ROAD, #03-74, LUCKY PLAZA, Singapore - 238863
+67346682
+
+Page 97 - Agency ID: eadAllAgenciesForm:allAgenciesList:774:j_id_16_57
+Agency Name: SEARCHLAB INTERNATIONAL PTE. LTD. (15C7647)
+Agency Details: Main Branch:
+175A, BENCOOLEN STREET, BURLINGTON SQUARE, Singapore - 189650
+63381655
+
+Page 97 - Agency ID: eadAllAgenciesForm:allAgenciesList:775:j_id_16_57
+Agency Name: GUI EMPLOYMENT PTE. LTD. (17C8749)
+Agency Details: Main Branch:
+114A, ALKAFF CRESCENT, #10-16, Singapore - 341114
+63628802
+
+Page 98 - Agency ID: eadAllAgenciesForm:allAgenciesList:776:j_id_16_57
+Agency Name: BESTMATCH HELPER PTE. LTD. (21C0468)
+Agency Details: Main Branch:
+441D, FERNVALE ROAD, #09-347, FERNVALE VISTA, Singapore - 794441
+98852032
+
+Page 98 - Agency ID: eadAllAgenciesForm:allAgenciesList:777:j_id_16_57
+Agency Name: MW MANPOWER SOLUTION (15C7426)
+Agency Details: Main Branch:
+301, SERANGOON AVENUE 2, #01-326, Singapore - 550301
+
+Page 98 - Agency ID: eadAllAgenciesForm:allAgenciesList:778:j_id_16_57
+Agency Name: HOMEMAID SERVICE (19C9774)
+Agency Details: Main Branch:
+350, CLEMENTI AVENUE 2, #08-27, Singapore - 120350
+91176891
+
+Page 98 - Agency ID: eadAllAgenciesForm:allAgenciesList:779:j_id_16_57
+Agency Name: SEETHO CONTRACTING SERVICES PTE LTD (05C4274)
+Agency Details: Main Branch:
+51, CHIN SWEE ROAD, #01-97, Singapore - 160051
+91575099
+
+Page 98 - Agency ID: eadAllAgenciesForm:allAgenciesList:780:j_id_16_57
+Agency Name: AMKY EMPLOYMENT AGENCY PTE. LTD. (23C1863)
+Agency Details: Main Branch:
+2, VENTURE DRIVE, #12-11B, VISION EXCHANGE, Singapore - 608526
+93833179
+
+Page 98 - Agency ID: eadAllAgenciesForm:allAgenciesList:781:j_id_16_57
+Agency Name: JACK FOCUS EMPLOYMENT PTE. LTD. (06C5025)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #03-42, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64693566
+
+Page 98 - Agency ID: eadAllAgenciesForm:allAgenciesList:782:j_id_16_57
+Agency Name: LIS AGENCY PTE. LTD. (14C7098)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, ##01-44, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+65668582
+
+Page 98 - Agency ID: eadAllAgenciesForm:allAgenciesList:783:j_id_16_57
+Agency Name: FAVENT EMPLOYMENT SERVICES PTE. LTD. (19C9967)
+Agency Details: Main Branch:
+60, PAYA LEBAR ROAD, #07-54, PAYA LEBAR SQUARE, Singapore - 409051
+91260964
+
+Page 99 - Agency ID: eadAllAgenciesForm:allAgenciesList:784:j_id_16_57
+Agency Name: FEMME5 AGENCY PTE. LTD. (19C9763)
+Agency Details: Main Branch:
+23, JAMBOL WALK, Singapore - 119305
+88555551
+
+Page 99 - Agency ID: eadAllAgenciesForm:allAgenciesList:785:j_id_16_57
+Agency Name: ANNA EMPLOYMENT PTE. LTD. (18C9397)
+Agency Details: Main Branch:
+810, GEYLANG ROAD, #02-58, CITY PLAZA, Singapore - 409286
+90287169
+
+Page 99 - Agency ID: eadAllAgenciesForm:allAgenciesList:786:j_id_16_57
+Agency Name: MAIDBOOK EMPLOYMENT AGENCY (14C7315)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #02-56, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+64661066
+
+Page 99 - Agency ID: eadAllAgenciesForm:allAgenciesList:787:j_id_16_57
+Agency Name: JOY FOREVER EMPLOYMENT SERVICES (12C5149)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #02-60, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+
+Page 99 - Agency ID: eadAllAgenciesForm:allAgenciesList:788:j_id_16_57
+Agency Name: CREABIT CONSULTANCY & ASSOCIATES PTE. LTD. (17C8811)
+Agency Details: Main Branch:
+1, RIVERVALE LINK, #07-10, THE RIVERVALE, Singapore - 545118
+98431802
+
+Page 99 - Agency ID: eadAllAgenciesForm:allAgenciesList:789:j_id_16_57
+Agency Name: ANGEL EMPLOYMENT AGENCY (20C0351)
+Agency Details: Main Branch:
+170, UPPER BUKIT TIMAH ROAD, #02-61, BUKIT TIMAH SHOPPING CENTRE, Singapore - 588179
+98547766
+
+Page 99 - Agency ID: eadAllAgenciesForm:allAgenciesList:790:j_id_16_57
+Agency Name: JS MANPOWER (11C4788)
+Agency Details: Main Branch:
+111, NORTH BRIDGE ROAD, #04-10, PENINSULA PLAZA, Singapore - 179098
+68226709
+
+Page 99 - Agency ID: eadAllAgenciesForm:allAgenciesList:791:j_id_16_57
+Agency Name: SY MANPOWER SERVICES (17C8784)
+Agency Details: Main Branch:
+545, ORCHARD ROAD, #05-40, FAR EAST SHOPPING CENTRE, Singapore - 238882
+67343711
+
+Page 100 - Agency ID: eadAllAgenciesForm:allAgenciesList:792:j_id_16_57
+Agency Name: ISWAR EMPLOYMENT AGENCY (05C3759)
+Agency Details: Main Branch:
+610, ELIAS ROAD, #01-166, Singapore - 510610
+91377514
+
+Page 100 - Agency ID: eadAllAgenciesForm:allAgenciesList:793:j_id_16_57
+Agency Name: U MAID EMPLOYMENT PTE. LTD. (20C0390)
+Agency Details: Main Branch:
+21, HOUGANG STREET 51, #02-27, HOUGANG GREEN SHOPPING MALL, Singapore - 538719
+69803378
+
+Page 100 - Agency ID: eadAllAgenciesForm:allAgenciesList:794:j_id_16_57
+Agency Name: RAYMOND MAIDS EMPLOYMENT AGENCY PTE. LTD. (23C1781)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #06-20, KATONG SHOPPING CENTRE, Singapore - 437844
+63456788
+
+Page 100 - Agency ID: eadAllAgenciesForm:allAgenciesList:795:j_id_16_57
+Agency Name: SINAR MAS EMPLOYMENT AGENCY (98C2208)
+Agency Details: Main Branch:
+400, BALESTIER ROAD, #02-19, BALESTIER PLAZA, Singapore - 329802
+63559026
+
+Page 100 - Agency ID: eadAllAgenciesForm:allAgenciesList:796:j_id_16_57
+Agency Name: MAIDS CENTRAL PTE. LTD. (17C8553)
+Agency Details: Main Branch:
+8, KITCHENER LINK, #01-71, CITY SQUARE RESIDENCES, Singapore - 207226
+69806312
+
+Page 100 - Agency ID: eadAllAgenciesForm:allAgenciesList:797:j_id_16_57
+Agency Name: ZEAL ASSOCIATES PTE. LTD. (17C8881)
+Agency Details: Main Branch:
+865, MOUNTBATTEN ROAD, #01-69, KATONG SHOPPING CENTRE, Singapore - 437844
+69707479
+
+Page 100 - Agency ID: eadAllAgenciesForm:allAgenciesList:798:j_id_16_57
+Agency Name: RELIABLE EMPLOYMENT SERVICES PRIVATE LIMITED (19C9956)
+Agency Details: Main Branch:
+6, LORONG 25 GEYLANG, #01-01, Singapore - 388289
+92785785
+
+Page 100 - Agency ID: eadAllAgenciesForm:allAgenciesList:799:j_id_16_57
+Agency Name: ITOP MAID AGENCY PTE. LTD. (23C1452)
+Agency Details: Main Branch:
+55, SERANGOON NORTH AVENUE 4, #09-03, S9, Singapore - 555859
+92208133
+

@@ -1,0 +1,94 @@
+Page 501 - Agency ID: eadAllAgenciesForm:allAgenciesList:0:j_id_16_57
+Agency Name: 1 & ONLY RECRUITMENT PTE. LTD. (24C2259)
+Agency Details: Main Branch:
+112, ROBINSON ROAD, #03-02, ROBINSON 112, Singapore - 068902
+88833145
+
+Page 501 - Agency ID: eadAllAgenciesForm:allAgenciesList:1:j_id_16_57
+Agency Name: 365 EMPLOYMENT AGENCY PTE. LTD. (23C1633)
+Agency Details: Main Branch:
+316B, PUNGGOL WAY, #05-719, WATERWAY CASCADIA, Singapore - 822316
+93691511
+
+Page 501 - Agency ID: eadAllAgenciesForm:allAgenciesList:2:j_id_16_57
+Agency Name: 5ZAL MANPOWER SERVICE PTE. LTD. (23C1938)
+Agency Details: Main Branch:
+32, ANG MO KIO INDUSTRIAL PARK 2, #05-01, SING INDUSTRIAL COMPLEX, Singapore - 569510
+88230304
+
+Page 501 - Agency ID: eadAllAgenciesForm:allAgenciesList:3:j_id_16_57
+Agency Name: ABER CARE PTE. LTD. (18C9070)
+Agency Details: Main Branch:
+1, THOMSON ROAD, #04-346G, BALESTIER HILL SHOPPING CENTRE, Singapore - 300001
+67219231
+
+Page 501 - Agency ID: eadAllAgenciesForm:allAgenciesList:0:j_id_16_57
+Agency Name: 1 & ONLY RECRUITMENT PTE. LTD. (24C2259)
+Agency Details: Main Branch:
+112, ROBINSON ROAD, #03-02, ROBINSON 112, Singapore - 068902
+88833145
+
+Page 501 - Agency ID: eadAllAgenciesForm:allAgenciesList:1:j_id_16_57
+Agency Name: 365 EMPLOYMENT AGENCY PTE. LTD. (23C1633)
+Agency Details: Main Branch:
+316B, PUNGGOL WAY, #05-719, WATERWAY CASCADIA, Singapore - 822316
+93691511
+
+Page 501 - Agency ID: eadAllAgenciesForm:allAgenciesList:2:j_id_16_57
+Agency Name: 5ZAL MANPOWER SERVICE PTE. LTD. (23C1938)
+Agency Details: Main Branch:
+32, ANG MO KIO INDUSTRIAL PARK 2, #05-01, SING INDUSTRIAL COMPLEX, Singapore - 569510
+88230304
+
+Page 501 - Agency ID: eadAllAgenciesForm:allAgenciesList:3:j_id_16_57
+Agency Name: N/A
+Agency Details: N/A
+
+Page 501 - Agency ID: eadAllAgenciesForm:allAgenciesList:0:j_id_16_57
+Agency Name: 1 & ONLY RECRUITMENT PTE. LTD. (24C2259)
+Agency Details: Main Branch:
+112, ROBINSON ROAD, #03-02, ROBINSON 112, Singapore - 068902
+88833145
+
+Page 501 - Agency ID: eadAllAgenciesForm:allAgenciesList:1:j_id_16_57
+Agency Name: 365 EMPLOYMENT AGENCY PTE. LTD. (23C1633)
+Agency Details: Main Branch:
+316B, PUNGGOL WAY, #05-719, WATERWAY CASCADIA, Singapore - 822316
+93691511
+
+Page 501 - Agency ID: eadAllAgenciesForm:allAgenciesList:3:j_id_16_57
+Agency Name: ABER CARE PTE. LTD. (18C9070)
+Agency Details: Main Branch:
+1, THOMSON ROAD, #04-346G, BALESTIER HILL SHOPPING CENTRE, Singapore - 300001
+67219231
+
+Page 501 - Agency ID: eadAllAgenciesForm:allAgenciesList:4:j_id_16_57
+Agency Name: ACE STAFFING PTE. LTD. (22C1338)
+Agency Details: Main Branch:
+60, JALAN LAM HUAT, #06-20, CARROS CENTRE, Singapore - 737869
+82819293
+
+Page 501 - Agency ID: eadAllAgenciesForm:allAgenciesList:5:j_id_16_57
+Agency Name: AEMEO PROFESSIONAL CONSULTANCY (22C1246)
+Agency Details: Main Branch:
+85, PASIR RIS GROVE, #02-08, NV RESIDENCES, Singapore - 518212
+89141131
+
+Page 501 - Agency ID: eadAllAgenciesForm:allAgenciesList:0:j_id_16_57
+Agency Name: 1 & ONLY RECRUITMENT PTE. LTD. (24C2259)
+Agency Details: Main Branch:
+112, ROBINSON ROAD, #03-02, ROBINSON 112, Singapore - 068902
+88833145
+
+Page 501 - Agency ID: eadAllAgenciesForm:allAgenciesList:4368:j_id_16_57
+Agency Name: WENYU RECRUITMENT PTE. LTD. (16C7972)
+Agency Details: Main Branch:
+2, PUAY HEE AVENUE, SENNETT ESTATE, Singapore - 348104
+62808839
+
+Page 502 - Agency ID: eadAllAgenciesForm:allAgenciesList:0:j_id_16_57
+Agency Name: 1 & ONLY RECRUITMENT PTE. LTD. (24C2259)
+Agency Details: Main Branch:
+112, ROBINSON ROAD, #03-02, ROBINSON 112, Singapore - 068902
+88833145
+
